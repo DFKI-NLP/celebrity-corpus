@@ -1,0 +1,166 @@
+================================================================================
+Corpus "Celebrity" for annotation of relation-extraction experiments
+--------------------------------------------------------------------------------
+Version: 1.1 2013-10-08 - bug-fixed first release
+Contact: dare@dfki.de
+
+================================================================================
+Changelog:
+--------------------------------------------------------------------------------
+Version 1.1:
+ * fixed bug in XML output
+
+================================================================================
+General information:
+--------------------------------------------------------------------------------
+This package contains the corpus "Celebrity", a corpus annotated with relation
+mentions for the evaluation of relation extraction (RE) experiments. Three
+semantic relations have been annotated, each of them dealing with people's
+family relationships (marriages, brother/sister, parent/child). The corpus
+consists of more than one hundred articles from the online edition of the PEOPLE
+magazine. The annotation is provided in two formats, one following a
+column-oriented CoNLL-like style, and one being XML-based.
+
+================================================================================
+Corpus & annotation process:
+--------------------------------------------------------------------------------
+The following relations were annotated:
+
+> marriage: relates spouses, optionally including information about the date of
+            marriage, the date of divorce, and the location of the marriage
+            ceremony. Maps to Freebase: /people/marriage.
+
+-----------------------------------------------------------
+argument   required   values   Freebase equivalent
+-----------------------------------------------------------
+person        yes       =2     /people/marriage/spouse
+from          no       <=1     /people/marriage/from
+to            no       <=1     /people/marriage/to
+ceremony      no       <=1     /people/marriage/ceremony
+-----------------------------------------------------------
+
+> person_parent: relates parents to their children. Maps to Freebase:
+                 /people/person/parents.
+
+-----------------------------------------------------------
+argument   required   values   Freebase equivalent
+-----------------------------------------------------------
+person       yes       >=1      /people/person
+parent       yes     1<=x<=2    /people/person/parents
+-----------------------------------------------------------
+
+> sibling_relationship: relates siblings. Maps to Freebase:
+                        /people/sibling_relationship.
+
+-----------------------------------------------------------
+argument   required   values   Freebase equivalent
+-----------------------------------------------------------
+person        yes      >=2    /people/sibling_relationship
+-----------------------------------------------------------
+
+The annotation of this corpus is restricted to instances of relations which are
+mentioned within a sentence. Relation mentions whose arguments cross sentence
+boundaries were treated as independent relation mentions. In order for a
+relation mention to be annotated, all of the required arguments of the relation
+definition must be mentioned. Consider the following snippet which does not
+contain any relation mention that corresponds to this guideline: Mark married in
+2000. The bride Joanne looked beautiful that day.
+
+Entity mentions considered as argument candidates are limited to: proper nouns,
+proper names, personal pronouns, possessive pronouns. Hence, the following text
+piece does not constitute a relation mention, as it does not contain a valid
+reference to the husband: Her husband went home.
+
+Often sentences contain several references to a certain entity. The annotators
+were instructed to choose the one entity reference which is closest and most
+relevant to the relation mention.
+
+The following table lists some statistics of the corpus and the annotation:
+
+-------------------------------------------
+# Documents                           142
+-------------------------------------------
+# Sentences                         25065
+-------------------------------------------
+# Sentences w/ relation mentions      967
+-------------------------------------------
+# Relation mentions
+(total)                              1220
+(marriage)                            421
+(person_parent)                       550
+(sibling_relationship)                249
+-------------------------------------------
+
+The corpus has been annotated by two independent annotators, conflicts were
+decided by a third annotator. The inter-annotator agreement on the
+relation-mention level is as follows:
+
+--------------------------------------------------------------------------------
+              marriage   person_parent   sibling_relationship   micro-average
+--------------------------------------------------------------------------------
+agr(A1||A2)    0.8792       0.7258             0.7686              0.7876
+agr(A2||A1)    0.8486       0.7846             0.8502              0.8211
+F1             0.8636       0.7541             0.8073              0.8040
+--------------------------------------------------------------------------------
+
+agr(A||B): proportion of A's annotations that were also marked by B
+
+The inter-annotator agreement on the sentence level is:
+
+--------------------------------------------------------------------------------
+                 marriage   person_parent   sibling_relationship   micro-average
+--------------------------------------------------------------------------------
+agreement
+  overall         0.9980       0.9954            0.9975               0.9970
+  positive        0.9358       0.8745            0.8545               0.8926
+  negative        0.9990       0.9976            0.9988               0.9985
+--------------------------------------------------------------------------------
+Cohen’s kappa     0.9348       0.8721            0.8532               0.8910
+--------------------------------------------------------------------------------
+Pearson's
+correlation       0.9349       0.8730            0.8546               0.8554
+coefficient
+--------------------------------------------------------------------------------
+
+positive/negative agreement: probability, given that one rater makes a positive/
+                             negative rating, the other rater will also do so
+                             (non-directional)
+
+Cohen’s kappa: overall agreement with correction for agreement by chance
+
+Pearson's correlation coefficient: measure of the strength of linear dependence
+                                   between two variables
+
+================================================================================
+Data format:
+--------------------------------------------------------------------------------
+Directory structure:
+
+ /                  - package root
+ |
+ |--README          - this file
+ |
+ |--conll/          - annotation in CoNLL-like format
+ |
+ |--xml/            - annotation in XML format
+
+CoNLL-like format:
+
+Files are UTF-8 encoded. Each file corresponds to a news article. Sentences have
+been automatically split and segmented. Sentences are separated by blank lines,
+each token appears on its own line. Further columns, separated by a tab
+character, represent annotated relation mentions, one relation mention per
+column. The format is as follows:
+
+(RELATION:ARGUMENT*) : token is a relation argument
+(RELATION:ARGUMENT*  : token is the beginning of a relation argument
+*)                   : token is the end of a relation argument
+*                    : depending on the prior tokens, this token is/is not part
+                       of a relation mention
+
+XML format:
+
+Files are UTF-8 encoded. Each file corresponds to a news article. The document
+text is neither sentence-wise nor token-wise segmented. Relation mentions are
+listed at the end of the files, after the text of the article.
+

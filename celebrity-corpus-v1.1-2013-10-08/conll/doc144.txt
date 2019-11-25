@@ -1,0 +1,2667 @@
+Three	
+chicks	
+go	
+into	
+a	
+bar	
+.	
+
+Seriously	
+.	
+
+"	*	
+We	*	
+go	*	
+to	*	
+trivia	*	
+night	*	
+,	*	
+"	*	
+says	*	
+Dixie	*	
+Chick	*	
+Natalie	*	
+Maines	*	
+,	*	
+explaining	*	
+why	*	
+she	*	
+and	*	
+her	*	
+fellow	*	
+Chicks	*	
+,	*	
+sisters	*	
+Emily	(sibling_relationship:person*	
+Robison	*)	
+and	*	
+Martie	(sibling_relationship:person*	
+Maguire	*)	
+,	*	
+turn	*	
+up	*	
+most	*	
+Tuesday	*	
+nights	*	
+at	*	
+an	*	
+Irish	*	
+pub	*	
+near	*	
+their	*	
+home	*	
+base	*	
+of	*	
+Austin	*	
+,	*	
+Texas	*	
+.	*	
+
+"	
+They	
+call	
+out	
+questions	
+,	
+and	
+every	
+table	
+is	
+a	
+team	
+.	
+"	
+
+"	
+Do	
+n't	
+say	
+our	
+team	
+name	
+,	
+"	
+blurts	
+a	
+mortified	
+Maguire	
+,	
+sipping	
+a	
+glass	
+of	
+red	
+wine	
+in	
+an	
+Austin	
+restaurant	
+.	
+
+"	
+We	
+'re	
+going	
+to	
+lose	
+fans	
+.	
+"	
+
+Maines	
+is	
+undaunted	
+.	
+
+"	
+The	
+name	
+of	
+our	
+team	
+is	
+Kenny	
+Chesney	
+Stuffs	
+His	
+Pants	
+with	
+a	
+Pimento	
+Cheese	
+Sandwich	
+"	
+—	
+a	
+bawdy	
+reference	
+to	
+the	
+hard-bodied	
+country	
+star	
+whose	
+jeans	
+appear	
+not	
+so	
+much	
+fitted	
+as	
+painted	
+on	
+.	
+
+"	
+Is	
+n't	
+that	
+a	
+great	
+trivia	
+name	
+?	
+
+They	
+say	
+it	
+every	
+single	
+round	
+!	
+
+They	
+'ll	
+go	
+,	
+'	
+Kenny	
+Chesney	
+Stuffs	
+His	
+Pants	
+with	
+a	
+Pimento	
+Cheese	
+Sandwich	
+,	
+23	
+points	
+!	
+'	
+
+And	
+everyone	
+laughs	
+.	
+"	
+
+No	
+,	
+the	
+Chicks	
+have	
+never	
+been	
+the	
+shy	
+sort	
+.	
+
+(	
+Chesney	
+,	
+for	
+the	
+record	
+,	
+takes	
+the	
+ribbing	
+in	
+stride	
+.	
+
+"	
+They	
+said	
+what	
+?	
+"	
+
+he	
+asks	
+,	
+cracking	
+up	
+at	
+his	
+former	
+tour	
+mates	
+'	
+gag	
+.	
+
+"	
+Least	
+they	
+'re	
+lookin	
+'	
+.	
+"	
+)	
+
+Gutsy	
+and	
+confrontational	
+,	
+the	
+trio	
+rocked	
+Nashville	
+off	
+its	
+formulaic	
+hinges	
+with	
+their	
+1998	
+debut	
+,	
+Wide	
+Open	
+Spaces	
+,	
+and	
+since	
+then	
+have	
+sold	
+25	
+million	
+CDs	
+and	
+racked	
+up	
+four	
+Grammys	
+and	
+10	
+Country	
+Music	
+Association	
+awards	
+.	
+
+"	
+The	
+Chicks	
+are	
+my	
+favorite	
+singing	
+group	
+,	
+"	
+says	
+Stevie	
+Nicks	
+,	
+whose	
+1975	
+Fleetwood	
+Mac	
+hit	
+"	
+Landslide	
+"	
+is	
+covered	
+on	
+the	
+trio	
+'s	
+recent	
+CD	
+Home	
+.	
+
+"	
+If	
+I	
+were	
+younger	
+,	
+I	
+would	
+at	
+this	
+minute	
+be	
+convincing	
+them	
+that	
+I	
+should	
+be	
+the	
+fourth	
+Dixie	
+Chick	
+.	
+'	
+"	
+
+Careful	
+what	
+you	
+wish	
+for	
+.	
+
+Not	
+only	
+do	
+the	
+three	
+women	
+work	
+and	
+tour	
+together	
+,	
+they	
+shop	
+together	
+,	
+work	
+out	
+together	
+(	
+yoga	
+is	
+a	
+current	
+passion	
+)	
+and	
+even	
+play	
+bingo	
+together	
+.	
+
+Their	*	
+homes	*	
+are	*	
+within	*	
+driving	*	
+distance	*	
+,	*	
+and	*	
+all	*	
+three	*	
+turned	*	
+up	*	
+in	*	
+the	*	
+delivery	*	
+room	*	
+when	*	
+Robison	(person_parent:parent*)	
+gave	*	
+birth	*	
+in	*	
+November	*	
+to	*	
+son	*	
+Charles	(person_parent:person*	
+Augustus	*)	
+.	*	
+
+"	
+We	
+'re	
+all	
+sisters	
+out	
+here	
+,	
+"	
+says	
+Maines	
+.	
+
+As	
+with	
+any	
+siblings	
+,	
+sometimes	
+tempers	
+can	
+flare	
+.	
+
+But	
+if	
+one	
+acts	
+up	
+,	
+adds	
+Maines	
+,	
+"	
+we	
+'re	
+close	
+enough	
+to	
+go	
+,	
+'	
+You	
+'re	
+being	
+a	
+bitch	
+,	
+you	
+need	
+to	
+stop	
+.	
+'	
+
+Just	
+like	
+sisters	
+would	
+.	
+"	
+
+Now	
+,	
+after	
+a	
+three-month	
+break	
+from	
+the	
+limelight	
+,	
+the	
+Chicks	
+are	
+set	
+to	
+sing	
+the	
+national	
+anthem	
+at	
+the	
+Super	
+Bowl	
+Jan.	
+26	
+and	
+perform	
+at	
+the	
+Grammys	
+Feb.	
+23	
+,	
+where	
+they	
+are	
+up	
+for	
+seven	
+awards	
+,	
+including	
+Album	
+of	
+the	
+Year	
+.	
+
+Would	
+they	
+like	
+to	
+win	
+?	
+
+Sure	
+.	
+
+But	
+the	
+Chicks	
+say	
+they	
+'re	
+looking	
+for	
+other	
+rewards	
+now	
+.	
+
+"	
+I	
+neglected	
+a	
+lot	
+of	
+loving	
+relationships	
+to	
+pursue	
+this	
+ultimate	
+goal	
+—	
+success	
+,	
+"	
+says	
+Maguire	
+,	
+33	
+.	
+
+"	
+Now	
+we	
+take	
+the	
+time	
+to	
+realize	
+what	
+'s	
+important	
+.	
+
+Family	
+comes	
+first	
+.	
+"	
+
+But	
+not	
+always	
+easily	
+.	
+
+After	*	*	*	
+Maines	*	*	*	
+gave	*	*	*	
+birth	*	*	*	
+to	*	*	*	
+Jackson	*	(person_parent:person*	*	
+Slade	*	*)	*	
+,	*	*	*	
+almost	*	*	*	
+2	*	*	*	
+,	*	*	*	
+her	*	(person_parent:parent*)	(marriage:person*)	
+son	*	*	*	
+with	*	*	*	
+actor	*	*	*	
+husband	*	*	*	
+Adrian	*	(person_parent:parent*	(marriage:person*	
+Pasdar	*	*)	*)	
+,	*	*	*	
+in	*	*	*	
+March	*	*	*	
+2001	*	*	*	
+,	*	*	*	
+she	*	*	*	
+and	*	*	*	
+Maguire	*	*	*	
+watched	*	*	*	
+Emily	*	*	*	
+and	*	*	*	
+her	(marriage:person*)	*	*	
+husband	*	*	*	
+,	*	*	*	
+Charlie	(marriage:person*	*	*	
+Robison	*)	*	*	
+,	*	*	*	
+struggle	*	*	*	
+to	*	*	*	
+have	*	*	*	
+a	*	*	*	
+baby	*	*	*	
+of	*	*	*	
+their	*	*	*	
+own	*	*	*	
+.	*	*	*	
+
+"	
+It	
+was	
+a	
+journey	
+,	
+"	
+says	
+Emily	
+,	
+30	
+,	
+who	
+married	
+in	
+May	
+'	
+99	
+.	
+
+"	
+Our	
+frustration	
+level	
+was	
+high	
+.	
+"	
+
+Over	
+the	
+course	
+of	
+two	
+years	
+,	
+she	
+underwent	
+laparoscopic	
+surgery	
+to	
+rule	
+out	
+physical	
+problems	
+,	
+endured	
+several	
+failed	
+artificial	
+inseminations	
+,	
+then	
+finally	
+received	
+daily	
+fertility	
+injections	
+and	
+had	
+her	
+eggs	
+harvested	
+for	
+in	
+vitro	
+fertilization	
+.	
+
+Maines	
+,	
+28	
+,	
+who	
+got	
+pregnant	
+"	
+first	
+try	
+,	
+"	
+tears	
+up	
+at	
+the	
+memories	
+.	
+
+"	
+You	
+ask	
+why	
+is	
+this	
+happening	
+to	
+her	
+?	
+"	
+
+For	
+Maguire	
+,	
+the	
+experience	
+was	
+even	
+more	
+personal	
+.	
+
+"	
+It	
+'s	
+tough	
+having	
+to	
+watch	
+your	
+sister	
+give	
+herself	
+injections	
+,	
+worry	
+about	
+a	
+million	
+medications	
+and	
+see	
+different	
+doctors	
+in	
+different	
+cities	
+on	
+the	
+road	
+,	
+"	
+she	
+says	
+.	
+
+Which	
+made	
+things	
+that	
+much	
+more	
+joyous	
+when	
+Emily	
+—	
+with	
+her	
+sister	
+and	
+Maines	
+on	
+hand	
+—	
+delivered	
+8	
+lb	
+.	
+
+13	
+oz	
+.	
+
+Gus	
+in	
+Methodist	
+Hospital	
+in	
+San	
+Antonio	
+.	
+
+"	
+She	
+was	
+at	
+,	
+like	
+,	
+two	
+centimeters	
+,	
+"	
+says	
+Maines	
+,	
+"	
+and	
+she	
+saw	
+where	
+this	
+was	
+going	
+and	
+said	
+,	
+'	
+Drugs	
+,	
+please	
+!	
+'	
+
+She	
+'s	
+not	
+even	
+in	
+the	
+pain	
+club	
+.	
+"	
+
+Or	
+,	
+for	
+that	
+matter	
+,	
+the	
+privacy	
+club	
+.	
+
+"	
+I	
+said	
+,	
+'	
+Y'	
+all	
+come	
+on	
+in	
+.	
+'	
+
+I	
+wanted	
+everybody	
+to	
+enjoy	
+it	
+.	
+"	
+
+Martie	
+,	
+eyeing	
+her	
+sister	
+,	
+says	
+,	
+"	
+You	
+were	
+in	
+the	
+best	
+mood	
+—	
+you	
+were	
+on	
+Demerol	
+!	
+
+Then	
+Charlie	
+came	
+out	
+and	
+said	
+,	
+'Em	
+ily	
+'d	
+like	
+you	
+,	
+Martie	
+,	
+to	
+videotape	
+and	
+Natalie	
+to	
+take	
+pictures	
+.	
+'	
+
+We	
+were	
+elated	
+.	
+"	
+
+Maguire	(marriage:person*)	
+,	*	
+who	*	
+has	*	
+been	*	
+trying	*	
+for	*	
+a	*	
+year	*	
+to	*	
+get	*	
+pregnant	*	
+naturally	*	
+with	*	
+second	*	
+husband	*	
+Gareth	(marriage:person*	
+Maguire	*)	
+,	*	
+28	*	
+,	*	
+admits	*	
+her	*	
+sister	*	
+'s	*	
+ordeal	*	
+concerns	*	
+her	*	
+.	*	
+
+"	
+I	
+'m	
+33	
+and	
+I	
+realize	
+fertility	
+'s	
+not	
+a	
+given	
+,	
+it	
+'s	
+a	
+gift	
+.	
+"	
+
+Diagnosed	
+last	
+December	
+with	
+endometriosis	
+,	
+she	
+underwent	
+laparoscopic	
+surgery	
+to	
+remove	
+the	
+growths	
+and	
+improve	
+her	
+chances	
+of	
+conceiving	
+.	
+
+So	*	
+far	*	
+she	*	
+'s	*	
+not	*	
+ready	*	
+to	*	
+take	*	
+any	*	
+more	*	
+proactive	*	
+steps	*	
+,	*	
+noting	*	
+her	(sibling_relationship:person*)	
+older	*	
+sister	*	
+Julia	(sibling_relationship:person*)	
+,	*	
+35	*	
+,	*	
+an	*	
+administrator	*	
+at	*	
+Stanford	*	
+University	*	
+Law	*	
+School	*	
+,	*	
+easily	*	
+conceived	*	
+her	*	
+two	*	
+kids	*	
+in	*	
+her	*	
+30s	*	
+.	*	
+
+"	
+There	
+'s	
+no	
+reason	
+to	
+get	
+aggressive	
+yet	
+,	
+"	
+she	
+says	
+.	
+
+For	
+all	
+three	
+Chicks	
+the	
+embrace	
+of	
+music	
+and	
+family	
+has	
+always	
+been	
+tight	
+.	
+
+Martha	(person_parent:person*)	(sibling_relationship:person*)	
+and	*	*	
+Emily	(person_parent:person*	(sibling_relationship:person*	
+Erwin	*)	*)	
+,	*	*	
+daughters	*	*	
+of	*	*	
+music-loving	*	*	
+teachers	*	*	
+Paul	(person_parent:parent*)	*	
+(	*	*	
+country	*	*	
+)	*	*	
+and	*	*	
+Barbara	(person_parent:parent*)	*	
+(	*	*	
+classical	*	*	
+)	*	*	
+,	*	*	
+grew	*	*	
+up	*	*	
+in	*	*	
+Dallas	*	*	
+,	*	*	
+where	*	*	
+Dad	*	*	
+was	*	*	
+headmaster	*	*	
+of	*	*	
+a	*	*	
+private	*	*	
+school	*	*	
+.	*	*	
+
+They	
+studied	
+violin	
+at	
+home	
+and	
+joined	
+a	
+kids	
+band	
+by	
+the	
+time	
+they	
+were	
+teens	
+.	
+
+In	
+1989	
+the	
+sisters	
+formed	
+the	
+Dixie	
+Chicks	
+with	
+Robin	
+Macy	
+(	
+guitar	
+)	
+and	
+bassist-singer	
+Laura	
+Lynch	
+.	
+
+(	
+The	
+name	
+comes	
+from	
+Little	
+Feat	
+'s	
+'70s	
+hit	
+"	
+Dixie	
+Chicken	
+.	
+"	
+)	
+
+Even	
+as	
+Emily	
+finished	
+high	
+school	
+—	
+"	
+She	
+faxed	
+her	
+calculus	
+homework	
+in	
+before	
+gigs	
+,	
+"	
+says	
+Martie	
+—	
+they	
+played	
+street	
+corners	
+in	
+spangled	
+cowgirl	
+garb	
+,	
+with	
+Emily	
+on	
+banjo	
+and	
+Martie	
+on	
+fiddle	
+.	
+
+"	
+In	
+our	
+first	
+hour	
+,	
+"	
+says	
+Emily	
+,	
+"	
+we	
+collected	
+$	
+375	
+.	
+
+So	
+we	
+thought	
+we	
+might	
+want	
+to	
+do	
+something	
+with	
+this	
+.	
+"	
+
+Maines	(person_parent:person*)	*	
+,	*	*	
+meanwhile	*	*	
+,	*	*	
+grew	*	*	
+up	*	*	
+in	*	*	
+Lubbock	*	*	
+,	*	*	
+Texas	*	*	
+,	*	*	
+one	*	*	
+of	*	*	
+two	*	*	
+daughters	*	*	
+of	*	*	
+veteran	*	*	
+sessions	*	*	
+pedal	*	*	
+steel	*	*	
+player	*	*	
+Lloyd	(person_parent:parent*	(marriage:person*	
+Maines	*)	*)	
+and	*	*	
+his	*	*	
+wife	*	*	
+,	*	*	
+Tina	(person_parent:parent*)	(marriage:person*)	
+.	*	*	
+
+Natalie	
+was	
+,	
+says	
+Lloyd	
+,	
+a	
+born	
+belter	
+:	
+"	
+Even	
+at	
+6	
+she	
+could	
+sing	
+totally	
+in	
+tune	
+and	
+hear	
+harmonies	
+.	
+
+She	
+absorbed	
+everything	
+.	
+
+She	
+was	
+fearless	
+.	
+"	
+
+After	
+graduating	
+from	
+high	
+school	
+in	
+1991	
+she	
+briefly	
+attended	
+several	
+colleges	
+,	
+including	
+Boston	
+'s	
+Berklee	
+College	
+of	
+Music	
+.	
+
+"	
+No	
+one	
+knew	
+what	
+country	
+or	
+bluegrass	
+was	
+,	
+so	
+I	
+became	
+the	
+country	
+flag-waver	
+to	
+be	
+different	
+.	
+"	
+
+By	
+the	
+mid	
+-	
+'90s	
+the	
+Chicks	
+were	
+selling	
+their	
+three	
+self-made	
+CDs	
+out	
+of	
+their	
+RVs	
+.	
+
+Their	
+steel	
+player	
+was	
+often	
+Lloyd	
+Maines	
+,	
+who	
+proudly	
+gave	
+the	
+sisters	
+daughter	
+Natalie	
+'s	
+Berklee	
+audition	
+tape	
+.	
+
+If	
+they	
+were	
+blown	
+away	
+,	
+it	
+was	
+n't	
+mutual	
+.	
+
+"	
+We	
+'d	
+play	
+Lubbock	
+,	
+and	
+Lloyd	
+would	
+have	
+us	
+for	
+dinner	
+,	
+"	
+says	
+Martie	
+,	
+"	
+but	
+Natalie	
+always	
+had	
+something	
+else	
+to	
+do	
+.	
+
+She	
+thought	
+we	
+were	
+so	
+uncool	
+.	
+"	
+
+In	
+a	
+rut	
+in	
+late	
+1995	
+,	
+the	
+Chicks	
+fired	
+Lynch	
+(	
+Macy	
+left	
+early	
+on	
+)	
+and	
+invited	
+Natalie	
+in	
+as	
+lead	
+singer	
+.	
+
+Immediately	
+her	
+high-octane	
+swagger	
+and	
+powerhouse	
+pipes	
+recharged	
+the	
+Chicks	
+.	
+
+"	
+It	
+was	
+destiny	
+,	
+"	
+says	
+Emily	
+.	
+
+Personal	
+bonds	
+took	
+longer	
+to	
+forge	
+.	
+
+"	
+We	
+knew	
+nothing	
+about	
+each	
+other	
+,	
+"	
+says	
+Natalie	
+.	
+
+Then	
+in	
+1999	
+,	
+as	
+the	
+trio	
+'s	
+debut	
+CD	
+took	
+off	
+,	
+Maguire	
+'s	
+and	
+Maines	
+'s	
+marriages	
+collapsed	
+.	
+
+"	*	
+One	*	
+day	*	
+I	*	
+just	*	
+burst	*	
+into	*	
+the	*	
+studio	*	
+and	*	
+said	*	
+,	*	
+'	*	
+I	*	
+'m	*	
+getting	*	
+a	*	
+divorce	*	
+,	*	
+'	*	
+"	*	
+recalls	*	
+Natalie	(marriage:person*)	
+,	*	
+then	*	
+married	*	
+for	*	
+19	*	
+months	*	
+to	*	
+bass	*	
+player	*	
+Michael	(marriage:person*	
+Tarabay	*)	
+.	*	
+
+"	
+And	
+Martie	
+burst	
+into	
+tears	
+and	
+said	
+,	
+'	
+I	
+'m	
+not	
+happy	
+either	
+.	
+'	
+
+It	
+broke	
+down	
+a	
+wall	
+between	
+us	
+.	
+
+We	
+had	
+n't	
+been	
+honest	
+with	
+each	
+other	
+about	
+our	
+lives	
+outside	
+the	
+Chicks	
+.	
+"	
+
+Natalie	
+,	
+who	
+blames	
+her	
+breakup	
+on	
+being	
+"	
+too	
+young	
+,	
+"	
+offered	
+support	
+to	
+Martie	
+,	
+who	
+says	
+long	
+times	
+apart	
+caused	
+her	
+eventual	
+split	
+from	
+drug	
+firm	
+rep	
+Ted	
+Seidel	
+.	
+
+"	
+Night	
+after	
+night	
+,	
+"	
+says	
+Martie	
+,	
+"	
+Nat	
+and	
+I	
+had	
+facing	
+bunks	
+in	
+our	
+RV	
+and	
+we	
+'d	
+have	
+our	
+curtains	
+drawn	
+and	
+talk	
+.	
+
+Our	
+divorces	
+made	
+us	
+real	
+to	
+each	
+other	
+.	
+"	
+
+And	*	
+almost	*	
+too	*	
+real	*	
+for	*	
+Emily	*	
+,	*	
+who	*	
+was	*	
+planning	*	
+her	(marriage:person*)	
+wedding	*	
+to	*	
+musician	*	
+Robison	(marriage:person*)	
+,	*	
+38	*	
+.	*	
+
+"	
+They	
+were	
+trying	
+to	
+save	
+me	
+from	
+the	
+drama	
+,	
+"	
+says	
+Emily	
+.	
+
+"	
+I	
+just	
+wanted	
+to	
+know	
+,	
+'	
+How	
+much	
+is	
+the	
+caterer	
+?	
+'	
+
+I	
+was	
+on	
+cloud	
+nine	
+,	
+and	
+my	
+way	
+of	
+empathizing	
+was	
+staying	
+out	
+of	
+their	
+way	
+.	
+"	
+
+There	
+'s	
+no	
+staying	
+out	
+of	
+anyone	
+'s	
+way	
+now	
+.	
+
+Maines	*	*	*	*	*	
+met	*	*	*	*	*	
+Pasdar	*	*	*	*	*	
+,	*	*	*	*	*	
+37	*	*	*	*	*	
+,	*	*	*	*	*	
+at	*	*	*	*	*	
+Emily	*	*	*	*	(marriage:person*)	
+'s	*	*	*	*	*	
+wedding	*	*	*	*	*	
+,	*	*	*	*	*	
+where	*	*	*	*	*	
+he	*	*	*	*	*	
+was	*	*	*	*	*	
+a	*	*	*	*	*	
+groomsman	*	*	*	*	*	
+to	*	*	*	*	*	
+pal	*	*	*	*	*	
+Robison	*	*	*	*	(marriage:person*)	
+,	*	*	*	*	*	
+she	*	*	*	*	*	
+a	*	*	*	*	*	
+bridesmaid	*	*	*	*	*	
+(	*	*	*	*	*	
+they	*	*	*	*	*	
+married	*	*	*	*	*	
+in	*	*	*	*	*	
+Las	*	*	*	*	*	
+Vegas	*	*	*	*	*	
+in	*	*	*	*	*	
+June	*	*	*	*	*	
+2000	*	*	*	*	*	
+)	*	*	*	*	*	
+;	*	*	*	*	*	
+Martie	(marriage:person*)	*	*	*	*	
+met	*	*	*	*	*	
+husband	*	*	*	*	*	
+Maguire	(marriage:person*)	*	*	*	*	
+when	*	*	*	*	*	
+he	*	*	*	*	*	
+was	*	*	*	*	*	
+best	*	*	*	*	*	
+man	*	*	*	*	*	
+for	*	*	*	*	*	
+his	*	*	(sibling_relationship:person*)	*	*	
+brother	*	*	*	*	*	
+Shane	*	(marriage:person*)	(sibling_relationship:person*)	*	*	
+,	*	*	*	*	*	
+who	*	*	*	*	*	
+married	*	*	*	*	*	
+Natalie	*	*	*	(sibling_relationship:person*)	*	
+'s	*	*	*	*	*	
+sister	*	*	*	*	*	
+Kim	*	(marriage:person*)	*	(sibling_relationship:person*)	*	
+in	*	*	*	*	*	
+August	*	(marriage:from*	*	*	*	
+2000	*	*)	*	*	*	
+.	*	*	*	*	*	
+
+At	
+the	
+time	
+,	
+Martie	
+was	
+not	
+looking	
+for	
+a	
+serious	
+romance	
+.	
+
+"	
+My	
+divorce	
+had	
+been	
+final	
+for	
+two	
+days	
+,	
+"	
+she	
+says	
+.	
+
+"	
+I	
+wanted	
+to	
+play	
+the	
+field	
+.	
+"	
+
+"	
+You	
+were	
+in	
+the	
+mood	
+for	
+a	
+fling	
+,	
+"	
+says	
+Natalie	
+.	
+
+The	
+Irish-born	
+Gareth	
+,	
+too	
+.	
+
+"	
+He	
+had	
+a	
+girlfriend	
+in	
+Ireland	
+and	
+another	
+at	
+the	
+wedding	
+,	
+"	
+says	
+Martie	
+.	
+
+"	
+I	
+was	
+third	
+string	
+.	
+"	
+
+Not	
+for	
+long	
+.	
+
+"	
+As	
+soon	
+as	
+I	
+saw	
+her	
+,	
+my	
+heart	
+leapt	
+,	
+"	
+says	
+Gareth	
+.	
+
+"	
+She	
+was	
+the	
+one	
+.	
+"	
+
+(	
+They	
+married	
+in	
+Hawaii	
+in	
+August	
+2001	
+.	
+)	
+
+It	
+all	
+makes	
+for	
+one	
+gnarled	
+family	
+tree	
+.	
+
+"	
+Martie	
+,	
+"	
+Maines	
+notes	
+,	
+"	
+is	
+my	
+sister	
+'s	
+sister-in-law	
+,	
+and	
+we	
+'re	
+both	
+aunts	
+to	
+her	
+baby	
+.	
+"	
+
+Says	
+Lloyd	
+Maines	
+:	
+"	
+It	
+'s	
+not	
+inbred	
+at	
+this	
+point	
+,	
+but	
+sort	
+of	
+.	
+
+It	
+works	
+.	
+"	
+
+Certainly	
+the	
+threesome	
+are	
+never	
+far	
+apart	
+.	
+
+Maines	
+and	
+Pasdar	
+live	
+in	
+a	
+colorful	
+,	
+quirky	
+Austin	
+home	
+with	
+Mexican	
+folk	
+art	
+,	
+primitive	
+masks	
+,	
+a	
+slot	
+machine	
+in	
+the	
+living	
+room	
+and	
+a	
+velvet	
+Elvis	
+flanked	
+by	
+Jesus	
+and	
+Mary	
+on	
+the	
+deep-red	
+dining	
+room	
+wall	
+.	
+
+Martie	
+and	
+Gareth	
+live	
+20	
+minutes	
+away	
+in	
+a	
+5,000-sq	
+.	
+
+-	
+ft.	
+home	
+in	
+a	
+gated	
+community	
+outside	
+Austin	
+,	
+where	
+he	
+acts	
+in	
+local	
+theater	
+.	
+
+"	
+It	
+'s	
+very	
+private	
+.	
+
+I	
+can	
+go	
+skinny-dipping	
+in	
+the	
+pool	
+,	
+"	
+she	
+says	
+.	
+
+The	
+Robisons	
+,	
+who	
+began	
+dating	
+after	
+Nashville	
+'s	
+Fan	
+Fair	
+in	
+'	
+98	
+,	
+live	
+in	
+a	
+70-year-old	
+stone	
+and	
+cedar-beamed	
+farmhouse	
+about	
+two	
+hours	
+south	
+,	
+in	
+Medina	
+,	
+Texas	
+.	
+
+The	
+home	
+is	
+part	
+of	
+a	
+1,200-acre	
+working	
+ranch	
+with	
+eight	
+horses	
+and	
+75	
+head	
+of	
+cattle	
+.	
+
+"	
+Charlie	
+does	
+all	
+the	
+hands-on	
+ranch	
+stuff	
+,	
+"	
+says	
+Emily	
+.	
+
+"	
+I	
+write	
+the	
+checks	
+.	
+"	
+
+The	
+family	
+groove	
+continues	
+even	
+on	
+workdays	
+.	
+
+Slade	
+was	
+in	
+the	
+studio	
+every	
+day	
+when	
+they	
+cut	
+Home	
+,	
+and	
+"	
+he	
+learned	
+to	
+crawl	
+there	
+—	
+on	
+the	
+nasty	
+,	
+crunchy	
+carpet	
+,	
+"	
+says	
+Natalie	
+.	
+
+Last	
+month	
+Robison	
+had	
+Gus	
+on	
+the	
+same	
+carpet	
+.	
+
+(	
+"	
+He	
+was	
+on	
+a	
+blanket	
+,	
+"	
+she	
+points	
+out	
+.	
+)	
+
+And	
+when	
+they	
+hit	
+the	
+road	
+in	
+spring	
+for	
+a	
+U.S.	
+tour	
+,	
+they	
+'ll	
+be	
+riding	
+in	
+Faith	
+Hill	
+'s	
+old	
+bus	
+—	
+child-proofed	
+for	
+her	
+two	
+young	
+girls	
+.	
+
+"	
+All	
+the	
+doors	
+,	
+"	
+says	
+Maines	
+,	
+"	
+are	
+soundproofed	
+and	
+padded	
+,	
+no	
+doorknobs	
+,	
+nothing	
+the	
+kids	
+could	
+bump	
+their	
+heads	
+on	
+.	
+
+A	
+big	
+sink	
+so	
+you	
+can	
+bathe	
+the	
+baby	
+.	
+
+And	
+a	
+full-size	
+refrigerator	
+for	
+Emily	
+to	
+store	
+her	
+bottles	
+.	
+"	
+
+Fulltime	
+nannies	
+for	
+Slade	
+and	
+Gus	
+will	
+be	
+in	
+tow	
+,	
+but	
+the	
+Chicks	
+are	
+quickly	
+learning	
+to	
+mix	
+babies	
+with	
+business	
+.	
+
+"	
+Emily	
+will	
+be	
+burping	
+Gus	
+in	
+one	
+arm	
+and	
+on	
+the	
+phone	
+with	
+the	
+other	
+making	
+business	
+decisions	
+,	
+"	
+says	
+Robison	
+.	
+
+Like	
+their	
+2001	
+claim	
+against	
+their	
+label	
+,	
+Sony	
+Music	
+.	
+
+The	
+Chicks	
+accused	
+Sony	
+of	
+"	
+systematic	
+thievery	
+,	
+"	
+saying	
+they	
+had	
+been	
+cheated	
+out	
+of	
+millions	
+in	
+royalties	
+.	
+
+Sony	
+responded	
+with	
+a	
+$	
+100	
+million	
+suit	
+,	
+then	
+settled	
+,	
+offering	
+the	
+Chicks	
+a	
+reported	
+$	
+20	
+million	
+to	
+stay	
+,	
+plus	
+a	
+steep	
+royalty	
+raise	
+.	
+
+"	
+We	
+hash	
+things	
+out	
+.	
+
+We	
+'re	
+equals	
+,	
+"	
+says	
+Emily	
+of	
+the	
+band	
+'s	
+one-for-all	
+strategy	
+.	
+
+Natalie	
+agrees	
+.	
+
+"	
+We	
+do	
+have	
+egos	
+,	
+"	
+she	
+admits	
+,	
+"	
+but	
+if	
+anyone	
+acted	
+alone	
+,	
+the	
+trust	
+would	
+be	
+out	
+the	
+window	
+.	
+"	
+
+In	
+fact	
+,	
+wherever	
+Chicks	
+fly	
+,	
+instinct	
+seems	
+to	
+guide	
+them	
+to	
+do	
+it	
+in	
+formation	
+.	
+
+Last	
+August	
+Maines	
+and	
+Pasdar	
+bought	
+an	
+apartment	
+in	
+New	
+York	
+City	
+,	
+where	
+they	
+enjoy	
+getting	
+away	
+to	
+visit	
+pals	
+.	
+
+Martie	
+decided	
+to	
+get	
+a	
+place	
+too	
+—	
+and	
+ended	
+up	
+looking	
+at	
+more	
+than	
+60	
+before	
+striking	
+gold	
+.	
+
+"	
+We	
+walked	
+in	
+,	
+"	
+she	
+says	
+,	
+"	
+and	
+Gareth	
+said	
+,	
+'	
+I	
+can	
+picture	
+us	
+here	
+.	
+'	
+
+I	
+said	
+,	
+'	
+I	
+love	
+it	
+.	
+'	
+"	
+
+And	
+that	
+'s	
+when	
+the	
+realtor	
+said	
+,	
+"	
+Well	
+,	
+look	
+out	
+the	
+window	
+because	
+that	
+'s	
+Natalie	
+'s	
+apartment	
+.	
+"	
+
+Says	
+Martie	
+:	
+"	
+We	
+ca	
+n't	
+get	
+away	
+from	
+each	
+other	
+.	
+"	
+

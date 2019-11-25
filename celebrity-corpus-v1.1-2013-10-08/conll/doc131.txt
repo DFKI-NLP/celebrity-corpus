@@ -1,0 +1,3548 @@
+To	
+an	
+observer	
+it	
+might	
+have	
+looked	
+like	
+the	
+perfect	
+Father	
+'s	
+Day	
+tableau	
+:	
+a	
+dad	
+and	
+his	
+daughter	
+,	
+munching	
+on	
+deli	
+sandwiches	
+and	
+watching	
+a	
+soccer	
+match	
+on	
+TV	
+.	
+
+But	*	
+when	*	
+actor	*	
+Ryan	*	
+O'Neal	*	
+got	*	
+together	*	
+with	*	
+his	(person_parent:parent*)	
+often-estranged	*	
+daughter	*	
+Tatum	(person_parent:person*)	
+on	*	
+June	*	
+16	*	
+,	*	
+the	*	
+only	*	
+ordinary	*	
+thing	*	
+about	*	
+the	*	
+scene	*	
+was	*	
+the	*	
+cold	*	
+cuts	*	
+.	*	
+
+Although	
+the	
+elder	
+O'Neal	
+,	
+who	
+was	
+diagnosed	
+with	
+leukemia	
+last	
+year	
+,	
+was	
+feeling	
+healthy	
+thanks	
+to	
+the	
+anticancer	
+drug	
+Gleevec	
+,	
+his	
+daughter	
+was	
+thin	
+and	
+shaky	
+,	
+the	
+result	
+of	
+coming	
+off	
+a	
+six-month	
+cocaine	
+bender	
+.	
+
+And	
+despite	
+nearly	
+four	
+decades	
+of	
+pain	
+between	
+them	
+,	
+the	
+conversation	
+never	
+turned	
+deep	
+.	
+
+"	
+We	
+'re	
+not	
+going	
+to	
+do	
+that	
+talk	
+,	
+"	
+Tatum	
+says	
+flatly	
+.	
+
+"	
+Different	
+generations	
+.	
+"	
+
+Ryan	
+O'Neal	
+may	
+prefer	
+to	
+keep	
+family	
+secrets	
+to	
+himself	
+,	
+but	
+his	
+troubled	
+daughter	
+is	
+finally	
+—	
+and	
+loudly	
+—	
+breaking	
+her	
+silence	
+.	
+
+Prompted	*	
+in	*	
+part	*	
+by	*	
+a	*	
+new	*	
+memoir	*	
+written	*	
+by	*	
+her	(marriage:person*)	
+ex-husband	*	
+,	*	
+tennis	*	
+ace	*	
+John	(marriage:person*	
+McEnroe	*)	
+—	*	
+in	*	
+which	*	
+he	*	
+portrays	*	
+Tatum	*	
+as	*	
+an	*	
+emotional	*	
+tsunami	*	
+—	*	
+the	*	
+38-year-old	*	
+O'Neal	*	
+pulls	*	
+no	*	
+punches	*	
+as	*	
+she	*	
+looks	*	
+back	*	
+on	*	
+a	*	
+life	*	
+that	*	
+makes	*	
+the	*	
+most	*	
+shocking	*	
+E	*	
+!	*	
+
+True	
+Hollywood	
+Story	
+look	
+like	
+Sesame	
+Street	
+.	
+
+Abandoned	
+by	
+an	
+overwhelmed	
+,	
+drug-abusing	
+mother	
+at	
+age	
+7	
+,	
+she	
+was	
+an	
+Oscar	
+winner	
+at	
+10	
+and	
+began	
+using	
+drugs	
+by	
+14	
+,	
+moving	
+from	
+marijuana	
+,	
+Quaaludes	
+and	
+cocaine	
+to	
+,	
+years	
+later	
+,	
+heroin	
+.	
+
+With	*	
+her	*	
+father	*	
+caught	*	
+up	*	
+in	*	
+the	*	
+celebrity	*	
+scene	*	
+of	*	
+the	*	
+1970s	*	
+,	*	
+a	*	
+teenage	*	
+Tatum	*	
+and	*	
+her	(sibling_relationship:person*)	
+younger	*	
+brother	*	
+Griffin	(sibling_relationship:person*)	
+were	*	
+left	*	
+on	*	
+their	*	
+own	*	
+in	*	
+Ryan	*	
+'s	*	
+Malibu	*	
+house	*	
+while	*	
+their	*	
+father	*	
+moved	*	
+in	*	
+with	*	
+actress	*	
+Farrah	*	
+Fawcett	*	
+.	*	
+
+Then	*	
+came	*	
+her	(marriage:person*)	
+failed	*	
+six-year	*	
+marriage	*	
+to	*	
+McEnroe	(marriage:person*)	
+,	*	
+43	*	
+,	*	
+toward	*	
+whom	*	
+she	*	
+remains	*	
+openly	*	
+hostile	*	
+.	*	
+
+Worst	*	*	
+of	*	*	
+all	*	*	
+is	*	*	
+the	*	*	
+loss	*	*	
+of	*	*	
+her	(person_parent:parent*)	*	
+children	*	*	
+Kevin	(person_parent:person*)	(sibling_relationship:person*)	
+,	*	*	
+16	*	*	
+,	*	*	
+Sean	(person_parent:person*)	(sibling_relationship:person*)	
+,	*	*	
+14	*	*	
+,	*	*	
+and	*	*	
+Emily	(person_parent:person*)	(sibling_relationship:person*)	
+,	*	*	
+11	*	*	
+:	*	*	
+When	*	*	
+O'Neal	*	*	
+became	*	*	
+a	*	*	
+heroin	*	*	
+addict	*	*	
+in	*	*	
+1995	*	*	
+,	*	*	
+McEnroe	*	*	
+took	*	*	
+control	*	*	
+of	*	*	
+their	*	*	
+kids	*	*	
+and	*	*	
+has	*	*	
+retained	*	*	
+it	*	*	
+ever	*	*	
+since	*	*	
+.	*	*	
+
+"	
+Not	
+being	
+able	
+to	
+see	
+my	
+kids	
+is	
+like	
+part	
+of	
+me	
+is	
+missing	
+,	
+"	
+she	
+says	
+.	
+
+"	
+Part	
+of	
+my	
+soul	
+is	
+missing	
+.	
+"	
+
+And	
+yet	
+,	
+even	
+though	
+many	
+of	
+her	
+troubles	
+can	
+probably	
+be	
+traced	
+to	
+her	
+chaotic	
+childhood	
+,	
+O'Neal	
+retains	
+sympathy	
+for	
+the	
+man	
+who	
+might	
+have	
+made	
+things	
+better	
+:	
+her	
+father	
+.	
+
+When	
+she	
+learned	
+by	
+phone	
+in	
+April	
+last	
+year	
+that	
+Ryan	
+,	
+61	
+,	
+had	
+been	
+diagnosed	
+with	
+cancer	
+,	
+"	
+I	
+told	
+him	
+how	
+much	
+I	
+loved	
+him	
+,	
+how	
+much	
+he	
+had	
+given	
+me	
+,	
+"	
+she	
+says	
+.	
+
+"	
+He	
+'s	
+the	
+love	
+of	
+my	
+life	
+.	
+"	
+
+O'Neal	
+speaks	
+far	
+less	
+warmly	
+of	
+her	
+ex-husband	
+,	
+whom	
+she	
+calls	
+"	
+the	
+main	
+stress	
+for	
+so	
+long	
+that	
+I	
+ca	
+n't	
+count	
+anymore	
+.	
+"	
+
+After	
+years	
+of	
+bitter	
+battling	
+over	
+their	
+children	
+,	
+the	
+pair	
+are	
+at	
+loggerheads	
+again	
+over	
+McEnroe	
+'s	
+bestselling	
+memoir	
+You	
+Can	
+not	
+Be	
+Serious	
+.	
+
+O'Neal	(marriage:person*)	
+claims	*	
+he	(marriage:person*)	
+misrepresents	*	
+the	*	
+way	*	
+their	*	
+marriage	*	
+ended	*	
+and	*	
+generally	*	
+casts	*	
+her	*	
+in	*	
+an	*	
+unflattering	*	
+light	*	
+while	*	
+minimizing	*	
+his	*	
+own	*	
+faults	*	
+.	*	
+
+Although	
+she	
+concedes	
+that	
+he	
+is	
+generally	
+a	
+good	
+father	
+to	
+their	
+children	
+and	
+that	
+"	
+most	
+of	
+the	
+stuff	
+[	
+in	
+the	
+book	
+]	
+is	
+true	
+,	
+"	
+O'Neal	
+says	
+she	
+resents	
+the	
+invasion	
+of	
+privacy	
+.	
+
+"	
+He	
+crossed	
+the	
+line	
+,	
+and	
+I	
+feel	
+like	
+it	
+'s	
+time	
+to	
+fight	
+back	
+,	
+"	
+she	
+says	
+.	
+
+One	
+tactic	
+:	
+She	
+has	
+made	
+public	
+a	
+transcript	
+of	
+a	
+20-minute	
+1999	
+phone	
+argument	
+with	
+McEnroe	
+regarding	
+their	
+children	
+'s	
+vacation	
+plans	
+that	
+O'Neal	
+secretly	
+taped	
+and	
+submitted	
+in	
+court	
+as	
+part	
+of	
+her	
+custody	
+case	
+.	
+
+During	
+the	
+conversation	
+a	
+foulmouthed	
+McEnroe	
+—	
+barely	
+a	
+line	
+goes	
+by	
+without	
+a	
+curse	
+—	
+tacitly	
+admits	
+to	
+smoking	
+pot	
+and	
+berating	
+and	
+even	
+hitting	
+one	
+of	
+their	
+children	
+.	
+
+At	
+one	
+point	
+,	
+McEnroe	
+screams	
+that	
+he	
+is	
+not	
+going	
+to	
+let	
+their	
+kids	
+"	
+go	
+down	
+the	
+tube	
+because	
+they	
+got	
+a	
+f	
+—	
+—	
+—	
+wacko	
+as	
+a	
+mother	
+.	
+"	
+
+For	
+a	
+woman	
+who	
+admits	
+that	
+her	
+young	
+daughter	
+once	
+stumbled	
+across	
+Mommy	
+using	
+heroin	
+,	
+drawing	
+more	
+attention	
+to	
+the	
+couple	
+'s	
+marital	
+mess	
+might	
+seem	
+an	
+odd	
+strategy	
+.	
+
+O'Neal	
+acknowledges	
+this	
+and	
+admits	
+that	
+publicizing	
+the	
+tape	
+'s	
+contents	
+"	
+is	
+kind	
+of	
+exploitative	
+.	
+"	
+
+Still	
+,	
+she	
+says	
+,	
+"	
+I	
+have	
+to	
+protect	
+what	
+dignity	
+and	
+truth	
+is	
+mine	
+.	
+"	
+
+McEnroe	
+,	
+in	
+a	
+statement	
+to	
+PEOPLE	
+,	
+responded	
+that	
+"	
+I	
+am	
+very	
+disappointed	
+in	
+Tatum	
+'s	
+statements	
+.	
+
+I	
+had	
+hoped	
+that	
+after	
+all	
+these	
+years	
+she	
+would	
+see	
+things	
+more	
+accurately	
+and	
+that	
+she	
+would	
+share	
+my	
+concern	
+for	
+the	
+welfare	
+of	
+our	
+children	
+.	
+"	
+
+Now	
+,	
+after	
+a	
+half-dozen	
+stints	
+in	
+rehab	
+,	
+O'Neal	
+claims	
+that	
+she	
+has	
+crashed-and-burned	
+for	
+the	
+last	
+time	
+.	
+
+Prior	
+to	
+her	
+most	
+recent	
+coke	
+binge	
+,	
+"	
+I	
+kept	
+hearing	
+a	
+voice	
+in	
+my	
+head	
+say	
+,	
+'	
+You	
+'re	
+a	
+coward	
+.	
+
+I	
+hate	
+you	
+.	
+
+Your	
+kids	
+hate	
+you	
+.	
+
+You	
+'re	
+not	
+worth	
+a	
+thing	
+,	
+Tatum	
+,	
+'	
+"	
+she	
+recalls	
+.	
+
+For	
+now	
+,	
+she	
+insists	
+,	
+she	
+has	
+prevailed	
+:	
+She	
+says	
+she	
+has	
+been	
+clean	
+for	
+three	
+months	
+.	
+
+Describing	
+herself	
+as	
+"	
+one	
+strong	
+bitch	
+,	
+"	
+she	
+says	
+,	
+"	
+I	
+have	
+this	
+gnarly	
+inner	
+strength	
+.	
+"	
+
+It	
+has	
+certainly	
+been	
+tested	
+.	
+
+Tatum	(person_parent:person*)	*	
+was	*	*	
+2	*	*	
+when	*	*	
+her	*	*	
+parents	*	*	
+—	*	*	
+Ryan	(person_parent:parent*)	(marriage:person*)	
+and	*	*	
+actress	*	*	
+Joanna	(person_parent:parent*	(marriage:person*	
+Moore	*)	*)	
+,	*	*	
+who	*	*	
+had	*	*	
+met	*	*	
+on	*	*	
+the	*	*	
+1960s	*	*	
+TV	*	*	
+show	*	*	
+The	*	*	
+Virginian	*	*	
+—	*	*	
+divorced	*	*	
+.	*	*	
+
+While	*	
+Ryan	*	
+continued	*	
+to	*	
+pursue	*	
+a	*	
+career	*	
+in	*	
+Hollywood	*	
+,	*	
+Tatum	(sibling_relationship:person*)	
+and	*	
+Griffin	(sibling_relationship:person*)	
+lived	*	
+in	*	
+"	*	
+a	*	
+really	*	
+dilapidated	*	
+house	*	
+"	*	
+in	*	
+Reseda	*	
+,	*	
+Calif.	*	
+,	*	
+with	*	
+their	*	
+mother	*	
+,	*	
+who	*	
+soon	*	
+began	*	
+to	*	
+use	*	
+drugs	*	
+"	*	
+pretty	*	
+heavily	*	
+"	*	
+and	*	
+left	*	
+her	*	
+kids	*	
+to	*	
+fend	*	
+for	*	
+themselves	*	
+.	*	
+
+"	
+Griffin	
+and	
+I	
+ran	
+away	
+three	
+times	
+,	
+barefooted	
+,	
+"	
+she	
+says	
+.	
+
+"	
+We	
+would	
+steal	
+sugary	
+stuff	
+out	
+of	
+the	
+Jolly	
+Jug	
+[	
+liquor	
+store	
+]	
+.	
+
+I	
+lived	
+in	
+a	
+bathroom	
+,	
+saw	
+maggots	
+...	
+real	
+nice	
+.	
+"	
+
+When	
+O'Neal	
+was	
+7	
+,	
+her	
+father	
+intervened	
+and	
+sent	
+the	
+children	
+briefly	
+to	
+a	
+boarding	
+school	
+in	
+Arizona	
+.	
+
+Miserable	
+and	
+isolated	
+,	
+"	
+I	
+ended	
+up	
+cutting	
+off	
+my	
+hair	
+and	
+sending	
+it	
+to	
+my	
+grandmother	
+,	
+begging	
+her	
+to	
+take	
+me	
+home	
+,	
+"	
+she	
+recalls	
+.	
+
+When	
+Moore	
+checked	
+into	
+a	
+Camarillo	
+,	
+Calif.	
+,	
+mental	
+hospital	
+,	
+Ryan	
+—	
+who	
+sometimes	
+visited	
+on	
+weekends	
+—	
+took	
+Tatum	
+to	
+live	
+with	
+him	
+in	
+Malibu	
+,	
+while	
+Griffin	
+rejoined	
+his	
+mother	
+.	
+
+(	*	*	*	*	
+O'Neal	(person_parent:person*)	(sibling_relationship:person*)	*	*	
+also	*	*	*	*	
+has	*	*	*	*	
+two	*	*	*	*	
+younger	*	*	*	*	
+half	*	*	*	*	
+siblings	*	*	*	*	
+:	*	*	*	*	
+Patrickh	*	(sibling_relationship:person*)	*	(person_parent:person*)	
+,	*	*	*	*	
+Ryan	(person_parent:parent*)	*	*	(person_parent:parent*)	
+'s	*	*	*	*	
+34-year-old	*	*	*	*	
+son	*	*	*	*	
+with	*	*	*	*	
+actress	*	*	*	*	
+Leigh	*	*	*	(person_parent:parent*	
+Taylor-Young	*	*	*	*)	
+,	*	*	*	*	
+and	*	*	*	*	
+Redmond	*	(sibling_relationship:person*)	(person_parent:person*)	*	
+,	*	*	*	*	
+17	*	*	*	*	
+,	*	*	*	*	
+his	*	*	(person_parent:parent*)	*	
+son	*	*	*	*	
+with	*	*	*	*	
+Fawcett	*	*	(person_parent:parent*)	*	
+.	*	*	*	*	
+)	*	*	*	*	
+
+Having	
+recently	
+starred	
+in	
+1970	
+'s	
+Love	
+Story	
+,	
+Ryan	
+"	
+was	
+this	
+handsome	
+playboy	
+who	
+wanted	
+to	
+take	
+care	
+of	
+me	
+,	
+"	
+O'Neal	
+recalls	
+.	
+
+The	
+love-starved	
+child	
+soon	
+became	
+possessive	
+of	
+him	
+—	
+following	
+him	
+everywhere	
+and	
+even	
+climbing	
+into	
+his	
+bed	
+—	
+which	
+ticked	
+off	
+his	
+girlfriends	
+,	
+including	
+former	
+Bond	
+girl	
+Ursula	
+Andress	
+.	
+
+"	
+I	
+do	
+n't	
+want	
+to	
+sleep	
+with	
+you	
+while	
+your	
+daughter	
+is	
+in	
+the	
+bed	
+,	
+"	
+O'Neal	
+recalls	
+Andress	
+complaining	
+.	
+
+"	
+It	
+'s	
+weird	
+.	
+"	
+
+Then	
+came	
+the	
+role	
+that	
+would	
+unite	
+—	
+and	
+divide	
+—	
+Tatum	
+and	
+her	
+father	
+.	
+
+Cast	
+opposite	
+Ryan	
+as	
+precocious	
+con	
+artist	
+Addie	
+Loggins	
+in	
+1973	
+'s	
+Paper	
+Moon	
+,	
+8-year-old	
+O'Neal	
+was	
+a	
+novice	
+in	
+every	
+way	
+.	
+
+"	
+I	
+remember	
+practicing	
+lines	
+with	
+my	
+dad	
+,	
+like	
+I	
+'d	
+have	
+to	
+say	
+,	
+'	
+I	
+love	
+you	
+,	
+'	
+and	
+I	
+'d	
+think	
+,	
+'	
+I	
+ca	
+n't	
+say	
+that	
+,	
+'	
+"	
+she	
+recalls	
+.	
+
+Yet	
+she	
+stole	
+the	
+show	
+—	
+and	
+an	
+Oscar	
+nomination	
+.	
+
+"	
+That	
+'s	
+when	
+things	
+started	
+getting	
+rough	
+in	
+our	
+relationship	
+,	
+"	
+she	
+says	
+.	
+
+Stricken	
+with	
+a	
+stress-induced	
+ulcer	
+,	
+she	
+became	
+the	
+youngest-ever	
+Oscar	
+winner	
+while	
+her	
+paternal	
+grandparents	
+watched	
+from	
+the	
+audience	
+;	
+Ryan	
+,	
+who	
+was	
+filming	
+in	
+London	
+,	
+did	
+n't	
+attend	
+.	
+
+"	
+I	
+was	
+happy	
+for	
+her	
+,	
+"	
+recalls	
+Moon	
+'s	
+director	
+Peter	
+Bogdanovich	
+,	
+"	
+although	
+I	
+knew	
+it	
+was	
+going	
+to	
+be	
+the	
+beginning	
+of	
+a	
+lot	
+of	
+problems	
+.	
+"	
+
+First	
+,	
+though	
+,	
+there	
+were	
+a	
+lot	
+of	
+parties	
+.	
+
+Ryan	
+O'Neal	
+did	
+n't	
+exactly	
+shelter	
+young	
+Tatum	
+from	
+the	
+wilds	
+of	
+Hollywood	
+.	
+
+"	
+When	
+Tatum	
+was	
+9	
+or	
+10	
+,	
+she	
+was	
+a	
+source	
+of	
+embarrassment	
+to	
+all	
+of	
+us	
+older	
+people	
+because	
+she	
+would	
+be	
+brought	
+to	
+these	
+parties	
+where	
+we	
+'d	
+be	
+smoking	
+marijuana	
+,	
+"	
+says	
+Ryan	
+'s	
+former	
+agent	
+Sue	
+Mengers	
+.	
+
+"	
+And	
+there	
+was	
+that	
+little	
+face	
+,	
+staring	
+at	
+us	
+with	
+such	
+disapproval	
+.	
+
+But	
+she	
+had	
+no	
+place	
+else	
+to	
+be	
+.	
+"	
+
+Dependent	
+as	
+she	
+was	
+,	
+O'Neal	
+also	
+pricked	
+her	
+father	
+'s	
+vanity	
+.	
+
+Ryan	
+bet	
+Tatum	
+that	
+his	
+movie	
+Barry	
+Lyndon	
+would	
+beat	
+her	
+1976	
+kids	
+'	
+flick	
+The	
+Bad	
+News	
+Bears	
+at	
+the	
+box	
+office	
+.	
+
+When	
+it	
+did	
+n't	
+,	
+"	
+he	
+started	
+getting	
+crazy	
+and	
+more	
+out	
+of	
+control	
+,	
+"	
+she	
+says	
+.	
+
+"	
+He	
+'s	
+got	
+some	
+Irish	
+bully	
+in	
+him	
+and	
+could	
+n't	
+control	
+his	
+fists	
+.	
+"	
+
+During	
+one	
+fit	
+of	
+rage	
+,	
+"	
+my	
+dad	
+threw	
+a	
+pool	
+cue	
+at	
+my	
+head	
+because	
+my	
+brother	
+was	
+beating	
+him	
+in	
+pool	
+,	
+"	
+she	
+says	
+.	
+
+(	
+Ryan	
+O'Neal	
+declined	
+repeated	
+requests	
+to	
+comment	
+for	
+this	
+story	
+.	
+)	
+
+At	
+13	
+,	
+O'Neal	
+accompanied	
+her	
+dad	
+on	
+location	
+for	
+1977	
+'s	
+A	
+Bridge	
+Too	
+Far	
+,	
+where	
+she	
+says	
+,	
+she	
+was	
+molested	
+by	
+one	
+of	
+his	
+friends	
+.	
+
+As	
+a	
+result	
+,	
+"	
+I	
+slit	
+my	
+wrists	
+and	
+took	
+a	
+lot	
+of	
+drugs	
+and	
+drank	
+everything	
+in	
+the	
+minibar	
+in	
+an	
+attempt	
+to	
+kill	
+myself	
+,	
+"	
+she	
+says	
+.	
+
+A	
+year	
+later	
+she	
+began	
+experimenting	
+with	
+marijuana	
+and	
+the	
+prescription	
+drug	
+Quaalude	
+.	
+
+Then	
+,	
+on	
+one	
+occasion	
+,	
+O'Neal	
+'s	
+pal	
+Carrie	
+Adelson	
+was	
+driving	
+her	
+to	
+Big	
+Sur	
+after	
+partying	
+with	
+actress	
+MacKenzie	
+Phillips	
+the	
+night	
+before	
+when	
+Adelson	
+crashed	
+Joanna	
+Moore	
+'s	
+Jeep	
+on	
+the	
+California	
+coast	
+.	
+
+"	
+Dad	
+did	
+n't	
+take	
+us	
+to	
+the	
+emergency	
+room	
+,	
+"	
+O'Neal	
+says	
+.	
+
+"	
+He	
+sent	
+a	
+limo	
+.	
+"	
+
+With	
+scrapes	
+on	
+her	
+leg	
+that	
+required	
+skin	
+grafts	
+,	
+O'Neal	
+spent	
+the	
+next	
+six	
+weeks	
+in	
+the	
+hospital	
+,	
+visited	
+by	
+her	
+Bears	
+costar	
+Walter	
+Matthau	
+and	
+,	
+on	
+one	
+occasion	
+each	
+,	
+her	
+parents	
+.	
+
+"	
+That	
+was	
+probably	
+the	
+lowest	
+point	
+in	
+my	
+adolescence	
+,	
+"	
+she	
+says	
+.	
+
+Back	
+home	
+,	
+things	
+continued	
+to	
+go	
+downhill	
+after	
+Ryan	
+began	
+his	
+18-year	
+romance	
+with	
+Charlie	
+'s	
+Angel	
+Farrah	
+Fawcett	
+,	
+with	
+whom	
+Tatum	
+had	
+a	
+chilly	
+relationship	
+.	
+
+She	
+fought	
+regularly	
+with	
+her	
+dad	
+,	
+who	
+,	
+she	
+says	
+,	
+told	
+her	
+at	
+age	
+15	
+that	
+she	
+was	
+fat	
+and	
+should	
+use	
+cocaine	
+to	
+lose	
+weight	
+.	
+
+Their	
+battles	
+continued	
+until	
+one	
+day	
+two	
+years	
+later	
+,	
+when	
+O'Neal	
+says	
+Ryan	
+,	
+angry	
+that	
+she	
+was	
+late	
+for	
+a	
+racquetball	
+match	
+,	
+punched	
+her	
+in	
+the	
+head	
+.	
+
+"	
+That	
+was	
+it	
+,	
+"	
+she	
+recalls	
+.	
+
+"	
+I	
+did	
+n't	
+see	
+him	
+for	
+years	
+after	
+that	
+.	
+"	
+
+Tatum	*	
+'s	*	
+pal	*	
+,	*	
+singer	*	
+Jennifer	*	
+Young	*	
+,	*	
+says	*	
+she	*	
+never	*	
+witnessed	*	
+Ryan	*	
+physically	*	
+abuse	*	
+Tatum	*	
+,	*	
+but	*	
+she	*	
+does	*	
+recall	*	
+an	*	
+incident	*	
+involving	*	
+Tatum	(sibling_relationship:person*)	
+'s	*	
+brother	*	
+Griffin	(sibling_relationship:person*)	
+.	*	
+
+"	
+We	
+were	
+all	
+hanging	
+out	
+—	
+Leif	
+[	
+Garrett	
+]	
+,	
+Nicollette	
+Sheridan	
+and	
+me	
+,	
+and	
+next	
+thing	
+Ryan	
+and	
+Griffin	
+get	
+in	
+a	
+huge	
+fight	
+,	
+"	
+Young	
+,	
+37	
+,	
+recalls	
+.	
+
+"	
+Ryan	
+threw	
+Griffin	
+across	
+the	
+room	
+and	
+into	
+the	
+wall	
+.	
+"	
+
+On	
+another	
+occasion	
+Ryan	
+famously	
+slugged	
+the	
+teen	
+,	
+knocking	
+out	
+two	
+of	
+his	
+front	
+teeth	
+.	
+
+"	
+I	
+was	
+all	
+over	
+my	
+dad	
+when	
+he	
+did	
+that	
+stuff	
+to	
+my	
+brother	
+,	
+"	
+says	
+Tatum	
+.	
+
+"	
+Griffin	
+would	
+lie	
+about	
+what	
+had	
+happened	
+when	
+he	
+got	
+beat	
+up	
+.	
+"	
+
+When	
+Tatum	
+was	
+17	
+,	
+she	
+and	
+Griffin	
+moved	
+into	
+an	
+apartment	
+in	
+Beverly	
+Hills	
+.	
+
+In	*	
+1986	*	
+Griffin	*	
+was	*	
+driving	*	
+the	*	
+boat	*	
+that	*	
+claimed	*	
+the	*	
+life	*	
+of	*	
+Gian	(person_parent:person*	
+Carlo	*	
+Coppola	*)	
+,	*	
+the	*	
+22-year-old	*	
+son	*	
+of	*	
+director	*	
+Francis	(person_parent:parent*	
+Ford	*	
+Coppola	*)	
+.	*	
+
+Don	
+Crutchfield	
+,	
+an	
+L.A.	
+private	
+investigator	
+who	
+worked	
+for	
+the	
+O'Neal	
+family	
+,	
+says	
+,	
+"	
+It	
+was	
+a	
+Hollywood	
+family	
+and	
+a	
+mess	
+from	
+the	
+word	
+go	
+.	
+
+Joanna	
+was	
+too	
+busy	
+scoring	
+drugs	
+to	
+be	
+a	
+good	
+mom	
+.	
+
+Ryan	
+was	
+busy	
+with	
+his	
+career	
+.	
+"	
+
+Tatum	
+,	
+he	
+says	
+,	
+"	
+was	
+the	
+only	
+sane	
+one	
+of	
+the	
+bunch	
+.	
+"	
+
+O'Neal	
+was	
+still	
+estranged	
+from	
+her	
+father	
+in	
+1984	
+when	
+she	
+met	
+25-year-old	
+McEnroe	
+at	
+a	
+Los	
+Angeles	
+party	
+.	
+
+Within	
+two	
+months	
+the	
+pair	
+were	
+living	
+together	
+.	
+
+In	
+May	
+1986	
+their	
+son	
+Kevin	
+was	
+born	
+,	
+and	
+they	
+wed	
+three	
+months	
+later	
+.	
+
+"	
+I	
+loved	
+him	
+,	
+but	
+I	
+also	
+think	
+going	
+away	
+with	
+him	
+was	
+a	
+great	
+survival	
+tactic	
+,	
+"	
+says	
+O'Neal	
+.	
+
+"	
+It	
+got	
+me	
+away	
+from	
+my	
+family	
+.	
+"	
+
+Still	
+,	
+it	
+was	
+a	
+difficult	
+adjustment	
+.	
+
+"	
+I	
+thought	
+Tatum	
+was	
+mature	
+and	
+equipped	
+enough	
+to	
+deal	
+with	
+[	
+parenthood	
+]	
+,	
+"	
+McEnroe	
+told	
+PEOPLE	
+in	
+a	
+May	
+interview	
+.	
+
+"	
+As	
+I	
+look	
+back	
+now	
+,	
+it	
+was	
+asking	
+a	
+lot	
+for	
+her	
+at	
+22	
+years	
+of	
+age	
+,	
+given	
+what	
+she	
+had	
+been	
+through	
+.	
+"	
+
+Just	
+over	
+a	
+year	
+after	
+Kevin	
+'s	
+arrival	
+,	
+their	
+son	
+Sean	
+was	
+born	
+.	
+
+As	
+McEnroe	
+'s	
+ranking	
+dropped	
+from	
+No.	
+1	
+to	
+No.	
+20	
+,	
+O'Neal	
+began	
+itching	
+to	
+return	
+to	
+acting	
+.	
+
+Influenced	
+by	
+Madonna	
+,	
+who	
+had	
+befriended	
+her	
+—	
+"	
+She	
+said	
+,	
+'	
+You	
+have	
+got	
+to	
+get	
+strong	
+,	
+girl	
+.	
+'	
+
+I	
+was	
+very	
+meek	
+"	
+—	
+she	
+began	
+working	
+out	
+with	
+the	
+singer	
+'s	
+trainer	
+and	
+built	
+confidence	
+as	
+well	
+as	
+muscles	
+.	
+
+But	
+her	
+growing	
+independence	
+created	
+tension	
+.	
+
+"	
+McEnroe	
+was	
+vehement	
+about	
+her	
+not	
+working	
+,	
+"	
+says	
+O'Neal	
+'s	
+friend	
+Mengers	
+.	
+
+"	
+When	
+I	
+used	
+to	
+call	
+the	
+house	
+to	
+talk	
+to	
+her	
+,	
+he	
+'d	
+grab	
+the	
+phone	
+and	
+say	
+,	
+'	
+You	
+are	
+n't	
+to	
+call	
+here	
+and	
+talk	
+about	
+work	
+.	
+'	
+"	
+
+In	
+his	
+book	
+McEnroe	
+maintains	
+that	
+"	
+her	
+acting	
+career	
+had	
+tailed	
+off	
+.	
+"	
+
+What	
+he	
+"	
+felt	
+strongly	
+about	
+,	
+"	
+he	
+writes	
+,	
+"	
+was	
+that	
+I	
+never	
+wanted	
+both	
+of	
+us	
+to	
+be	
+working	
+at	
+the	
+same	
+time	
+.	
+"	
+
+A	
+year	
+after	
+the	
+birth	
+of	
+their	
+third	
+child	
+,	
+Emily	
+,	
+in	
+1991	
+,	
+they	
+separated	
+,	
+sharing	
+joint	
+custody	
+of	
+the	
+children	
+.	
+
+Asked	
+about	
+McEnroe	
+'s	
+assertion	
+in	
+You	
+Can	
+not	
+Be	
+Serious	
+that	
+she	
+was	
+the	
+first	
+to	
+call	
+it	
+quits	
+,	
+O'Neal	
+counters	
+,	
+"	
+He	
+kicked	
+me	
+out	
+of	
+the	
+house	
+.	
+
+He	
+pushed	
+me	
+down	
+the	
+stairs	
+.	
+
+He	
+almost	
+broke	
+my	
+arm	
+,	
+almost	
+broke	
+my	
+nose	
+and	
+called	
+me	
+every	
+name	
+in	
+the	
+book	
+and	
+blamed	
+me	
+for	
+losing	
+matches	
+.	
+"	
+
+Following	
+their	
+split	
+,	
+"	
+I	
+just	
+did	
+n't	
+have	
+a	
+vision	
+of	
+how	
+ugly	
+it	
+would	
+become	
+.	
+
+It	
+became	
+a	
+war	
+.	
+"	
+
+At	
+the	
+end	
+of	
+1994	
+,	
+O'Neal	
+says	
+,	
+she	
+hooked	
+up	
+with	
+a	
+young	
+poet	
+who	
+introduced	
+her	
+to	
+heroin	
+.	
+
+She	
+started	
+off	
+sniffing	
+,	
+graduating	
+to	
+speedballs	
+and	
+,	
+finally	
+,	
+needles	
+.	
+
+"	
+It	
+'s	
+not	
+something	
+I	
+'m	
+proud	
+of	
+at	
+all	
+,	
+"	
+she	
+says	
+now	
+.	
+
+"	
+I	
+did	
+it	
+in	
+my	
+bedroom	
+.	
+
+Emily	
+had	
+to	
+wait	
+outside	
+the	
+door	
+.	
+
+Then	
+one	
+day	
+she	
+opened	
+the	
+door	
+and	
+saw	
+.	
+
+I	
+realized	
+it	
+immediately	
+and	
+at	
+that	
+moment	
+I	
+told	
+her	
+that	
+Mommy	
+had	
+a	
+problem	
+.	
+
+That	
+'s	
+easily	
+the	
+worst	
+thing	
+ever	
+in	
+my	
+life	
+.	
+"	
+
+Today	
+,	
+she	
+says	
+,	
+she	
+tells	
+her	
+daughter	
+,	
+"	
+If	
+you	
+need	
+to	
+be	
+angry	
+with	
+me	
+,	
+be	
+angry	
+with	
+me	
+.	
+
+Do	
+n't	
+hold	
+it	
+in	
+.	
+"	
+
+During	
+O'Neal	
+'s	
+heroin	
+addiction	
+,	
+McEnroe	
+got	
+primary	
+custody	
+of	
+the	
+children	
+while	
+O'Neal	
+went	
+in	
+and	
+out	
+of	
+rehab	
+.	
+
+She	
+says	
+she	
+cleaned	
+up	
+in	
+1998	
+with	
+the	
+help	
+of	
+therapy	
+and	
+Alcoholics	
+Anonymous	
+.	
+
+Granted	
+supervised	
+visits	
+with	
+her	
+children	
+,	
+she	
+underwent	
+twice-weekly	
+urine	
+tests	
+until	
+last	
+summer	
+,	
+when	
+,	
+fed	
+up	
+,	
+she	
+stopped	
+.	
+
+"	
+I	
+'d	
+spent	
+about	
+$	
+20,000	
+on	
+testing	
+.	
+
+I	
+'d	
+done	
+it	
+for	
+four	
+years	
+.	
+
+It	
+was	
+very	
+demeaning	
+.	
+
+And	
+it	
+meant	
+John	
+still	
+had	
+some	
+control	
+over	
+me	
+,	
+"	
+she	
+explains	
+.	
+
+Tired	
+of	
+the	
+legal	
+wrangling	
+,	
+O'Neal	
+says	
+,	
+she	
+threw	
+in	
+the	
+towel	
+,	
+giving	
+McEnroe	
+full	
+custody	
+of	
+their	
+children	
+.	
+
+For	
+a	
+while	
+O'Neal	
+found	
+a	
+degree	
+of	
+happiness	
+with	
+Miramax	
+executive	
+Steve	
+Hutensky	
+,	
+37	
+,	
+whom	
+she	
+met	
+at	
+a	
+wedding	
+in	
+1998	
+.	
+
+After	
+dating	
+for	
+almost	
+two	
+years	
+,	
+the	
+pair	
+became	
+engaged	
+on	
+a	
+carriage	
+ride	
+through	
+Central	
+Park	
+in	
+January	
+2000	
+.	
+
+But	
+the	
+wedding	
+plans	
+were	
+short-lived	
+.	
+
+After	
+Ryan	
+was	
+diagnosed	
+with	
+leukemia	
+,	
+O'Neal	
+broke	
+off	
+the	
+engagement	
+and	
+moved	
+west	
+to	
+be	
+near	
+her	
+dad	
+.	
+
+"	
+I	
+was	
+a	
+runaway	
+bride	
+,	
+"	
+she	
+says	
+.	
+
+"	
+Steve	
+'s	
+a	
+great	
+guy	
+.	
+
+I	
+'m	
+sure	
+he	
+'s	
+extremely	
+pissed	
+off	
+.	
+
+But	
+I	
+'m	
+still	
+fighting	
+this	
+first	
+marriage	
+.	
+"	
+
+The	
+breakup	
+,	
+coupled	
+with	
+her	
+father	
+'s	
+diagnosis	
+,	
+"	
+sent	
+me	
+into	
+a	
+terrible	
+spin	
+,	
+"	
+she	
+says	
+.	
+
+She	
+ended	
+three	
+years	
+of	
+sobriety	
+by	
+turning	
+to	
+cocaine	
+.	
+
+It	
+'s	
+a	
+long	
+path	
+back	
+,	
+but	
+O'Neal	
+insists	
+she	
+has	
+taken	
+the	
+first	
+steps	
+.	
+
+"	
+I	
+think	
+it	
+would	
+be	
+terribly	
+sad	
+if	
+I	
+killed	
+myself	
+with	
+my	
+addiction	
+,	
+"	
+she	
+says	
+.	
+
+"	
+How	
+sad	
+would	
+I	
+be	
+if	
+I	
+could	
+n't	
+overcome	
+my	
+legacy	
+?	
+
+I	
+tell	
+myself	
+that	
+I	
+have	
+to	
+channel	
+it	
+into	
+art	
+,	
+work	
+,	
+loving	
+my	
+kids	
+,	
+living	
+a	
+good	
+life	
+.	
+
+There	
+are	
+people	
+who	
+will	
+love	
+me	
+if	
+I	
+let	
+them	
+.	
+"	
+
+Twice	*	
+a	*	
+month	*	
+she	*	
+visits	*	
+New	*	
+York	*	
+City	*	
+,	*	
+where	*	
+her	*	
+three-bedroom	*	
+apartment	*	
+is	*	
+just	*	
+eight	*	
+blocks	*	
+from	*	
+the	*	
+Central	*	
+Park	*	
+West	*	
+home	*	
+McEnroe	*	
+shares	*	
+with	*	
+their	*	
+children	*	
+,	*	
+his	(marriage:person*)	
+second	*	
+wife	*	
+,	*	
+rock	*	
+singer	*	
+Patty	(marriage:person*	
+Smyth	*)	
+,	*	
+45	*	
+,	*	
+her	*	
+daughter	*	
+and	*	
+their	*	
+two	*	
+kids	*	
+.	*	
+
+She	
+sees	
+Kevin	
+,	
+Sean	
+and	
+Emily	
+only	
+when	
+McEnroe	
+will	
+allow	
+—	
+which	
+,	
+in	
+their	
+current	
+state	
+of	
+bitterness	
+,	
+she	
+says	
+,	
+translates	
+to	
+seldom	
+,	
+if	
+at	
+all	
+.	
+
+Instead	
+,	
+they	
+communicate	
+by	
+cell	
+phone	
+—	
+"	
+I	
+leave	
+long	
+messages	
+,	
+and	
+they	
+say	
+,	
+'	
+Geez	
+,	
+Mom	
+,	
+you	
+'re	
+wasting	
+my	
+battery	
+!	
+'	
+"	
+
+—	
+and	
+O'Neal	
+spends	
+much	
+of	
+her	
+time	
+at	
+her	
+home	
+in	
+West	
+Hollywood	
+.	
+
+There	
+,	
+with	
+her	
+dog	
+Lena	
+,	
+a	
+Scottie	
+,	
+and	
+cats	
+Wallet	
+,	
+Zoey	
+and	
+Percy	
+,	
+she	
+has	
+settled	
+into	
+a	
+quiet	
+routine	
+of	
+weekly	
+yoga	
+,	
+daily	
+meditation	
+and	
+twice-daily	
+AA	
+meetings	
+.	
+
+She	
+is	
+also	
+hoping	
+to	
+revive	
+her	
+acting	
+career	
+with	
+a	
+role	
+in	
+The	
+Scoundrel	
+'s	
+Wife	
+,	
+an	
+indie	
+film	
+that	
+is	
+looking	
+for	
+a	
+distributor	
+.	
+
+Meanwhile	
+,	
+despite	
+her	
+dad	
+'s	
+reluctance	
+to	
+have	
+a	
+heart-to-heart	
+,	
+O'Neal	
+is	
+focused	
+on	
+making	
+peace	
+.	
+
+"	
+He	
+'s	
+all	
+I	
+have	
+,	
+"	
+she	
+says	
+.	
+
+"	
+We	
+may	
+not	
+have	
+a	
+great	
+relationship	
+,	
+but	
+he	
+loves	
+me	
+to	
+pieces	
+,	
+and	
+I	
+love	
+him	
+.	
+
+And	
+you	
+know	
+what	
+?	
+
+I	
+forgive	
+him	
+.	
+"	
+
+Michelle	
+Tauber	
+Todd	
+Gold	
+and	
+Lorenzo	
+Benet	
+in	
+Los	
+Angeles	
+and	
+KC	
+Baker	
+in	
+New	
+York	
+City	
+

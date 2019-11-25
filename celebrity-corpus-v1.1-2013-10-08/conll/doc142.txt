@@ -1,0 +1,3480 @@
+30	
+
+JADA	
+PINKETT	
+SMITH	
+Sept.	
+18	
+
+Talk	
+about	
+a	
+high-wire	
+act	
+.	
+
+This	*	
+spring	*	
+Jada	*	
+Pinkett	*	
+Smith	*	
+cooly	*	
+juggled	*	
+breast-feeding	*	
+Willow	(person_parent:person*)	
+,	*	
+her	(person_parent:parent*)	
+9-month-old	*	
+daughter	*	
+with	*	
+actor	*	
+Will	(person_parent:parent*	
+Smith	*)	
+,	*	
+with	*	
+rigorous	*	
+kickboxing	*	
+workouts	*	
+and	*	
+stunt-training	*	
+sessions	*	
+for	*	
+her	*	
+role	*	
+in	*	
+next	*	
+year	*	
+'s	*	
+sequel	*	
+to	*	
+The	*	
+Matrix	*	
+.	*	
+
+"	
+No	
+one	
+would	
+ever	
+describe	
+her	
+as	
+frazzled	
+,	
+"	
+says	
+her	
+stylist	
+Rachel	
+Zoe	
+Rosenzweig	
+.	
+
+"	
+She	
+does	
+n't	
+let	
+anything	
+freak	
+her	
+out	
+.	
+"	
+
+Especially	
+not	
+her	
+upcoming	
+30th	
+birthday	
+.	
+
+"	
+I	
+'m	
+finally	
+feeling	
+like	
+a	
+woman	
+,	
+"	
+Pinkett	
+Smith	
+told	
+Vibe	
+in	
+May	
+.	
+
+"	
+Before	
+,	
+I	
+was	
+a	
+little	
+girl	
+just	
+trying	
+to	
+be	
+a	
+woman	
+.	
+"	
+
+As	
+she	
+embraces	
+her	
+new	
+identity	
+,	
+Pinkett	
+Smith	
+is	
+reassessing	
+her	
+old	
+one	
+.	
+
+"	*	
+I	*	
+'ve	*	
+kind	*	
+of	*	
+outgrown	*	
+[	*	
+going	*	
+]	*	
+out	*	
+with	*	
+my	*	
+short	*	
+skirts	*	
+on	*	
+,	*	
+with	*	
+my	*	
+stomach	*	
+out	*	
+or	*	
+my	(person_parent:parent*)	
+bust	*	
+up	*	
+,	*	
+"	*	
+said	*	
+the	*	
+5-ft	*	
+.	*	
+actress	*	
+,	*	
+who	*	
+also	*	
+has	*	
+a	*	
+son	*	
+,	*	
+Jaden	(person_parent:person*)	
+,	*	
+3	*	
+,	*	
+with	*	
+Smith	(person_parent:parent*)	
+.	*	
+
+"	
+I	
+do	
+n't	
+necessarily	
+think	
+that	
+'s	
+something	
+I	
+have	
+to	
+do	
+.	
+"	
+
+Though	
+she	
+stays	
+in	
+shape	
+with	
+yoga	
+and	
+a	
+diet	
+of	
+lean	
+meats	
+and	
+lots	
+of	
+fresh	
+greens	
+,	
+Pinkett	
+Smith	
+does	
+n't	
+spend	
+a	
+lot	
+of	
+time	
+obsessing	
+over	
+her	
+looks	
+or	
+beauty	
+regimens	
+.	
+
+"	
+She	
+keeps	
+it	
+simple	
+,	
+"	
+says	
+close	
+pal	
+and	
+makeup	
+artist	
+Matthew	
+Van	
+Leeuwen	
+.	
+
+"	
+She	
+'s	
+taken	
+sexy	
+to	
+a	
+whole	
+different	
+level	
+.	
+"	
+
+JENNA	
+ELFMAN	
+Sept.	
+30	
+
+As	
+she	
+approaches	
+30	
+,	
+Elfman	
+has	
+found	
+her	
+comfort	
+zone	
+.	
+
+Her	
+show	
+Dharma	
+&	
+Greg	
+is	
+a	
+hit	
+.	
+
+She	(marriage:person*)	
+and	*	
+husband	*	
+Bodhi	(marriage:person*)	
+,	*	
+32	*	
+,	*	
+have	*	
+been	*	
+happily	*	
+married	*	
+for	*	
+six	*	
+years	*	
+.	*	
+
+And	
+the	
+5	
+'	
+10	
+"	
+Elfman	
+likes	
+what	
+she	
+sees	
+when	
+she	
+looks	
+in	
+the	
+mirror	
+.	
+
+"	
+If	
+you	
+'re	
+feeling	
+good	
+about	
+your	
+marriage	
+and	
+career	
+,	
+you	
+'re	
+going	
+to	
+look	
+okay	
+,	
+"	
+she	
+has	
+said	
+.	
+
+Elfman	
+definitely	
+does	
+.	
+
+"	
+She	
+enjoys	
+her	
+life	
+,	
+"	
+says	
+her	
+makeup	
+artist	
+Ann	
+Masterson	
+.	
+
+"	
+She	
+'s	
+very	
+secure	
+with	
+who	
+she	
+is	
+.	
+"	
+
+Secure	
+enough	
+,	
+according	
+to	
+Dharma	
+costume	
+designer	
+Linda	
+Bass	
+,	
+to	
+shun	
+the	
+frills	
+and	
+show	
+off	
+her	
+"	
+sexy	
+tomboy	
+appeal	
+.	
+"	
+
+To	
+keep	
+her	
+body	
+toned	
+,	
+Elfman	
+takes	
+ballet	
+lessons	
+at	
+her	
+home	
+three	
+times	
+a	
+week	
+,	
+studies	
+yoga	
+,	
+drinks	
+about	
+100	
+oz	
+.	
+
+of	
+water	
+a	
+day	
+,	
+gets	
+plenty	
+of	
+sleep	
+and	
+tries	
+to	
+avoid	
+sugar	
+.	
+
+And	
+if	
+she	
+'s	
+sweating	
+getting	
+older	
+,	
+she	
+is	
+n't	
+showing	
+it	
+.	
+
+"	
+I	
+do	
+n't	
+think	
+it	
+matters	
+to	
+her	
+,	
+"	
+says	
+her	
+Town	
+&	
+Country	
+director	
+Peter	
+Chesholm	
+.	
+
+"	
+She	
+still	
+has	
+such	
+a	
+great	
+child	
+within	
+her	
+.	
+"	
+
+REGINA	
+KING	
+Jan.	
+15	
+
+King	
+refuses	
+to	
+lie	
+about	
+her	
+age	
+and	
+insists	
+that	
+she	
+wo	
+n't	
+ever	
+have	
+plastic	
+surgery	
+.	
+
+"	
+Are	
+there	
+parts	
+of	
+my	
+body	
+that	
+I	
+'d	
+want	
+another	
+way	
+?	
+
+Definitely	
+,	
+"	
+she	
+says	
+.	
+
+"	
+But	
+to	
+the	
+extent	
+of	
+changing	
+it	
+?	
+
+No.	
+"	
+While	
+the	
+5	
+'	
+3	
+"	
+King	
+is	
+comfortable	
+letting	
+nature	
+take	
+its	
+course	
+,	
+she	
+intends	
+to	
+go	
+down	
+that	
+course	
+as	
+gracefully	
+as	
+possible	
+.	
+
+Without	
+fail	
+,	
+she	
+works	
+out	
+four	
+times	
+a	
+week	
+,	
+mixing	
+in	
+a	
+little	
+cardio	
+with	
+light	
+weight	
+training	
+.	
+
+She	
+also	
+tries	
+to	
+be	
+a	
+healthy	
+eater	
+but	
+admits	
+that	
+her	
+strict	
+exercise	
+routine	
+allows	
+her	
+to	
+satisfy	
+her	
+sugar	
+cravings	
+and	
+indulge	
+in	
+the	
+occasional	
+"	
+McDonald	
+'s	
+moments	
+.	
+"	
+
+To	*	*	
+keep	*	*	
+her	(person_parent:parent*)	(marriage:person*)	
+skin	*	*	
+problem-free	*	*	
+,	*	*	
+the	*	*	
+Jerry	*	*	
+Maguire	*	*	
+actress	*	*	
+,	*	*	
+who	*	*	
+'s	*	*	
+married	*	*	
+to	*	*	
+record	*	*	
+company	*	*	
+executive	*	*	
+Ian	*	(marriage:person*	
+Alexander	*	*)	
+,	*	*	
+34	*	*	
+,	*	*	
+and	*	*	
+mother	*	*	
+to	*	*	
+Ian	(person_parent:person*	*	
+Jr.	*)	*	
+,	*	*	
+5	*	*	
+,	*	*	
+makes	*	*	
+time	*	*	
+for	*	*	
+monthly	*	*	
+facials	*	*	
+and	*	*	
+forgoes	*	*	
+makeup	*	*	
+during	*	*	
+the	*	*	
+day	*	*	
+,	*	*	
+believing	*	*	
+that	*	*	
+"	*	*	
+your	*	*	
+face	*	*	
+and	*	*	
+skin	*	*	
+glow	*	*	
+the	*	*	
+most	*	*	
+when	*	*	
+you	*	*	
+have	*	*	
+a	*	*	
+happy	*	*	
+personality	*	*	
+.	*	*	
+"	*	*	
+
+Her	
+husband	
+gets	
+credit	
+for	
+that	
+.	
+
+Says	
+King	
+:	
+"	
+Just	
+the	
+way	
+he	
+looks	
+at	
+me	
+and	
+says	
+,	
+'	
+Wow	
+,	
+my	
+wife	
+is	
+fine	
+.	
+'	
+
+To	
+this	
+day	
+it	
+makes	
+me	
+blush	
+.	
+"	
+
+ANNABETH	
+GISH	
+March	
+13	
+
+Ever	
+since	
+the	
+Iowa-born	
+Gish	
+turned	
+30	
+,	
+she	
+feels	
+like	
+she	
+'s	
+finally	
+been	
+able	
+to	
+exhale	
+.	
+
+"	
+Aaaah	
+,	
+I	
+'m	
+30	
+,	
+"	
+says	
+the	
+X-Files	
+costar	
+.	
+
+"	
+I	
+have	
+the	
+anxiety	
+of	
+my	
+20s	
+out	
+of	
+the	
+way	
+.	
+"	
+
+So	
+,	
+no	
+more	
+compulsive	
+exercising	
+:	
+Now	
+she	
+alternates	
+long	
+hikes	
+with	
+boxing	
+and	
+spinning	
+.	
+
+No	
+more	
+obsessive	
+dieting	
+:	
+Instead	
+the	
+5	
+'	
+8	
+"	
+Gish	
+avoids	
+dairy	
+products	
+but	
+otherwise	
+eats	
+what	
+she	
+likes	
+,	
+in	
+moderation	
+,	
+and	
+drinks	
+lots	
+of	
+water	
+.	
+
+And	
+no	
+more	
+slavish	
+devotion	
+to	
+style	
+trends	
+.	
+
+"	
+There	
+does	
+n't	
+need	
+to	
+be	
+one	
+definition	
+of	
+beauty	
+and	
+sexiness	
+,	
+"	
+she	
+says	
+.	
+
+"	
+A	
+true	
+sense	
+of	
+fashion	
+is	
+individual	
+style	
+,	
+and	
+that	
+can	
+only	
+be	
+enhanced	
+when	
+you	
+know	
+who	
+you	
+are	
+.	
+"	
+
+Which	
+Gish	
+,	
+who	
+'s	
+single	
+,	
+definitely	
+does	
+.	
+
+"	
+I	
+like	
+my	
+awkward	
+qualities	
+,	
+like	
+my	
+klutziness	
+,	
+"	
+she	
+says	
+.	
+
+"	
+I	
+feel	
+better	
+in	
+my	
+bones	
+than	
+I	
+ever	
+have	
+.	
+"	
+
+WINONA	
+RYDER	
+Oct.	
+29	
+
+Often	
+a	
+trendsetter	
+,	
+never	
+a	
+fad	
+follower	
+,	
+Ryder	
+has	
+a	
+distinctive	
+sense	
+of	
+style	
+that	
+has	
+only	
+gotten	
+sexier	
+with	
+age	
+.	
+
+"	
+I	
+'m	
+taken	
+aback	
+by	
+how	
+beautifully	
+she	
+'s	
+matured	
+,	
+"	
+says	
+L.A.	
+boutique	
+owner	
+Cameron	
+Silver	
+,	
+who	
+has	
+known	
+her	
+for	
+13	
+years	
+and	
+watched	
+her	
+evolve	
+from	
+gamine	
+to	
+"	
+Ava	
+Gardner	
+glamorous	
+.	
+"	
+
+She	
+has	
+achieved	
+it	
+with	
+a	
+no-muss	
+,	
+no-fuss	
+regimen	
+that	
+includes	
+doing	
+her	
+own	
+hair	
+and	
+makeup	
+for	
+most	
+red-carpet	
+events	
+,	
+getting	
+eight	
+hours	
+of	
+sleep	
+a	
+night	
+and	
+occasionally	
+consulting	
+a	
+nutritionist	
+.	
+
+And	
+the	
+5	
+'	
+4	
+"	
+Ryder	
+remains	
+fashionably	
+fit	
+,	
+though	
+she	
+no	
+longer	
+endures	
+the	
+kind	
+of	
+serious	
+gym	
+sessions	
+she	
+had	
+to	
+undertake	
+for	
+her	
+role	
+in	
+Alien	
+Resurrection	
+five	
+years	
+ago	
+.	
+
+Turning	
+30	
+is	
+n't	
+likely	
+to	
+change	
+that	
+.	
+
+Says	
+her	
+Girl	
+,	
+Interrupted	
+costar	
+Elizabeth	
+Moss	
+:	
+"	
+She	
+does	
+n't	
+seem	
+to	
+be	
+concerned	
+with	
+it	
+at	
+all	
+.	
+"	
+
+40	
+
+MARIEL	
+HEMINGWAY	
+Nov.	
+22	
+
+"	
+I	
+'ve	
+earned	
+my	
+age	
+;	
+I	
+would	
+n't	
+want	
+to	
+go	
+back	
+,	
+"	
+says	
+the	
+5	
+'	
+11	
+"	
+actress	
+.	
+
+A	
+teetotaling	
+yoga	
+fanatic	
+,	
+she	
+likes	
+her	
+body	
+now	
+more	
+than	
+ever	
+—	
+even	
+the	
+lines	
+.	
+
+"	
+They	
+are	
+a	
+map	
+to	
+who	
+you	
+are	
+.	
+
+So	
+there	
+'s	
+no	
+Botox	
+in	
+my	
+life	
+.	
+
+I	
+do	
+n't	
+want	
+a	
+perma-grin	
+.	
+"	
+
+That	
+'s	
+a	
+big	
+turnaround	
+from	
+a	
+woman	
+who	
+had	
+breast	
+implants	
+when	
+she	
+was	
+19	
+years	
+old	
+.	
+
+"	
+I	
+had	
+my	
+years	
+of	
+doing	
+artificial	
+things	
+,	
+and	
+I	
+do	
+n't	
+do	
+that	
+anymore	
+,	
+"	
+explains	
+Hemingway	
+,	
+who	
+had	
+the	
+implants	
+removed	
+15	
+years	
+later	
+.	
+
+"	
+It	
+was	
+really	
+the	
+antithesis	
+of	
+me	
+.	
+"	
+
+Now	
+she	
+meditates	
+twice	
+a	
+day	
+,	
+goes	
+on	
+five-mile	
+runs	
+in	
+Sun	
+Valley	
+,	
+Idaho	
+,	
+where	
+she	
+lives	
+with	
+her	
+husband	
+and	
+two	
+daughters	
+,	
+and	
+sticks	
+to	
+a	
+strict	
+no-sugar	
+,	
+low-carb	
+diet	
+.	
+
+"	
+Women	
+in	
+their	
+40s	
+and	
+50s	
+are	
+utterly	
+gorgeous	
+nowadays	
+,	
+"	
+she	
+says	
+.	
+
+"	
+It	
+'s	
+no	
+longer	
+about	
+being	
+pretty	
+,	
+it	
+'s	
+about	
+being	
+elegant	
+and	
+striking	
+and	
+having	
+a	
+style	
+of	
+your	
+own	
+.	
+"	
+
+HEATHER	
+LOCKLEARSept	
+.	
+
+25	
+
+Locklear	
+is	
+n't	
+dreading	
+the	
+big	
+4-0	
+at	
+all	
+.	
+
+"	
+Everybody	
+makes	
+a	
+big	
+deal	
+out	
+of	
+it	
+,	
+"	
+she	
+says	
+.	
+
+"	
+You	
+know	
+what	
+?	
+
+I	
+'m	
+alive	
+.	
+
+I	
+'m	
+still	
+around	
+.	
+"	
+
+And	
+still	
+sexy	
+.	
+
+After	
+two	
+decades	
+of	
+playing	
+vamps	
+—	
+on	
+Dynasty	
+in	
+the	
+'80s	
+and	
+Melrose	
+Place	
+in	
+the	
+'90s	
+—	
+Locklear	
+now	
+brings	
+the	
+same	
+sizzle	
+to	
+the	
+ABC	
+sitcom	
+Spin	
+City	
+,	
+both	
+onscreen	
+and	
+on	
+the	
+set	
+.	
+
+"	
+Honestly	
+,	
+she	
+'s	
+as	
+pretty	
+out	
+of	
+makeup	
+as	
+she	
+is	
+in	
+,	
+"	
+says	
+costar	
+Barry	
+Bostwick	
+,	
+"	
+because	
+it	
+'s	
+coming	
+from	
+someplace	
+real	
+.	
+"	
+
+What	
+seems	
+unreal	
+is	
+the	
+5	
+'	
+5	
+"	
+actress	
+'s	
+ability	
+to	
+fit	
+into	
+her	
+favorite	
+body-conscious	
+outfits	
+(	
+she	
+'s	
+partial	
+to	
+Dolce	
+&	
+Gabbana	
+and	
+Gucci	
+)	
+—	
+in	
+spite	
+of	
+her	
+admitted	
+jones	
+for	
+junk	
+food	
+.	
+
+"	
+I	
+think	
+,	
+'	
+I	
+definitely	
+should	
+n't	
+have	
+that	
+Krispy	
+Kreme	
+,	
+'	
+"	
+she	
+says	
+,	
+"	
+then	
+I	
+have	
+three	
+!	
+"	
+
+Lately	
+,	
+though	
+,	
+Locklear	
+has	
+been	
+trying	
+to	
+rein	
+in	
+those	
+bad	
+habits	
+,	
+signing	
+up	
+for	
+regular	
+delivery	
+of	
+healthful	
+meals	
+to	
+her	
+L.A.	
+home	
+.	
+
+"	
+It	
+'s	
+not	
+really	
+a	
+diet	
+,	
+it	
+'s	
+just	
+eating	
+healthy	
+,	
+"	
+she	
+says	
+.	
+
+Locklear	
+also	
+stays	
+active	
+(	
+"	
+She	
+works	
+out	
+some	
+,	
+but	
+even	
+if	
+she	
+did	
+n't	
+she	
+would	
+stay	
+in	
+amazing	
+shape	
+,	
+"	
+says	
+her	
+friend	
+and	
+makeup	
+artist	
+Lisa	
+Ashley	
+)	
+and	
+has	
+become	
+savvy	
+about	
+the	
+aging	
+effects	
+of	
+the	
+sun	
+.	
+
+"	
+I	
+use	
+sunblock	
+now	
+,	
+"	
+she	
+says	
+.	
+
+"	
+Up	
+until	
+,	
+like	
+,	
+32	
+,	
+I	
+did	
+n't	
+.	
+
+And	
+I	
+always	
+take	
+my	
+makeup	
+off	
+at	
+night	
+.	
+
+Always	
+.	
+"	
+
+Afterward	*	*	
+she	*	*	
+gets	*	*	
+plenty	*	*	
+of	*	*	
+rest	*	*	
+,	*	*	
+usually	*	*	
+turning	*	*	
+in	*	*	
+by	*	*	
+9	*	*	
+p.m.	*	*	
+ever	*	*	
+since	*	*	
+the	*	*	
+birth	*	*	
+of	*	*	
+Ava	(person_parent:person*)	*	
+,	*	*	
+3	*	*	
+,	*	*	
+her	(person_parent:parent*)	*	
+daughter	*	*	
+with	*	*	
+her	*	(marriage:person*)	
+husband	*	*	
+of	*	*	
+almost	*	*	
+seven	*	*	
+years	*	*	
+,	*	*	
+Bon	*	*	
+Jovi	*	*	
+guitarist	*	*	
+Richie	(person_parent:parent*	(marriage:person*	
+Sambora	*)	*)	
+.	*	*	
+
+"	
+When	
+I	
+was	
+single	
+I	
+went	
+out	
+a	
+lot	
+,	
+"	
+says	
+Locklear	
+.	
+
+"	
+Now	
+I	
+'m	
+in	
+bed	
+way	
+before	
+I	
+'d	
+start	
+getting	
+ready	
+to	
+go	
+out	
+.	
+"	
+
+But	
+she	
+'ll	
+make	
+an	
+exception	
+for	
+Sept.	
+25	
+.	
+
+"	
+I	
+do	
+n't	
+think	
+she	
+cares	
+about	
+turning	
+40	
+,	
+"	
+says	
+Ashley	
+.	
+
+"	
+All	
+she	
+thinks	
+about	
+is	
+having	
+a	
+party	
+.	
+"	
+
+MEG	
+RYAN	
+Nov.	
+19	
+
+"	
+When	
+you	
+look	
+at	
+Meg	
+Ryan	
+,	
+you	
+think	
+youthful	
+and	
+happy	
+,	
+"	
+says	
+her	
+hairstylist	
+Sally	
+Hershberger	
+.	
+
+"	
+She	
+'s	
+got	
+that	
+really	
+young	
+spark	
+.	
+"	
+
+It	
+'s	
+evident	
+in	
+the	
+actress	
+'s	
+signature	
+shaggy	
+cut	
+,	
+an	
+unkempt	
+,	
+free-spirited	
+style	
+that	
+has	
+swept	
+the	
+country	
+.	
+
+Ryan	
+got	
+the	
+chop	
+for	
+her	
+'95	
+film	
+French	
+Kiss	
+and	
+has	
+stuck	
+with	
+it	
+.	
+
+"	
+It	
+goes	
+with	
+her	
+style	
+—	
+undone	
+,	
+"	
+notes	
+Hershberger	
+.	
+
+Her	
+image	
+is	
+"	
+kind	
+of	
+glam	
+rock	
+mixed	
+with	
+hippie	
+,	
+which	
+is	
+a	
+youthful	
+look	
+.	
+"	
+
+City	
+of	
+Angels	
+costume	
+designer	
+Shay	
+Cunliffe	
+calls	
+it	
+a	
+"	
+throwaway	
+"	
+style	
+that	
+is	
+distinctly	
+Ryan	
+'s	
+.	
+
+"	
+She	
+knows	
+exactly	
+what	
+feels	
+right	
+to	
+her	
+,	
+"	
+she	
+says	
+.	
+
+"	
+Meg	
+'s	
+not	
+looking	
+to	
+project	
+herself	
+as	
+a	
+sex	
+symbol	
+at	
+all	
+.	
+"	
+
+That	
+'s	
+not	
+to	
+say	
+the	
+5	
+'	
+8	
+"	
+Ryan	
+leaves	
+her	
+looks	
+to	
+chance	
+.	
+
+She	
+keeps	
+an	
+eye	
+on	
+her	
+diet	
+,	
+works	
+out	
+and	
+has	
+long	
+touted	
+the	
+benefits	
+of	
+yoga	
+and	
+meditation	
+.	
+
+The	
+payback	
+is	
+contentment	
+.	
+
+"	
+I	
+do	
+like	
+being	
+how	
+old	
+I	
+am	
+,	
+"	
+she	
+told	
+W	
+magazine	
+last	
+fall	
+.	
+
+"	
+I	
+'m	
+so	
+glad	
+the	
+vicissitudes	
+and	
+all	
+of	
+that	
+insecurity	
+have	
+subsided	
+.	
+
+That	
+was	
+not	
+pleasant	
+.	
+"	
+
+CAMRYN	
+MANHEIM	
+March	
+8	
+
+Manheim	
+not	
+only	
+does	
+n't	
+fret	
+about	
+her	
+age	
+,	
+for	
+the	
+past	
+15	
+years	
+,	
+she	
+has	
+actually	
+advertised	
+it	
+on	
+her	
+personal	
+cards	
+,	
+with	
+the	
+words	
+,	
+"	
+Camryn	
+Manheim	
+.	
+
+Since	
+1961	
+.	
+"	
+
+"	
+I	
+'ve	
+never	
+shied	
+away	
+from	
+telling	
+people	
+my	
+age	
+,	
+"	
+says	
+the	
+Emmy-winning	
+star	
+of	
+The	
+Practice	
+.	
+
+"	
+I	
+do	
+n't	
+buy	
+into	
+the	
+stigma	
+of	
+turning	
+40	
+.	
+
+I	
+think	
+40	
+is	
+the	
+new	
+30	
+.	
+
+Most	
+of	
+the	
+time	
+I	
+feel	
+like	
+a	
+big	
+kid	
+.	
+
+The	*	
+birth	*	
+of	*	
+son	*	
+Milo	(person_parent:person*)	
+two	*	
+days	*	
+before	*	
+Manheim	(person_parent:parent*)	
+'s	*	
+own	*	
+birthday	*	
+made	*	
+this	*	
+year	*	
+'s	*	
+celebration	*	
+all	*	
+the	*	
+sweeter	*	
+.	*	
+
+Manheim	
+had	
+vowed	
+to	
+become	
+a	
+mom	
+by	
+age	
+40	
+and	
+Milo	
+turned	
+up	
+just	
+in	
+time	
+.	
+
+"	
+In	
+my	
+universe	
+,	
+"	
+she	
+says	
+,	
+"	
+things	
+seem	
+to	
+work	
+out	
+the	
+way	
+I	
+plan	
+.	
+"	
+
+A	
+poster	
+girl	
+for	
+the	
+plus-size	
+set	
+ever	
+since	
+Wake	
+Up	
+,	
+I	
+'m	
+Fat	
+!	
+
+,	
+the	
+title	
+of	
+her	
+one-woman	
+stage	
+show	
+and	
+subsequent	
+1999	
+bestseller	
+,	
+Manheim	
+preaches	
+the	
+gospel	
+of	
+self-acceptance	
+.	
+
+The	
+5	
+'	
+10	
+"	
+actress	
+plays	
+racquetball	
+and	
+takes	
+jazz	
+dancing	
+classes	
+but	
+argues	
+that	
+the	
+best	
+beauty	
+secret	
+is	
+a	
+positive	
+attitude	
+.	
+
+"	
+All	
+that	
+stuff	
+helps	
+you	
+look	
+good	
+,	
+but	
+you	
+do	
+n't	
+have	
+to	
+be	
+on	
+a	
+diet	
+or	
+running	
+six	
+miles	
+a	
+day	
+,	
+"	
+she	
+says	
+.	
+
+"	
+I	
+attribute	
+looking	
+good	
+to	
+my	
+happy	
+life	
+.	
+
+If	
+you	
+'re	
+happy	
+about	
+getting	
+up	
+in	
+the	
+morning	
+,	
+you	
+'ll	
+glow	
+just	
+by	
+default	
+.	
+"	
+
+Which	
+is	
+why	
+Manheim	
+wo	
+n't	
+stop	
+handing	
+out	
+those	
+personal	
+cards	
+.	
+
+"	
+Not	
+until	
+women	
+who	
+are	
+40	
+and	
+look	
+like	
+they	
+'re	
+30	
+admit	
+that	
+they	
+are	
+40	
+,	
+"	
+she	
+says	
+.	
+
+"	
+We	
+need	
+to	
+celebrate	
+all	
+the	
+different	
+ages	
+for	
+how	
+beautiful	
+and	
+fit	
+and	
+fabulous	
+they	
+are	
+.	
+"	
+
+50	
+
+JANE	
+SEYMOUR	
+Feb.	
+15	
+
+Seymour	(person_parent:parent*)	
+was	*	
+in	*	
+a	*	
+cafeteria	*	
+line	*	
+recently	*	
+with	*	
+daughter	*	
+Katie	(person_parent:person*	
+Flynn	*)	
+when	*	
+the	*	
+cashier	*	
+,	*	
+who	*	
+did	*	
+n't	*	
+recognize	*	
+the	*	
+actress	*	
+,	*	
+asked	*	
+if	*	
+the	*	
+pair	*	
+were	*	
+sisters	*	
+.	*	
+
+No	*	
+,	*	
+said	*	
+Seymour	*	
+,	*	
+"	*	
+I	(person_parent:parent*)	
+'m	*	
+her	(person_parent:person*)	
+mother	*	
+;	*	
+I	*	
+'m	*	
+50	*	
+,	*	
+and	*	
+she	*	
+'s	*	
+19	*	
+.	*	
+"	*	
+
+Responded	
+the	
+amazed	
+cashier	
+:	
+"	
+I	
+wo	
+n't	
+mind	
+being	
+50	
+if	
+I	
+look	
+like	
+you	
+!	
+"	
+
+The	
+5	
+'	
+4	
+"	
+Seymour	
+credits	
+that	
+agelessness	
+to	
+her	
+focus	
+on	
+mind	
+and	
+body	
+rather	
+than	
+the	
+calendar	
+.	
+
+She	
+gets	
+her	
+hair	
+colored	
+every	
+three	
+weeks	
+,	
+watches	
+her	
+diet	
+—	
+sticking	
+to	
+chicken	
+,	
+fish	
+and	
+vegetables	
+—	
+and	
+drinks	
+lots	
+of	
+water	
+,	
+while	
+trying	
+not	
+to	
+drink	
+alcohol	
+.	
+
+"	
+And	
+if	
+I	
+do	
+,	
+it	
+'s	
+wine	
+and	
+in	
+small	
+doses	
+.	
+"	
+
+Though	
+she	
+had	
+to	
+give	
+up	
+her	
+beloved	
+ballet	
+classes	
+after	
+recent	
+back	
+surgery	
+to	
+repair	
+a	
+herniated	
+disk	
+,	
+Seymour	
+is	
+pleased	
+about	
+the	
+killer	
+abs	
+she	
+developed	
+in	
+physical	
+therapy	
+.	
+
+"	
+She	
+'s	
+still	
+very	
+much	
+a	
+girl	
+,	
+"	
+says	
+her	
+longtime	
+hairstylist	
+Andre	
+Blaise	
+.	
+
+"	
+She	
+has	
+n't	
+lost	
+her	
+spirit	
+.	
+"	
+
+Or	
+her	
+energy	
+.	
+
+Besides	*	*	
+acting	*	*	
+,	*	*	
+Seymour	(person_parent:parent*)	*	
+has	*	*	
+shown	*	*	
+her	*	*	
+paintings	*	*	
+in	*	*	
+New	*	*	
+York	*	*	
+City	*	*	
+and	*	*	
+dotes	*	*	
+on	*	*	
+Katie	*	*	
+,	*	*	
+Sean	*	*	
+Flynn	*	*	
+,	*	*	
+16	*	*	
+,	*	*	
+and	*	*	
+twins	*	*	
+Kristopher	(person_parent:person*)	(sibling_relationship:person*)	
+and	*	*	
+John	(person_parent:person*)	(sibling_relationship:person*)	
+,	*	*	
+5	*	*	
+,	*	*	
+her	*	*	
+sons	*	*	
+with	*	*	
+actor	*	*	
+James	(person_parent:parent*	*	
+Keach	*)	*	
+,	*	*	
+53	*	*	
+.	*	*	
+
+Says	
+Seymour	
+:	
+"	
+This	
+is	
+the	
+peak	
+time	
+.	
+
+I	
+'ve	
+never	
+felt	
+better	
+.	
+"	
+
+BEVERLY	
+JOHNSON	
+Oct.	
+13	
+
+A	
+fringe	
+benefit	
+of	
+getting	
+older	
+is	
+a	
+friskier	
+love	
+life	
+,	
+says	
+former	
+model	
+Johnson	
+,	
+who	
+now	
+has	
+her	
+own	
+skin-care	
+line	
+.	
+
+"	
+I	
+'ve	
+always	
+been	
+passionate	
+and	
+very	
+sexual	
+,	
+but	
+it	
+just	
+gets	
+better	
+,	
+"	
+she	
+says	
+.	
+
+"	
+You	
+'re	
+more	
+yourself	
+.	
+"	
+
+To	
+maintain	
+pace	
+,	
+she	
+keeps	
+her	
+sweet	
+tooth	
+in	
+check	
+and	
+works	
+out	
+three	
+times	
+a	
+week	
+.	
+
+"	
+I	
+'d	
+rather	
+pay	
+a	
+trainer	
+than	
+have	
+a	
+new	
+dress	
+,	
+"	
+says	
+the	
+5	
+'	
+9	
+"	
+Johnson	
+,	
+divorced	
+with	
+a	
+grown	
+daughter	
+.	
+
+"	
+It	
+'s	
+not	
+vanity	
+.	
+
+I	
+want	
+a	
+long	
+healthy	
+life	
+.	
+"	
+
+Besides	
+,	
+"	
+you	
+can	
+put	
+any	
+dress	
+on	
+a	
+great	
+body	
+.	
+"	
+
+CHERYL	
+LADD	
+July	
+12	
+
+Playing	
+Charlie	
+'s	
+Angel	
+No.	
+4	
+made	
+Ladd	
+a	
+sex	
+symbol	
+back	
+in	
+the	
+'70s	
+,	
+but	
+she	
+feels	
+even	
+more	
+divine	
+today	
+.	
+
+"	
+I	
+have	
+this	
+wonderful	
+life	
+that	
+is	
+n't	
+about	
+how	
+old	
+I	
+am	
+or	
+how	
+I	
+look	
+,	
+"	
+says	
+the	
+5	
+'	
+4	
+"	
+actress	
+.	
+
+Ladd	(marriage:person*)	(person_parent:parent*)	
+,	*	*	
+who	*	*	
+has	*	*	
+a	*	*	
+daughter	*	*	
+,	*	*	
+Jordan	*	(person_parent:person*)	
+,	*	*	
+26	*	*	
+,	*	*	
+has	*	*	
+been	*	*	
+married	*	*	
+for	*	*	
+20	*	*	
+years	*	*	
+to	*	*	
+Brian	(marriage:person*	*	
+Russell	*)	*	
+,	*	*	
+57	*	*	
+,	*	*	
+a	*	*	
+writer	*	*	
+.	*	*	
+
+She	
+stays	
+fit	
+walking	
+as	
+many	
+as	
+20	
+miles	
+a	
+week	
+and	
+playing	
+a	
+lot	
+of	
+golf	
+and	
+eats	
+mostly	
+fish	
+and	
+vegetables	
+to	
+feel	
+"	
+healthy	
+and	
+youthful	
+.	
+"	
+
+Not	
+that	
+she	
+wants	
+to	
+pretend	
+she	
+'s	
+any	
+age	
+but	
+her	
+own	
+.	
+
+"	
+I	
+'ve	
+earned	
+every	
+crinkle	
+,	
+"	
+she	
+says	
+.	
+
+"	
+I	
+have	
+life	
+in	
+my	
+face	
+.	
+"	
+
+ANJELICA	
+HUSTON	
+July	
+8	
+
+Huston	
+does	
+her	
+age-defying	
+work	
+on	
+the	
+dance	
+floor	
+,	
+with	
+a	
+two-hour	
+routine	
+of	
+ballet	
+,	
+salsa	
+and	
+yoga	
+three	
+times	
+a	
+week	
+.	
+
+Physically	
+—	
+and	
+mentally	
+—	
+she	
+feels	
+in	
+better	
+shape	
+than	
+she	
+did	
+10	
+years	
+ago	
+.	
+
+"	*	
+I	(marriage:person*)	
+'m	*	
+more	*	
+secure	*	
+,	*	
+"	*	
+says	*	
+the	*	
+5	*	
+'	*	
+10	*	
+"	*	
+actress	*	
+,	*	
+married	*	
+since	*	
+1992	(marriage:from*)	
+to	*	
+sculptor	*	
+Robert	(marriage:person*	
+Graham	*)	
+.	*	
+
+A	
+sense	
+of	
+fun	
+is	
+the	
+secret	
+,	
+she	
+says	
+—	
+and	
+maybe	
+also	
+pricey	
+Crème	
+de	
+la	
+Mer	
+moisturizer	
+(	
+$	
+85	
+for	
+one	
+oz	
+.	
+)	
+.	
+
+"	
+I	
+do	
+n't	
+know	
+what	
+'s	
+in	
+that	
+stuff	
+,	
+but	
+it	
+really	
+does	
+something	
+,	
+"	
+she	
+says	
+.	
+
+As	
+for	
+turning	
+50	
+,	
+it	
+does	
+n't	
+faze	
+her	
+.	
+
+"	
+As	
+long	
+as	
+I	
+'m	
+happy	
+and	
+healthy	
+,	
+work	
+is	
+going	
+well	
+and	
+my	
+beloveds	
+are	
+around	
+me	
+,	
+I	
+feel	
+good	
+.	
+"	
+
+60	
+
+FAYE	
+DUNAWAY	
+Jan.	
+14	
+
+Age	
+has	
+done	
+nothing	
+to	
+dim	
+this	
+Oscar	
+winner	
+'s	
+allure	
+.	
+
+"	
+She	
+can	
+walk	
+in	
+a	
+room	
+and	
+five	
+guys	
+'	
+heads	
+will	
+whip	
+around	
+,	
+"	
+says	
+producer	
+Susan	
+Black	
+,	
+who	
+worked	
+with	
+Dunaway	
+on	
+last	
+year	
+'s	
+TNT	
+movie	
+Running	
+Mates	
+.	
+
+"	
+She	
+still	
+knows	
+how	
+to	
+work	
+it	
+.	
+"	
+
+To	
+sustain	
+those	
+jaw-dropping	
+looks	
+,	
+Dunaway	
+'s	
+beauty	
+manifesto	
+is	
+simple	
+:	
+"	
+Just	
+eat	
+right	
+and	
+stay	
+fit	
+.	
+"	
+
+That	
+means	
+weight	
+training	
+and	
+near	
+daily	
+treadmill	
+workouts	
+.	
+
+"	
+No	
+matter	
+what	
+your	
+age	
+,	
+it	
+helps	
+with	
+the	
+energy	
+factor	
+,	
+"	
+she	
+notes	
+.	
+
+But	*	
+the	*	
+5	*	
+'	*	
+7	*	
+"	*	
+Dunaway	(person_parent:parent*)	
+,	*	
+who	*	
+is	*	
+divorced	*	
+and	*	
+the	*	
+mother	*	
+of	*	
+model	*	
+Liam	(person_parent:person*	
+O'Neill	*)	
+,	*	
+does	*	
+n't	*	
+fuss	*	
+over	*	
+cosmetics	*	
+.	*	
+
+Says	
+the	
+actress	
+:	
+"	
+I	
+like	
+naturalness	
+.	
+"	
+
+MARTHA	
+STEWART	
+Aug	
+,	
+3	
+
+You	
+wo	
+n't	
+hear	
+domestic	
+goddess	
+Stewart	
+moan	
+about	
+her	
+age	
+.	
+
+"	
+Martha	
+is	
+never	
+a	
+complainer	
+,	
+"	
+says	
+her	
+friend	
+of	
+15	
+years	
+Jane	
+Heller	
+.	
+
+"	
+She	
+is	
+a	
+doer	
+.	
+"	
+
+The	
+5	
+'	
+9	
+"	
+Stewart	
+is	
+up	
+by	
+6	
+each	
+morning	
+for	
+a	
+one-hour	
+workout	
+,	
+juggles	
+back-to-back	
+meetings	
+for	
+her	
+multimedia	
+empire	
+—	
+and	
+still	
+manages	
+to	
+plant	
+peonies	
+and	
+whip	
+up	
+crème	
+brûlée	
+.	
+
+"	
+Her	
+youthful	
+enthusiasm	
+always	
+makes	
+her	
+seem	
+ageless	
+,	
+"	
+says	
+her	
+pal	
+,	
+chef	
+Todd	
+English	
+.	
+
+The	
+former	
+model	
+takes	
+practical	
+steps	
+too	
+:	
+She	
+always	
+wears	
+sunscreen	
+and	
+swears	
+by	
+Mario	
+Badescu	
+skin-care	
+products	
+.	
+
+But	
+calorie-counting	
+is	
+n't	
+an	
+option	
+.	
+
+"	
+She	
+tastes	
+everything	
+,	
+"	
+says	
+Heller	
+.	
+
+Not	
+that	
+it	
+does	
+any	
+harm	
+.	
+
+Says	
+makeup	
+artist	
+Kevyn	
+Aucoin	
+:	
+"	
+She	
+'s	
+as	
+vital	
+as	
+a	
+20-year-old	
+but	
+with	
+all	
+the	
+knowledge	
+and	
+maturity	
+of	
+someone	
+her	
+age	
+and	
+then	
+some	
+.	
+"	
+

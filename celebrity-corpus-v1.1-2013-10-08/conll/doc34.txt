@@ -1,0 +1,4204 @@
+Stop	
+for	
+a	
+moment	
+and	
+listen	
+carefully	
+in	
+any	
+mall	
+and	
+you	
+can	
+hear	
+the	
+distinctive	
+warble	
+of	
+the	
+adolescent	
+daughter	
+:	
+"	
+Mom	
+,	
+you	
+are	
+so	
+embarrassing	
+!	
+"	
+
+Sound	
+familiar	
+?	
+
+It	
+does	
+to	
+Cheryl	
+Ladd	
+.	
+
+"	
+If	
+I	
+went	
+to	
+Jordan	
+'s	
+school	
+,	
+she	
+would	
+say	
+,	
+'	
+Ca	
+n't	
+you	
+just	
+look	
+like	
+the	
+other	
+moms	
+?	
+'	
+"	
+
+Ladd	
+recalls	
+of	
+her	
+daughter	
+,	
+now	
+26	
+.	
+
+"	
+So	
+I	
+would	
+wear	
+no	
+makeup	
+and	
+casual	
+clothes	
+.	
+
+Then	
+she	
+would	
+say	
+,	
+'	
+Well	
+,	
+everybody	
+said	
+you	
+did	
+n't	
+look	
+like	
+Cheryl	
+Ladd	
+.	
+'	
+"	
+
+The	
+attitude	
+is	
+part	
+of	
+a	
+jarring	
+transformation	
+from	
+sublime	
+to	
+contentious	
+.	
+
+"	
+You	
+have	
+this	
+child	
+who	
+had	
+been	
+loving	
+and	
+you	
+adore	
+,	
+who	
+all	
+of	
+a	
+sudden	
+is	
+screaming	
+,	
+'	
+I	
+hate	
+you	
+,	
+Mother	
+!	
+
+You	
+'ve	
+ruined	
+my	
+life	
+!	
+'	
+"	
+
+says	*	
+Cybill	(person_parent:parent*	
+Shepherd	*)	
+,	*	
+whose	*	
+daughter	*	
+Clementine	(person_parent:person*)	
+is	*	
+21	*	
+.	*	
+
+Thankfully	
+,	
+though	
+,	
+teenage	
+girls	
+grow	
+up	
+.	
+
+Once	*	*	
+the	*	*	
+tempest	*	*	
+of	*	*	
+adolescence	*	*	
+has	*	*	
+passed	*	*	
+,	*	*	
+"	*	*	
+it	*	*	
+'s	*	*	
+like	*	*	
+a	*	*	
+butterfly	*	*	
+coming	*	*	
+out	*	*	
+of	*	*	
+a	*	*	
+chrysalis	*	*	
+,	*	*	
+"	*	*	
+says	*	*	
+Jane	*	(person_parent:parent*	
+Seymour	*	*)	
+,	*	*	
+who	*	*	
+has	*	*	
+found	*	*	
+peace	*	*	
+with	*	*	
+daughters	*	*	
+Jennifer	(sibling_relationship:person*)	(person_parent:person*)	
+,	*	*	
+21	*	*	
+,	*	*	
+and	*	*	
+Katie	(sibling_relationship:person*	(person_parent:person*	
+Flynn	*)	*)	
+,	*	*	
+19	*	*	
+.	*	*	
+
+As	
+the	
+celebrity	
+moms	
+on	
+the	
+following	
+pages	
+can	
+attest	
+,	
+the	
+rewards	
+of	
+raising	
+a	
+daughter	
+can	
+be	
+as	
+profound	
+as	
+discovering	
+that	
+she	
+is	
+your	
+new	
+best	
+friend	
+—	
+or	
+as	
+simple	
+as	
+extending	
+your	
+wardrobe	
+.	
+
+"	
+She	
+has	
+such	
+great	
+taste	
+and	
+style	
+,	
+"	
+Alana	
+Stewart	
+says	
+of	
+Kimberly	
+,	
+21	
+,	
+"	
+that	
+now	
+I	
+borrow	
+her	
+things	
+.	
+"	
+
+Goldie	
+Hawn	
+and	
+Kate	
+Hudson	
+
+She	
+revels	
+in	
+the	
+lavish	
+perks	
+of	
+celebrity	
+—	
+the	
+clubs	
+,	
+the	
+clothes	
+,	
+the	
+best	
+restaurants	
+.	
+
+But	
+last	
+fall	
+,	
+just	
+as	
+her	
+role	
+as	
+groupie	
+Penny	
+Lane	
+in	
+Almost	
+Famous	
+was	
+making	
+her	
+truly	
+famous	
+,	
+Kate	
+Hudson	
+revealed	
+her	
+more	
+familial	
+tastes	
+.	
+
+She	
+took	
+then-fiancé	
+Chris	
+Robinson	
+,	
+34	
+,	
+lead	
+singer	
+of	
+the	
+Black	
+Crowes	
+and	
+a	
+Georgia	
+native	
+,	
+to	
+Mom	
+'s	
+house	
+for	
+a	
+home-cooked	
+meal	
+.	
+
+"	*	
+She	*	
+comes	*	
+from	*	
+a	*	
+southern	*	
+family	*	
+too	*	
+,	*	
+"	*	
+Hudson	*	
+says	*	
+of	*	
+her	(person_parent:person*)	
+mother	*	
+,	*	
+Goldie	(person_parent:parent*	
+Hawn	*)	
+.	*	
+
+"	
+She	
+'s	
+like	
+,	
+'	
+I	
+'ll	
+make	
+you	
+chicken	
+and	
+dumplings	
+,	
+'	
+and	
+she	
+'s	
+walking	
+around	
+the	
+house	
+barefoot	
+,	
+with	
+flour	
+everywhere	
+.	
+
+And	
+we	
+all	
+cooked	
+with	
+her	
+.	
+
+That	
+'s	
+family	
+.	
+
+This	
+is	
+my	
+passion	
+.	
+"	
+
+A	
+passion	
+passed	
+down	
+.	
+
+"	*	
+My	*	
+mom	*	
+'s	*	
+a	*	
+wonderful	*	
+movie	*	
+star	*	
+,	*	
+"	*	
+says	*	
+Hudson	(person_parent:person*)	
+,	*	
+22	*	
+,	*	
+whose	*	
+father	*	
+is	*	
+Bill	(person_parent:parent*	
+Hudson	*)	
+of	*	
+the	*	
+'70s	*	
+comedy	*	
+trio	*	
+the	*	
+Hudson	*	
+Brothers	*	
+.	*	
+
+"	
+But	
+that	
+'s	
+not	
+who	
+she	
+is	
+at	
+all	
+.	
+
+She	
+did	
+n't	
+bring	
+that	
+home	
+.	
+"	
+
+Instead	
+,	
+Hawn	
+,	
+55	
+,	
+who	
+has	
+lived	
+with	
+actor	
+Kurt	
+Russell	
+,	
+50	
+,	
+for	
+18	
+years	
+(	
+Hudson	
+calls	
+him	
+Pa	
+)	
+,	
+tried	
+to	
+minimize	
+the	
+disruption	
+of	
+fame	
+on	
+her	
+family	
+life	
+.	
+
+She	*	*	*	*	
+tried	*	*	*	*	
+never	*	*	*	*	
+to	*	*	*	*	
+spend	*	*	*	*	
+more	*	*	*	*	
+than	*	*	*	*	
+two	*	*	*	*	
+weeks	*	*	*	*	
+away	*	*	*	*	
+from	*	*	*	*	
+her	*	*	*	(person_parent:parent*)	
+children	*	*	*	*	
+(	*	*	*	*	
+Hudson	(sibling_relationship:person*)	*	*	(person_parent:person*)	
+'s	*	*	*	*	
+brother	*	*	*	*	
+Oliver	(sibling_relationship:person*)	*	*	(person_parent:person*)	
+,	*	*	*	*	
+now	*	*	*	*	
+24	*	*	*	*	
+;	*	*	*	*	
+Wyatt	*	(person_parent:person*)	*	(person_parent:person*)	
+,	*	*	*	*	
+14	*	*	*	*	
+,	*	*	*	*	
+Hawn	*	(person_parent:parent*)	*	*	
+'s	*	*	*	*	
+son	*	*	*	*	
+with	*	*	*	*	
+Russell	*	(person_parent:parent*)	*	*	
+;	*	*	*	*	
+and	*	*	*	*	
+Boston	*	*	(person_parent:person*)	(person_parent:person*)	
+,	*	*	*	*	
+21	*	*	*	*	
+,	*	*	*	*	
+Russell	*	*	(person_parent:parent*)	*	
+'s	*	*	*	*	
+son	*	*	*	*	
+with	*	*	*	*	
+actress	*	*	*	*	
+Season	*	*	(person_parent:parent*	*	
+Hubley	*	*	*)	*	
+)	*	*	*	*	
+.	*	*	*	*	
+
+She	
+also	
+forbade	
+Hudson	
+to	
+quit	
+high	
+school	
+for	
+acting	
+.	
+
+But	
+Private	
+Benjamin	
+was	
+hardly	
+a	
+drill	
+sergeant	
+.	
+
+In	
+addition	
+to	
+the	
+obvious	
+similarities	
+—	
+those	
+wide-set	
+eyes	
+and	
+thick	
+blonde	
+manes	
+—	
+mother	
+and	
+daughter	
+are	
+free	
+spirits	
+.	
+
+"	
+I	
+was	
+15	
+,	
+and	
+I	
+remember	
+my	
+mother	
+going	
+,	
+'	
+Honey	
+,	
+have	
+you	
+already	
+had	
+sex	
+?	
+'	
+"	
+
+Hudson	
+once	
+told	
+Details	
+magazine	
+.	
+
+"	
+When	
+I	
+said	
+yes	
+—	
+that	
+I	
+'d	
+already	
+lost	
+my	
+virginity	
+to	
+a	
+boy	
+I	
+was	
+just	
+mad	
+for	
+—	
+she	
+was	
+supportive	
+.	
+"	
+
+Indeed	
+,	
+Hawn	
+encouraged	
+her	
+daughter	
+to	
+make	
+her	
+own	
+choices	
+—	
+and	
+mistakes	
+.	
+
+In	
+a	
+1999	
+interview	
+with	
+PEOPLE	
+,	
+Hudson	
+recalled	
+begging	
+her	
+mom	
+for	
+a	
+perm	
+,	
+only	
+to	
+be	
+warned	
+,	
+"	
+'	
+Honey	
+,	
+you	
+'ll	
+ruin	
+your	
+hair	
+.	
+'	
+
+So	
+I	
+got	
+a	
+perm	
+—	
+and	
+I	
+ruined	
+my	
+hair	
+.	
+"	
+
+Lately	
+Hudson	
+has	
+made	
+very	
+few	
+missteps	
+.	
+
+After	
+graduating	
+in	
+1997	
+from	
+Crossroads	
+,	
+a	
+Santa	
+Monica	
+performing	
+arts	
+school	
+,	
+she	
+landed	
+roles	
+in	
+a	
+few	
+small	
+films	
+before	
+Famous	
+,	
+for	
+which	
+she	
+earned	
+a	
+Golden	
+Globe	
+Award	
+and	
+an	
+Oscar	
+nomination	
+.	
+
+Last	
+year	
+was	
+a	
+big	
+one	
+for	
+her	
+personal	
+life	
+as	
+well	
+.	
+
+She	(marriage:person*)	
+and	*	
+Robinson	(marriage:person*)	
+,	*	
+who	*	
+share	*	
+a	*	
+Manhattan	*	
+apartment	*	
+,	*	
+wed	*	
+on	*	
+Dec.	(marriage:from*	
+31	*)	
+.	*	
+
+Hawn	
+and	
+Russell	
+wept	
+at	
+the	
+nuptials	
+in	
+Old	
+Snowmass	
+,	
+Colo.	
+.	
+
+Hawn	
+'s	
+new	
+son-in-law	
+may	
+sound	
+like	
+a	
+mother	
+'s	
+worst	
+nightmare	
+—	
+a	
+longtime	
+proponent	
+of	
+using	
+alcohol	
+and	
+drugs	
+to	
+enhance	
+creativity	
+,	
+Robinson	
+ended	
+his	
+first	
+marriage	
+in	
+1997	
+after	
+just	
+one	
+year	
+.	
+
+But	
+Hawn	
+insists	
+,	
+"	
+I	
+really	
+love	
+Chris	
+.	
+
+He	
+'s	
+loving	
+,	
+funny	
+,	
+smart	
+and	
+a	
+family	
+man	
+.	
+
+I	
+'ll	
+take	
+him	
+.	
+"	
+
+Besides	
+,	
+marriage	
+has	
+n't	
+exactly	
+taken	
+her	
+daughter	
+away	
+:	
+"	
+We	
+talk	
+every	
+day	
+,	
+"	
+says	
+Hawn	
+.	
+
+"	
+We	
+love	
+hanging	
+out	
+.	
+"	
+
+Clearly	
+,	
+Hudson	
+,	
+currently	
+starring	
+as	
+an	
+Irish	
+waitress	
+in	
+the	
+romantic	
+comedy	
+About	
+Adam	
+,	
+has	
+emerged	
+as	
+an	
+actress	
+in	
+her	
+own	
+right	
+.	
+
+Still	
+,	
+inevitably	
+,	
+she	
+is	
+compared	
+to	
+Hawn	
+.	
+
+(	
+"	
+When	
+she	
+smiles	
+,	
+"	
+notes	
+actress	
+Sharon	
+Lawrence	
+,	
+her	
+costar	
+in	
+last	
+year	
+'s	
+thriller	
+Gossip	
+,	
+"	
+you	
+see	
+a	
+lot	
+of	
+her	
+mom	
+in	
+her	
+.	
+"	
+)	
+
+"	
+To	
+me	
+,	
+it	
+is	
+an	
+honor	
+,	
+"	
+Hudson	
+has	
+said	
+.	
+
+"	
+She	
+is	
+the	
+epitome	
+of	
+beauty	
+:	
+She	
+'s	
+beautiful	
+aesthetically	
+,	
+but	
+she	
+is	
+a	
+beautiful	
+mother	
+too	
+.	
+
+Jaclyn	
+Smith	
+and	
+Spencer	
+Margaret	
+Richmond	
+
+Her	
+daughter	
+may	
+have	
+turned	
+15	
+,	
+but	
+Jaclyn	
+Smith	
+is	
+the	
+one	
+experiencing	
+growing	
+pains	
+.	
+
+"	
+I	
+loved	
+every	
+stage	
+of	
+motherhood	
+,	
+"	
+the	
+former	
+Charlie	
+'s	
+Angel	
+says	
+wistfully	
+.	
+
+"	
+The	
+little	
+baby	
+thing	
+where	
+you	
+get	
+up	
+early	
+,	
+hold	
+them	
+and	
+feed	
+them	
+,	
+and	
+put	
+them	
+to	
+sleep	
+rocking	
+them	
+in	
+your	
+arms	
+.	
+
+I	
+went	
+to	
+the	
+park	
+the	
+other	
+day	
+and	
+saw	
+a	
+stroller	
+and	
+got	
+a	
+pang	
+.	
+"	
+
+Rearing	
+a	
+teenager	
+has	
+its	
+own	
+joys	
+,	
+but	
+also	
+its	
+sore	
+points	
+.	
+
+"	
+Boys	
+are	
+calling	
+,	
+but	
+she	
+'s	
+not	
+really	
+dating	
+yet	
+,	
+"	
+says	
+Smith	
+,	
+55	
+,	
+who	
+often	
+finds	
+herself	
+at	
+odds	
+with	
+Spencer	
+Margaret	
+over	
+what	
+movies	
+she	
+can	
+watch	
+.	
+
+"	
+I	
+wish	
+she	
+'d	
+see	
+My	
+Dog	
+Skip	
+over	
+and	
+over	
+for	
+the	
+rest	
+of	
+her	
+life	
+,	
+but	
+she	
+'s	
+making	
+more	
+of	
+her	
+own	
+decisions	
+now	
+,	
+and	
+I	
+have	
+to	
+let	
+her	
+.	
+"	
+
+Despite	
+such	
+struggles	
+,	
+mother	
+and	
+daughter	
+spend	
+hours	
+together	
+shopping	
+,	
+baking	
+cookies	
+at	
+their	
+Holmby	
+Hills	
+,	
+Calif.	
+,	
+home	
+and	
+surprising	
+one	
+another	
+with	
+affectionate	
+notes	
+and	
+cards	
+hidden	
+under	
+pillows	
+or	
+in	
+lunch	
+boxes	
+.	
+
+"	
+At	
+Easter	
+,	
+Spencer	
+Margaret	
+would	
+n't	
+hear	
+of	
+not	
+dyeing	
+eggs	
+,	
+even	
+though	
+she	
+'s	
+so	
+busy	
+with	
+her	
+friends	
+,	
+"	
+says	
+Smith	
+.	
+
+"	
+So	
+there	
+we	
+were	
+in	
+the	
+kitchen	
+arguing	
+and	
+laughing	
+over	
+which	
+was	
+the	
+prettiest	
+.	
+
+She	
+'s	
+not	
+too	
+old	
+for	
+those	
+kinds	
+of	
+family	
+moments	
+.	
+"	
+
+In	
+fact	
+,	
+they	
+are	
+so	
+close	
+it	
+'s	
+sometimes	
+hard	
+to	
+tell	
+who	
+'s	
+the	
+parent	
+.	
+
+Years	*	*	*	
+after	*	*	*	
+her	*	*	*	
+1989	(marriage:to*)	*	*	
+divorce	*	*	*	
+from	*	*	*	
+her	(marriage:person*)	*	*	
+third	*	*	*	
+husband	*	*	*	
+,	*	*	*	
+cinematographer	*	*	*	
+Anthony	(marriage:person*	*	(person_parent:parent*	
+Richmond	*)	*	*)	
+(	*	*	*	
+father	*	*	*	
+to	*	*	*	
+both	*	*	*	
+Spencer	*	(sibling_relationship:person*	(person_parent:person*	
+Margaret	*	*)	*)	
+and	*	*	*	
+Smith	*	*	(person_parent:parent*)	
+'s	*	*	*	
+son	*	*	*	
+Gaston	*	(sibling_relationship:person*)	(person_parent:person*)	
+,	*	*	*	
+19	*	*	*	
+)	*	*	*	
+,	*	*	*	
+Smith	*	*	*	
+mentioned	*	*	*	
+how	*	*	*	
+difficult	*	*	*	
+the	*	*	*	
+split	*	*	*	
+must	*	*	*	
+have	*	*	*	
+been	*	*	*	
+for	*	*	*	
+Spencer	*	*	*	
+Margaret	*	*	*	
+,	*	*	*	
+only	*	*	*	
+to	*	*	*	
+have	*	*	*	
+the	*	*	*	
+tables	*	*	*	
+turned	*	*	*	
+.	*	*	*	
+
+"	
+She	
+turns	
+to	
+me	
+and	
+goes	
+,	
+'	
+Mom	
+,	
+it	
+just	
+was	
+n't	
+meant	
+to	
+be	
+.	
+
+I	
+want	
+you	
+to	
+be	
+fine	
+with	
+it	
+because	
+I	
+'m	
+okay	
+,	
+'	
+"	
+Smith	
+recalls	
+.	
+
+Still	
+,	
+the	
+last	
+thing	
+she	
+wants	
+is	
+for	
+her	
+daughter	
+to	
+grow	
+up	
+too	
+fast	
+—	
+especially	
+in	
+her	
+own	
+dealings	
+with	
+the	
+opposite	
+sex	
+.	
+
+"	
+No	
+boys	
+are	
+coming	
+to	
+pick	
+her	
+up	
+and	
+go	
+out	
+alone	
+,	
+"	
+she	
+says	
+.	
+
+"	
+There	
+'s	
+plenty	
+of	
+time	
+for	
+that	
+.	
+"	
+
+Jill	
+Eikenberry	
+and	
+Alison	
+Tucker	
+
+The	*	
+former	*	
+L.A.	*	
+Law	*	
+star	*	
+has	*	
+always	*	
+felt	*	
+a	*	
+bit	*	
+guilty	*	
+about	*	
+raising	*	
+her	(person_parent:parent*)	
+stepdaughter	*	
+Alison	(person_parent:person*	
+Tucker	*)	
+before	*	
+she	*	
+found	*	
+success	*	
+.	*	
+
+"	*	
+I	*	
+was	*	
+a	*	
+young	*	
+,	*	
+ambitious	*	
+New	*	
+York	*	
+[	*	
+stage	*	
+]	*	
+actress	*	
+,	*	
+"	*	
+says	*	
+Eikenberry	(marriage:person*)	
+,	*	
+54	*	
+,	*	
+who	*	
+married	*	
+fellow	*	
+Law	*	
+star	*	
+Michael	(marriage:person*	
+Tucker	*)	
+,	*	
+56	*	
+,	*	
+when	*	
+his	*	
+daughter	*	
+was	*	
+4	*	
+.	*	
+
+(	
+Alison	
+was	
+raised	
+by	
+Tucker	
+and	
+Eikenberry	
+but	
+still	
+sees	
+her	
+biological	
+mom	
+once	
+a	
+year	
+.	
+)	
+
+"	
+I	
+felt	
+like	
+I	
+put	
+Alison	
+in	
+a	
+backpack	
+and	
+took	
+her	
+everywhere	
+.	
+"	
+
+The	
+backpackee	
+had	
+no	
+objections	
+.	
+
+"	
+I	
+was	
+so	
+lucky	
+they	
+did	
+n't	
+have	
+enough	
+money	
+to	
+get	
+a	
+babysitter	
+,	
+"	
+says	
+Alison	
+,	
+31	
+,	
+a	
+Los	
+Angeles	
+actress	
+and	
+gift-basket	
+maker	
+.	
+
+"	
+I	
+got	
+to	
+see	
+everything	
+.	
+"	
+
+Each	
+also	
+overcame	
+adversity	
+.	
+
+At	
+13	
+,	
+Alison	
+was	
+hit	
+by	
+a	
+car	
+and	
+spent	
+two	
+months	
+in	
+a	
+hospital	
+.	
+
+Then	
+Jill	
+battled	
+breast	
+cancer	
+.	
+
+"	
+We	
+tended	
+not	
+to	
+talk	
+about	
+it	
+because	
+we	
+were	
+so	
+scared	
+,	
+"	
+Eikenberry	
+says	
+.	
+
+"	
+Later	
+she	
+told	
+me	
+that	
+she	
+was	
+afraid	
+to	
+hug	
+me	
+—	
+she	
+was	
+afraid	
+she	
+'d	
+hurt	
+me	
+somehow	
+.	
+"	
+
+These	*	
+days	*	
+Alison	*	
+and	*	
+her	*	
+stepmom	*	
+(	*	
+who	*	
+has	*	
+a	*	
+son	*	
+,	*	
+Max	(person_parent:person*)	
+,	*	
+19	*	
+,	*	
+with	*	
+Tucker	(person_parent:parent*)	
+)	*	
+do	*	
+a	*	
+lot	*	
+more	*	
+talking	*	
+.	*	
+
+Her	
+advice	
+?	
+
+"	
+She	
+says	
+,	
+'	
+Follow	
+your	
+heart	
+,	
+follow	
+your	
+passion	
+,	
+'	
+"	
+says	
+Alison	
+.	
+
+"	
+Cheesy	
+mom	
+stuff	
+.	
+"	
+
+Cheryl	
+Ladd	
+,	
+Jordan	
+Ladd	
+and	
+Lindsay	
+Russell	
+
+As	
+a	
+shiny-tressed	
+crime	
+fighter	
+on	
+Charlie	
+'s	
+Angels	
+,	
+Cheryl	
+Ladd	
+wrangled	
+scores	
+of	
+low-life	
+baddies	
+.	
+
+Considerably	*	*	
+tougher	*	*	
+,	*	*	
+she	*	*	
+says	*	*	
+,	*	*	
+was	*	*	
+managing	*	*	
+her	(person_parent:parent*)	*	
+daughter	*	*	
+Jordan	(person_parent:person*)	(sibling_relationship:person*)	
+,	*	*	
+26	*	*	
+,	*	*	
+and	*	*	
+stepdaughter	*	*	
+Lindsay	(person_parent:person*)	(sibling_relationship:person*)	
+,	*	*	
+24	*	*	
+,	*	*	
+through	*	*	
+adolescence	*	*	
+.	*	*	
+
+Unlike	
+sons	
+,	
+says	
+Ladd	
+,	
+"	
+everything	
+is	
+huge	
+with	
+a	
+teenage	
+girl	
+.	
+
+There	
+'s	
+no	
+middle	
+ground	
+,	
+no	
+water	
+off	
+a	
+duck	
+'s	
+back	
+.	
+"	
+
+Ladd	
+,	
+49	
+,	
+and	
+Jordan	
+were	
+able	
+to	
+draw	
+upon	
+past	
+tensions	
+when	
+they	
+costarred	
+as	
+a	
+mother	
+and	
+her	
+rebellious	
+teenage	
+daughter	
+in	
+the	
+1998	
+TV	
+movie	
+Every	
+Mother	
+'s	
+Worst	
+Fear	
+.	
+
+"	*	*	
+Our	*	*	
+scenes	*	*	
+together	*	*	
+were	*	*	
+great	*	*	
+,	*	*	
+"	*	*	
+says	*	*	
+Jordan	*	(person_parent:person*)	
+,	*	*	
+an	*	*	
+actress	*	*	
+whose	*	*	
+father	*	*	
+is	*	*	
+Ladd	(marriage:person*)	*	
+'s	*	*	
+first	*	*	
+husband	*	*	
+,	*	*	
+David	(marriage:person*	(person_parent:parent*	
+Ladd	*)	*)	
+,	*	*	
+54	*	*	
+.	*	*	
+
+"	
+We	
+just	
+reverted	
+to	
+our	
+old	
+relationship	
+.	
+"	
+
+Which	
+is	
+to	
+say	
+bickering	
+about	
+curfews	
+and	
+permission	
+to	
+throw	
+parties	
+.	
+
+Ladd	*	*	
+says	*	*	
+that	*	*	
+when	*	*	
+things	*	*	
+got	*	*	
+tense	*	*	
+between	*	*	
+her	*	*	
+and	*	*	
+the	*	*	
+girls	*	*	
+,	*	*	
+she	*	*	
+would	*	*	
+call	*	*	
+in	*	*	
+reinforcement	*	*	
+from	*	*	
+Brian	(person_parent:parent*	(marriage:person*	
+Russell	*)	*)	
+,	*	*	
+57	*	*	
+,	*	*	
+her	*	(marriage:person*)	
+husband	*	*	
+of	*	*	
+20	*	*	
+years	*	*	
+,	*	*	
+a	*	*	
+musician	*	*	
+and	*	*	
+Lindsay	(person_parent:person*)	*	
+'s	*	*	
+dad	*	*	
+.	*	*	
+
+"	
+If	
+I	
+had	
+to	
+put	
+my	
+foot	
+down	
+,	
+he	
+was	
+right	
+behind	
+me	
+,	
+"	
+she	
+says	
+.	
+
+"	
+Having	
+that	
+involved	
+a	
+father	
+,	
+I	
+ca	
+n't	
+tell	
+you	
+how	
+important	
+it	
+was	
+.	
+"	
+
+Adds	
+Lindsay	
+,	
+a	
+budding	
+musician	
+who	
+calls	
+her	
+petite	
+stepmom	
+Fifi	
+:	
+"	
+She	
+and	
+my	
+dad	
+worked	
+as	
+a	
+team	
+.	
+
+There	
+was	
+unity	
+in	
+their	
+decisions	
+about	
+us	
+.	
+"	
+
+Ladd	
+says	
+that	
+unity	
+now	
+extends	
+across	
+their	
+whole	
+"	
+truly	
+loving	
+family	
+.	
+"	
+
+Sums	
+up	
+the	
+ex-Angel	
+,	
+who	
+recently	
+headlined	
+Broadway	
+'s	
+Annie	
+Get	
+Your	
+Gun	
+:	
+"	
+We	
+'re	
+all	
+just	
+so	
+crazy	
+about	
+each	
+other	
+.	
+"	
+
+Bette	*	
+Midler	*	
+and	*	
+Sophie	(person_parent:parent*	
+"	*	
+Bette	*)	
+,	*	
+"	*	
+says	*	
+her	*	
+pal	*	
+,	*	
+composer	*	
+Marc	*	
+Shaiman	*	
+,	*	
+"	*	
+absolutely	*	
+loves	*	
+being	*	
+Sophie	(person_parent:person*)	
+'s	*	
+mom	*	
+and	*	
+best	*	
+friend	*	
+.	*	
+"	*	
+
+In	
+that	
+order	
+.	
+
+When	*	
+it	*	
+comes	*	
+to	*	
+raising	*	
+Sophie	*	
+,	*	
+14	*	
+,	*	
+Midler	(marriage:person*)	
+,	*	
+55	*	
+,	*	
+and	*	
+stock	*	
+trader	*	
+husband	*	
+Martin	(marriage:person*	
+von	*	
+Haselberg	*)	
+,	*	
+52	*	
+,	*	
+tolerate	*	
+no	*	
+nonsense	*	
+.	*	
+
+"	
+There	
+are	
+some	
+things	
+that	
+are	
+completely	
+off	
+the	
+table	
+,	
+"	
+she	
+told	
+Good	
+Housekeeping	
+last	
+fall	
+.	
+
+"	
+Really	
+terrible	
+language	
+.	
+
+And	
+drugs	
+.	
+
+Sex	
+before	
+you	
+'re	
+ready	
+for	
+it	
+.	
+"	
+
+Add	
+sulking	
+to	
+that	
+list	
+.	
+
+"	
+Sophie	
+is	
+entering	
+the	
+sullen	
+years	
+,	
+"	
+Midler	
+told	
+Ladies	
+Home	
+Journal	
+,	
+"	
+so	
+there	
+is	
+a	
+lot	
+of	
+wiggle-waggle	
+face-pulling	
+and	
+singing	
+of	
+stupid	
+songs	
+.	
+"	
+
+Other	
+tonics	
+for	
+the	
+teen	
+blues	
+:	
+cooking	
+together	
+,	
+shopping	
+and	
+an	
+occasional	
+PG-rated	
+night	
+out	
+.	
+
+At	
+a	
+recent	
+Beck	
+concert	
+in	
+New	
+York	
+City	
+,	
+Midler	
+scored	
+Sophie	
+a	
+backstage	
+meeting	
+with	
+her	
+idol	
+and	
+shared	
+a	
+giddy	
+scream	
+with	
+her	
+on	
+the	
+ride	
+home	
+.	
+
+"	
+That	
+,	
+"	
+says	
+Shaiman	
+,	
+"	
+is	
+when	
+it	
+'s	
+fun	
+to	
+have	
+Bette	
+as	
+your	
+mom	
+.	
+"	
+
+Phyllis	*	
+George	*	
+and	*	
+Pamela	*	
+Following	*	
+her	(marriage:person*	
+1998	*)	
+divorce	*	
+from	*	
+former	*	
+Kentucky	*	
+Gov.	*	
+John	(marriage:person*	
+Brown	*)	
+,	*	
+67	*	
+,	*	
+after	*	
+19	*	
+years	*	
+of	*	
+marriage	*	
+,	*	
+Phyllis	*	
+George	*	
+,	*	
+51	*	
+,	*	
+found	*	
+herself	*	
+swimming	*	
+in	*	
+the	*	
+dating	*	
+pool	*	
+once	*	
+again	*	
+.	*	
+
+Splashing	
+nearby	
+:	
+daughter	
+Pamela	
+,	
+17	
+,	
+who	
+was	
+eager	
+to	
+offer	
+advice	
+.	
+
+"	
+She	
+says	
+,	
+'	
+Mom	
+,	
+be	
+yourself	
+,	
+do	
+n't	
+nag	
+,	
+and	
+always	
+look	
+your	
+best	
+,	
+'	
+"	
+recalls	
+the	
+former	
+talk	
+show	
+host	
+and	
+1971	
+Miss	
+America	
+,	
+who	
+costarred	
+in	
+last	
+year	
+'s	
+Meet	
+the	
+Parents	
+.	
+
+"	
+These	
+are	
+the	
+things	
+I	
+'ve	
+told	
+her	
+for	
+years	
+.	
+"	
+
+George	
+splits	
+her	
+time	
+between	
+New	
+York	
+City	
+and	
+Lexington	
+,	
+Ky.	
+,	
+where	
+Pamela	
+,	
+a	
+high	
+school	
+senior	
+,	
+lives	
+with	
+her	
+dad	
+.	
+
+(	
+Brother	
+Lincoln	
+,	
+20	
+,	
+is	
+a	
+Wharton	
+undergrad	
+.	
+)	
+
+They	
+see	
+each	
+other	
+at	
+least	
+once	
+a	
+month	
+.	
+
+All	
+the	
+better	
+,	
+notes	
+Pamela	
+,	
+to	
+review	
+her	
+mom	
+'s	
+potential	
+suitors	
+:	
+"	
+Sometimes	
+I	
+'ve	
+said	
+,	
+'	
+Oh	
+,	
+come	
+on	
+,	
+Mom	
+,	
+you	
+can	
+do	
+better	
+than	
+that	
+!	
+'	
+"	
+
+Alana	
+Stewart	
+and	
+Kimberly	
+
+In	
+addition	
+to	
+their	
+size-6	
+figures	
+and	
+5	
+'	
+9	
+"	
+frames	
+,	
+Alana	
+,	
+56	
+,	
+and	
+Kimberly	
+Stewart	
+,	
+21	
+,	
+share	
+a	
+stubborn	
+streak	
+.	
+
+"	*	*	
+We	*	*	
+'re	*	*	
+really	*	*	
+strong-headed	*	*	
+,	*	*	
+"	*	*	
+says	*	*	
+Kimberly	(person_parent:person*)	*	
+,	*	*	
+a	*	*	
+model	*	*	
+and	*	*	
+footwear	*	*	
+designer	*	*	
+whose	*	*	
+dad	*	*	
+is	*	*	
+Alana	*	(marriage:person*)	
+'s	*	*	
+ex-husband	*	*	
+rocker	*	*	
+Rod	(person_parent:parent*	(marriage:person*	
+Stewart	*)	*)	
+,	*	*	
+56	*	*	
+.	*	*	
+
+Alana	
+,	
+currently	
+performing	
+in	
+a	
+play	
+called	
+C-Cup	
+at	
+L.A.	
+'s	
+Dorie	
+theater	
+,	
+totally	
+agrees	
+:	
+"	
+When	
+I	
+was	
+her	
+age	
+,	
+people	
+knew	
+not	
+to	
+mess	
+with	
+me	
+,	
+and	
+Kimberly	
+definitely	
+has	
+that	
+.	
+"	
+
+That	
+in-your-face	
+attitude	
+,	
+says	
+Alana	
+,	
+made	
+Kimberly	
+"	
+this	
+little	
+dynamo	
+from	
+the	
+time	
+she	
+could	
+walk	
+.	
+"	
+
+But	
+that	
+dynamo	
+became	
+dynamite	
+when	
+she	
+entered	
+teendom	
+and	
+began	
+blowing	
+up	
+at	
+her	
+mom	
+.	
+
+"	*	*	*	
+Everything	*	*	*	
+I	*	*	*	
+did	*	*	*	
+was	*	*	*	
+wrong	*	*	*	
+,	*	*	*	
+"	*	*	*	
+recalls	*	*	*	
+Alana	(person_parent:parent*)	(marriage:person*)	(person_parent:parent*)	
+,	*	*	*	
+who	*	*	*	
+also	*	*	*	
+has	*	*	*	
+two	*	*	*	
+sons	*	*	*	
+:	*	*	*	
+Ashley	*	*	(person_parent:person*)	
+,	*	*	*	
+26	*	*	*	
+,	*	*	*	
+with	*	*	*	
+first	*	*	*	
+husband	*	*	*	
+George	*	(marriage:person*	(person_parent:parent*	
+Hamilton	*	*)	*)	
+,	*	*	*	
+61	*	*	*	
+,	*	*	*	
+and	*	*	*	
+Sean	(person_parent:person*)	*	*	
+,	*	*	*	
+20	*	*	*	
+,	*	*	*	
+with	*	*	*	
+Stewart	(person_parent:parent*)	*	*	
+.	*	*	*	
+
+What	
+a	
+difference	
+a	
+few	
+years	
+make	
+.	
+
+Kimberly	
+,	
+who	
+lives	
+not	
+far	
+from	
+the	
+nest	
+in	
+L.A.	
+,	
+says	
+she	
+has	
+come	
+to	
+realize	
+that	
+her	
+mother	
+"	
+is	
+always	
+right	
+—	
+about	
+boys	
+,	
+about	
+career	
+moves	
+.	
+"	
+
+That	
+revelation	
+is	
+part	
+of	
+a	
+distinctly	
+adult	
+awakening	
+:	
+"	
+Mom	
+was	
+once	
+my	
+age	
+,	
+"	
+says	
+Kimberly	
+,	
+"	
+and	
+she	
+knows	
+what	
+'s	
+up	
+.	
+"	
+
+Susan	
+Sarandon	
+and	
+Eva	
+Amurri	
+
+Between	
+takes	
+on	
+the	
+set	
+of	
+the	
+upcoming	
+comedy	
+The	
+Banger	
+Sisters	
+,	
+in	
+which	
+they	
+play	
+—	
+appropriately	
+—	
+a	
+mother	
+and	
+daughter	
+,	
+Susan	
+Sarandon	
+and	
+Eva	
+Amurri	
+might	
+simply	
+have	
+appeared	
+to	
+be	
+costars	
+sharing	
+a	
+laugh	
+.	
+
+"	
+I	
+would	
+hear	
+them	
+talking	
+about	
+which	
+of	
+the	
+extras	
+were	
+cute	
+,	
+that	
+kind	
+of	
+thing	
+,	
+"	
+says	
+director	
+Bob	
+Dolman	
+.	
+
+But	
+when	
+the	
+camera	
+rolled	
+,	
+it	
+was	
+a	
+case	
+of	
+mother	
+knows	
+best	
+.	
+
+"	
+Susan	
+was	
+giving	
+Eva	
+little	
+acting	
+tips	
+,	
+"	
+he	
+explains	
+,	
+"	
+like	
+how	
+to	
+exit	
+or	
+how	
+to	
+think	
+about	
+turning	
+.	
+"	
+
+Such	*	
+gentle	*	
+coaching	*	
+is	*	
+typical	*	
+of	*	
+the	*	
+way	*	
+Sarandon	*	
+,	*	
+54	*	
+,	*	
+has	*	
+raised	*	
+Amurri	(person_parent:person*)	
+,	*	
+16	*	
+,	*	
+whose	*	
+father	*	
+is	*	
+Italian	*	
+film	*	
+director	*	
+Franco	(person_parent:parent*	
+Amurri	*)	
+,	*	
+47	*	
+.	*	
+
+(	*	*	
+The	*	*	
+same	*	*	
+goes	*	*	
+for	*	*	
+her	(person_parent:parent*)	*	
+two	*	*	
+sons	*	*	
+,	*	*	
+Jack	(person_parent:person*)	(sibling_relationship:person*)	
+,	*	*	
+12	*	*	
+,	*	*	
+and	*	*	
+Miles	(person_parent:person*)	(sibling_relationship:person*)	
+,	*	*	
+9	*	*	
+,	*	*	
+with	*	*	
+longtime	*	*	
+beau	*	*	
+Tim	(person_parent:parent*	*	
+Robbins	*)	*	
+,	*	*	
+42	*	*	
+.	*	*	
+)	*	*	
+
+"	
+You	
+want	
+to	
+encourage	
+them	
+,	
+"	
+the	
+actress	
+told	
+The	
+Christian	
+Science	
+Monitor	
+in	
+1999	
+.	
+
+"	
+But	
+eventually	
+you	
+have	
+to	
+love	
+them	
+enough	
+not	
+to	
+control	
+their	
+lives	
+.	
+"	
+
+To	
+that	
+end	
+,	
+Sarandon	
+is	
+supportive	
+of	
+Amurri	
+'s	
+acting	
+ambitions	
+,	
+helping	
+her	
+to	
+nab	
+small	
+roles	
+on	
+several	
+of	
+Sarandon	
+'s	
+movies	
+and	
+even	
+a	
+guest	
+spot	
+on	
+a	
+February	
+episode	
+of	
+Friends	
+on	
+which	
+mother	
+and	
+daughter	
+played	
+soap	
+stars	
+.	
+
+"	
+She	
+was	
+watching	
+Eva	
+with	
+a	
+big	
+smile	
+on	
+her	
+face	
+,	
+"	
+says	
+the	
+show	
+'s	
+cocreator	
+Marta	
+Kauffman	
+.	
+
+"	
+She	
+'d	
+say	
+,	
+'	
+Good	
+for	
+you	
+.	
+
+You	
+'re	
+doing	
+great	
+.	
+'	
+"	
+
+At	
+home	
+in	
+Manhattan	
+,	
+high	
+schooler	
+Amurri	
+has	
+been	
+known	
+to	
+dish	
+out	
+somewhat	
+harsher	
+critiques	
+—	
+as	
+only	
+a	
+teenager	
+can	
+.	
+
+"	
+My	
+daughter	
+complains	
+that	
+I.	
+.	
+.	
+
+never	
+get	
+out	
+of	
+my	
+sweats	
+,	
+"	
+Sarandon	
+told	
+ENTERTAINMENT	
+WEEKLY	
+in	
+1999	
+.	
+
+"	
+We	
+'ve	
+gone	
+through	
+periods	
+where	
+she	
+has	
+laid	
+out	
+clothes	
+for	
+me	
+.	
+"	
+
+Jane	
+Seymour	
+and	
+Katie	
+and	
+Jennifer	
+Flynn	
+
+When	*	*	
+daughter	*	*	
+Katie	(person_parent:person*)	(sibling_relationship:person*)	
+,	*	*	
+now	*	*	
+19	*	*	
+,	*	*	
+and	*	*	
+stepdaughter	*	*	
+Jennifer	(person_parent:person*)	(sibling_relationship:person*)	
+,	*	*	
+21	*	*	
+,	*	*	
+were	*	*	
+adolescents	*	*	
+and	*	*	
+acted	*	*	
+up	*	*	
+,	*	*	
+Seymour	(person_parent:parent*)	*	
+had	*	*	
+a	*	*	
+remedy	*	*	
+that	*	*	
+would	*	*	
+make	*	*	
+Dr.	*	*	
+Quinn	*	*	
+proud	*	*	
+.	*	*	
+
+"	*	*	*	
+I	*	*	*	
+had	*	*	*	
+twin	*	*	*	
+babies	*	*	*	
+that	*	*	*	
+were	*	*	*	
+too	*	*	*	
+adorable	*	*	*	
+for	*	*	*	
+words	*	*	*	
+,	*	*	*	
+"	*	*	*	
+says	*	*	*	
+Seymour	*	*	*	
+,	*	*	*	
+50	*	*	*	
+,	*	*	*	
+of	*	*	*	
+John	*	(person_parent:person*)	(sibling_relationship:person*)	
+and	*	*	*	
+Kristopher	*	(person_parent:person*)	(sibling_relationship:person*)	
+,	*	*	*	
+now	*	*	*	
+5	*	*	*	
+,	*	*	*	
+her	*	(person_parent:parent*)	*	
+sons	*	*	*	
+by	*	*	*	
+her	(marriage:person*)	*	*	
+current	*	*	*	
+husband	*	*	*	
+,	*	*	*	
+actor	*	*	*	
+James	(marriage:person*	(person_parent:parent*	*	
+Keach	*)	*)	*	
+,	*	*	*	
+53	*	*	*	
+.	*	*	*	
+
+"	
+I	
+would	
+just	
+give	
+one	
+of	
+the	
+babies	
+to	
+the	
+children	
+,	
+and	
+it	
+'s	
+hard	
+to	
+have	
+a	
+dark	
+mood	
+with	
+a	
+gurgling	
+,	
+delightful	
+,	
+cherubic	
+baby	
+kissing	
+you	
+and	
+hugging	
+you	
+.	
+
+For	
+us	
+the	
+antidote	
+to	
+adolescence	
+was	
+these	
+twins	
+.	
+"	
+
+The	*	*	
+main	*	*	
+cause	*	*	
+of	*	*	
+those	*	*	
+dark	*	*	
+moods	*	*	
+:	*	*	
+"	*	*	
+It	*	*	
+was	*	*	
+always	*	*	
+the	*	*	
+curfew	*	*	
+thing	*	*	
+,	*	*	
+"	*	*	
+says	*	*	
+Katie	(person_parent:person*)	*	
+,	*	*	
+Seymour	(person_parent:parent*)	(marriage:person*)	
+'s	*	*	
+daughter	*	*	
+by	*	*	
+ex-husband	*	*	
+David	(person_parent:parent*	(marriage:person*	
+Flynn	*)	*)	
+.	*	*	
+
+"	
+I	
+always	
+wanted	
+to	
+be	
+out	
+later	
+,	
+just	
+to	
+go	
+to	
+friends	
+'	
+houses	
+,	
+nothing	
+terrible	
+.	
+
+And	
+the	
+curfew	
+was	
+like	
+midnight	
+or	
+1	
+a.m.	
+,	
+which	
+was	
+n't	
+that	
+bad	
+,	
+I	
+see	
+now	
+.	
+"	
+
+These	*	
+days	*	
+both	*	
+kids	*	
+are	*	
+in	*	
+New	*	
+York	*	
+,	*	
+Katie	*	
+at	*	
+Columbia	*	
+University	*	
+and	*	
+Jennifer	(person_parent:person*)	
+,	*	
+Flynn	(person_parent:parent*)	
+'s	*	
+daughter	*	
+from	*	
+a	*	
+previous	*	
+relationship	*	
+,	*	
+at	*	
+Vassar	*	
+College	*	
+.	*	
+
+From	
+a	
+distance	
+those	
+teen	
+years	
+do	
+n't	
+seem	
+so	
+bad	
+.	
+
+"	
+It	
+'s	
+very	
+hard	
+letting	
+go	
+,	
+"	
+says	
+Seymour	
+,	
+who	
+lives	
+in	
+L.A.	
+but	
+sees	
+her	
+daughters	
+on	
+trips	
+to	
+New	
+York	
+City	
+.	
+
+Agrees	
+Katie	
+:	
+"	
+It	
+'s	
+weird	
+being	
+by	
+myself	
+.	
+
+I	
+miss	
+the	
+family	
+sitting	
+down	
+for	
+Sunday	
+dinner	
+.	
+"	
+
+Diana	
+Ross	
+and	
+Rhonda	
+,	
+Tracee	
+and	
+Chudney	
+Ross	
+may	
+reign	
+supreme	
+in	
+the	
+concert	
+hall	
+,	
+but	
+above	
+all	
+else	
+,	
+she	
+considers	
+herself	
+a	
+mom	
+.	
+
+"	
+I	
+am	
+going	
+to	
+put	
+on	
+my	
+tombstone	
+'	
+Motherhood	
+,	
+'	
+"	
+Ross	
+,	
+now	
+57	
+,	
+told	
+PEOPLE	
+in	
+1987	
+.	
+
+She	(person_parent:parent*)	*	(person_parent:parent*)	*	(person_parent:parent*)	(marriage:person*)	
+has	*	*	*	*	*	*	
+,	*	*	*	*	*	*	
+after	*	*	*	*	*	*	
+all	*	*	*	*	*	*	
+,	*	*	*	*	*	*	
+raised	*	*	*	*	*	*	
+five	*	*	*	*	*	*	
+children	*	*	*	*	*	*	
+:	*	*	*	*	*	*	
+Rhonda	*	*	*	(sibling_relationship:person*)	(person_parent:person*)	*	
+,	*	*	*	*	*	*	
+29	*	*	*	*	*	*	
+,	*	*	*	*	*	*	
+whose	*	*	*	*	*	*	
+dad	*	*	*	*	*	*	
+is	*	*	*	*	*	*	
+Motown	*	*	*	*	*	*	
+founder	*	*	*	*	*	*	
+Berry	*	*	*	*	(person_parent:parent*	*	
+Gordy	*	*	*	*	*	*	
+Jr.	*	*	*	*	*)	*	
+,	*	*	*	*	*	*	
+71	*	*	*	*	*	*	
+;	*	*	*	*	*	*	
+daughters	*	*	*	*	*	*	
+Tracee	(person_parent:person*)	*	*	(sibling_relationship:person*)	*	*	
+,	*	*	*	*	*	*	
+28	*	*	*	*	*	*	
+,	*	*	*	*	*	*	
+and	*	*	*	*	*	*	
+Chudney	(person_parent:person*)	*	*	(sibling_relationship:person*)	*	*	
+,	*	*	*	*	*	*	
+25	*	*	*	*	*	*	
+,	*	*	*	*	*	*	
+by	*	*	*	*	*	*	
+her	*	(marriage:person*)	*	*	*	*	
+first	*	*	*	*	*	*	
+husband	*	*	*	*	*	*	
+,	*	*	*	*	*	*	
+publicist	*	*	*	*	*	*	
+Robert	(person_parent:parent*	(marriage:person*	*	*	*	*	
+Silberstein	*)	*)	*	*	*	*	
+;	*	*	*	*	*	*	
+and	*	*	*	*	*	*	
+sons	*	*	*	*	*	*	
+Ross	*	*	(person_parent:person*)	(sibling_relationship:person*)	*	*	
+,	*	*	*	*	*	*	
+13	*	*	*	*	*	*	
+,	*	*	*	*	*	*	
+and	*	*	*	*	*	*	
+Evan	*	*	(person_parent:person*)	(sibling_relationship:person*)	*	*	
+,	*	*	*	*	*	*	
+12	*	*	*	*	*	*	
+,	*	*	*	*	*	*	
+with	*	*	*	*	*	*	
+husband	*	*	*	*	*	*	
+No.	*	*	*	*	*	*	
+2	*	*	*	*	*	*	
+,	*	*	*	*	*	*	
+Arne	*	*	(person_parent:parent*	*	*	(marriage:person*	
+Naess	*	*	*)	*	*	*)	
+,	*	*	*	*	*	*	
+63	*	*	*	*	*	*	
+.	*	*	*	*	*	*	
+
+Seeking	
+feedback	
+on	
+her	
+mothering	
+skills	
+,	
+she	
+once	
+asked	
+the	
+kids	
+what	
+they	
+thought	
+.	
+
+The	
+reviews	
+were	
+glowing	
+.	
+
+"	
+She	
+raised	
+her	
+kids	
+to	
+be	
+independent	
+and	
+mentally	
+tough	
+,	
+"	
+Tracee	
+told	
+USA	
+Today	
+last	
+September	
+.	
+
+And	
+to	
+use	
+their	
+talents	
+.	
+
+Rhonda	
+,	
+who	
+wed	
+in	
+1997	
+,	
+is	
+an	
+actress	
+in	
+New	
+York	
+City	
+;	
+Tracee	
+,	
+also	
+an	
+actress	
+,	
+resides	
+in	
+L.A.	
+and	
+stars	
+in	
+the	
+UPN	
+sitcom	
+Girlfriends	
+;	
+and	
+elementary	
+school	
+teacher	
+Chudney	
+is	
+an	
+aspiring	
+children	
+'s	
+film	
+producer	
+in	
+L.A.	
+.	
+
+But	
+no	
+matter	
+how	
+busy	
+they	
+get	
+,	
+filial	
+duty	
+is	
+never	
+forgotten	
+.	
+
+"	
+We	
+'re	
+supposed	
+to	
+call	
+Mom	
+every	
+Sunday	
+,	
+"	
+Chudney	
+told	
+LIFE	
+in	
+1999	
+.	
+
+"	
+She	
+gets	
+all	
+upset	
+if	
+we	
+do	
+n't	
+.	
+"	
+
+Cybill	
+Shepherd	
+and	
+Clementine	
+Ford	
+
+Cybill	
+Shepherd	
+did	
+n't	
+want	
+to	
+interfere	
+.	
+
+But	
+stick	
+a	
+model	
+in	
+front	
+of	
+a	
+camera	
+—	
+on	
+her	
+daughter	
+'s	
+wedding	
+day	
+,	
+no	
+less-and	
+sparks	
+may	
+fly	
+.	
+
+"	
+Right	
+after	
+the	
+ceremony	
+we	
+went	
+to	
+do	
+the	
+photographs	
+,	
+and	
+I	
+said	
+to	
+the	
+photographer	
+,	
+'	
+Can	
+you	
+raise	
+the	
+camera	
+,	
+please	
+?	
+'	
+"	
+
+Shepherd	*	
+recalls	*	
+of	*	
+her	(person_parent:parent*)	
+daughter	*	
+Clementine	(person_parent:person*	
+Ford	*)	
+'s	*	
+big	*	
+day	*	
+in	*	
+April	*	
+last	*	
+year	*	
+.	*	
+
+"	
+I	
+said	
+,	
+'	
+I	
+'m	
+not	
+insulting	
+you	
+.	
+
+We	
+'ll	
+all	
+look	
+better	
+.	
+'	
+
+But	
+Clementine	
+said	
+,	
+'	
+Oh	
+,	
+Mom	
+,	
+shut	
+up	
+and	
+let	
+him	
+do	
+his	
+job	
+.	
+'	
+
+She	
+was	
+a	
+little	
+tense	
+.	
+"	
+
+But	
+then	
+the	
+relationship	
+between	
+Ford	
+,	
+21	
+,	
+and	
+her	
+famous	
+mother	
+has	
+never	
+been	
+terribly	
+smooth	
+.	
+
+The	*	*	
+daughter	*	*	
+of	*	*	
+Shepherd	(person_parent:parent*)	*	
+and	*	*	
+her	*	(marriage:person*)	
+first	*	*	
+husband	*	*	
+,	*	*	
+David	(person_parent:parent*	(marriage:person*	
+Ford	*)	*)	
+,	*	*	
+an	*	*	
+auto-parts	*	*	
+dealer	*	*	
+,	*	*	
+Ford	(person_parent:person*)	*	
+grew	*	*	
+up	*	*	
+in	*	*	
+the	*	*	
+shadow	*	*	
+of	*	*	
+her	*	*	
+mom	*	*	
+'s	*	*	
+Moonlighting	*	*	
+career	*	*	
+.	*	*	
+
+"	
+The	
+whole	
+time	
+she	
+was	
+doing	
+that	
+show	
+,	
+from	
+when	
+I	
+was	
+5	
+until	
+I	
+was	
+9	
+,	
+was	
+hard	
+,	
+"	
+she	
+recalls	
+.	
+
+"	
+She	
+worked	
+insane	
+hours	
+.	
+
+She	
+'d	
+miss	
+a	
+lot	
+of	
+school	
+functions	
+or	
+she	
+'d	
+come	
+for	
+five	
+minutes	
+and	
+have	
+to	
+go	
+back	
+to	
+work	
+.	
+"	
+
+Things	
+got	
+tougher	
+when	
+Ford	
+hit	
+puberty	
+.	
+
+"	
+She	
+would	
+get	
+very	
+upset	
+with	
+me	
+when	
+I	
+tried	
+to	
+set	
+limits	
+,	
+"	
+says	
+Shepherd	
+,	
+51	
+,	
+who	
+lives	
+in	
+Los	
+Angeles	
+.	
+
+Aware	
+of	
+her	
+own	
+limitations	
+,	
+Shepherd	
+went	
+into	
+therapy	
+.	
+
+"	
+She	
+really	
+learned	
+how	
+to	
+be	
+a	
+fantastic	
+mom	
+,	
+"	
+Ford	
+reports	
+.	
+
+"	
+She	
+got	
+all	
+the	
+kinks	
+out	
+by	
+the	
+time	
+I	
+was	
+14	
+.	
+"	
+
+Well	
+,	
+almost	
+.	
+
+"	*	*	*	
+It	*	*	*	
+helped	*	*	*	
+things	*	*	*	
+to	*	*	*	
+be	*	*	*	
+more	*	*	*	
+peaceful	*	*	*	
+,	*	*	*	
+"	*	*	*	
+says	*	*	*	
+Shepherd	*	(marriage:person*)	(person_parent:parent*)	
+,	*	*	*	
+who	*	*	*	
+also	*	*	*	
+has	*	*	*	
+twins	*	*	*	
+,	*	*	*	
+Zachariah	(sibling_relationship:person*)	*	(person_parent:person*)	
+and	*	*	*	
+Ariel	(sibling_relationship:person*)	*	(person_parent:person*)	
+,	*	*	*	
+13	*	*	*	
+,	*	*	*	
+from	*	*	*	
+a	*	*	*	
+three-year	*	*	*	
+second	*	*	*	
+marriage	*	*	*	
+to	*	*	*	
+chiropractor	*	*	*	
+Bruce	*	(marriage:person*	(person_parent:parent*	
+Oppenheim	*	*)	*)	
+.	*	*	*	
+
+"	
+But	
+it	
+was	
+never	
+easy	
+.	
+"	
+
+At	
+first	
+discouraging	
+Ford	
+from	
+acting	
+,	
+Shepherd	
+relented	
+when	
+her	
+daughter	
+turned	
+18	
+,	
+even	
+giving	
+her	
+a	
+small	
+part	
+on	
+her	
+late-1990s	
+TV	
+show	
+Cybill	
+.	
+
+"	
+You	
+have	
+to	
+step	
+back	
+and	
+be	
+there	
+when	
+they	
+want	
+you	
+,	
+"	
+she	
+explains	
+.	
+
+"	
+And	
+otherwise	
+get	
+out	
+of	
+the	
+way	
+.	
+"	
+
+That	*	
+'s	*	
+why	*	
+Shepherd	*	
+defended	*	
+Ford	*	
+when	*	
+friends	*	
+implied	*	
+that	*	
+she	*	
+and	*	
+her	(marriage:person*)	
+new	*	
+husband	*	
+,	*	
+actor	*	
+Chad	(marriage:person*	
+Todhunter	*)	
+,	*	
+24	*	
+,	*	
+were	*	
+too	*	
+young	*	
+to	*	
+marry	*	
+.	*	
+
+"	
+She	
+'s	
+far	
+wiser	
+than	
+I	
+ever	
+was	
+,	
+"	
+says	
+Shepherd	
+.	
+
+"	
+I	
+'m	
+proud	
+of	
+who	
+she	
+is	
+.	
+"	
+

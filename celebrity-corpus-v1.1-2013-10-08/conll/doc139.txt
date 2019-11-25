@@ -1,0 +1,2728 @@
+Every	
+morning	
+at	
+3:45	
+,	
+portable	
+generators	
+power	
+up	
+,	
+and	
+huge	
+klieg	
+lights	
+switch	
+on	
+in	
+the	
+darkness	
+outside	
+a	
+modest	
+colonial	
+home	
+in	
+Bolingbrook	
+,	
+Ill.	
+.	
+
+It	
+is	
+the	
+racket	
+of	
+TV	
+crews	
+coming	
+to	
+life	
+and	
+engulfing	
+Drew	
+Peterson	
+.	
+
+"	
+I	
+'m	
+getting	
+some	
+sleep	
+,	
+but	
+then	
+it	
+wakes	
+me	
+up	
+,	
+"	
+he	
+says	
+.	
+
+"	
+It	
+constantly	
+reminds	
+me	
+of	
+this	
+grim	
+shadow	
+over	
+my	
+head	
+.	
+"	
+
+Drew	
+Peterson	
+knows	
+what	
+people	
+are	
+saying	
+about	
+him	
+.	
+
+He	*	*	
+knows	*	*	
+there	*	*	
+are	*	*	
+many	*	*	
+who	*	*	
+believe	*	*	
+he	*	*	
+murdered	*	*	
+his	(marriage:person*)	*	
+third	*	*	
+wife	*	*	
+,	*	*	
+Kathleen	(marriage:person*	*	
+Savio	*)	*	
+—	*	*	
+whose	*	*	
+2004	*	*	
+drowning	*	*	
+was	*	*	
+ruled	*	*	
+an	*	*	
+accident	*	*	
+—	*	*	
+and	*	*	
+that	*	*	
+he	*	*	
+had	*	*	
+something	*	*	
+to	*	*	
+do	*	*	
+with	*	*	
+the	*	*	
+disappearance	*	*	
+of	*	*	
+his	*	(marriage:person*)	
+fourth	*	*	
+wife	*	*	
+,	*	*	
+Stacy	*	(marriage:person*)	
+,	*	*	
+the	*	*	
+pretty	*	*	
+mother	*	*	
+of	*	*	
+their	*	*	
+two	*	*	
+young	*	*	
+children	*	*	
+who	*	*	
+has	*	*	
+been	*	*	
+missing	*	*	
+since	*	*	
+Oct.	*	*	
+28	*	*	
+.	*	*	
+
+He	
+knows	
+that	
+as	
+a	
+suspect	
+in	
+Stacy	
+'s	
+disappearance	
+,	
+he	
+could	
+be	
+arrested	
+at	
+any	
+time	
+.	
+
+Yet	
+Peterson	
+,	
+53	
+,	
+who	
+gave	
+PEOPLE	
+a	
+wide-ranging	
+,	
+two-hour	
+interview	
+Nov.	
+18	
+,	
+says	
+he	
+can	
+handle	
+the	
+pressure	
+because	
+he	
+knows	
+one	
+other	
+thing	
+:	
+He	
+is	
+innocent	
+.	
+
+Did	
+he	
+kill	
+Kathleen	
+Savio	
+?	
+
+"	
+No	
+,	
+"	
+he	
+insists	
+.	
+
+Does	
+he	
+know	
+where	
+Stacy	
+is	
+?	
+
+"	
+I	
+do	
+n't	
+.	
+"	
+
+Does	
+he	
+think	
+she	
+is	
+alive	
+?	
+
+"	
+I	
+hope	
+so	
+,	
+"	
+he	
+says	
+.	
+
+"	
+I	
+miss	
+her	
+.	
+"	
+
+Peterson	
+seemed	
+composed	
+and	
+relaxed	
+during	
+the	
+interview	
+,	
+despite	
+facing	
+the	
+possibility	
+that	
+his	
+wife	
+may	
+be	
+dead	
+and	
+his	
+ex-wife	
+may	
+have	
+been	
+brutally	
+murdered	
+.	
+
+He	
+teared	
+up	
+only	
+once	
+,	
+when	
+discussing	
+the	
+day	
+Stacy	
+disappeared	
+,	
+but	
+otherwise	
+showed	
+little	
+emotion	
+.	
+
+His	
+claims	
+that	
+he	
+did	
+nothing	
+wrong	
+,	
+however	
+,	
+can	
+not	
+stop	
+the	
+investigation	
+that	
+is	
+starting	
+to	
+tighten	
+around	
+him	
+.	
+
+While	*	*	
+the	*	*	
+search	*	*	
+continues	*	*	
+for	*	*	
+Stacy	*	*	
+,	*	*	
+23	*	*	
+—	*	*	
+and	*	*	
+her	*	*	
+loved	*	*	
+ones	*	*	
+continue	*	*	
+to	*	*	
+insist	*	*	
+she	*	*	
+would	*	*	
+never	*	*	
+walk	*	*	
+out	*	*	
+on	*	*	
+her	(person_parent:parent*)	*	
+children	*	*	
+Lacy	(person_parent:person*)	(sibling_relationship:person*)	
+,	*	*	
+2	*	*	
+,	*	*	
+and	*	*	
+Anthony	(person_parent:person*)	(sibling_relationship:person*)	
+,	*	*	
+4	*	*	
+—	*	*	
+authorities	*	*	
+have	*	*	
+impanelled	*	*	
+a	*	*	
+grand	*	*	
+jury	*	*	
+to	*	*	
+reexamine	*	*	
+the	*	*	
+Kathleen	*	*	
+Savio	*	*	
+case	*	*	
+.	*	*	
+
+On	
+Nov.	
+13	
+investigators	
+exhumed	
+her	
+body	
+to	
+perform	
+another	
+autopsy	
+.	
+
+Test	
+results	
+wo	
+n't	
+be	
+available	
+for	
+several	
+weeks	
+,	
+but	
+Will	
+County	
+State	
+'s	
+Attorney	
+James	
+Glasgow	
+has	
+already	
+said	
+the	
+case	
+files	
+alone	
+suggest	
+Savio	
+'s	
+death	
+was	
+a	
+homicide	
+staged	
+to	
+look	
+like	
+an	
+accident	
+.	
+
+"	*	
+We	*	
+always	*	
+knew	*	
+what	*	
+happened	*	
+to	*	
+Kathleen	*	
+was	*	
+not	*	
+an	*	
+accident	*	
+,	*	
+"	*	
+says	*	
+her	(sibling_relationship:person*)	
+brother	*	
+Henry	(sibling_relationship:person*	
+Savio	*)	
+,	*	
+49	*	
+.	*	
+
+"	
+And	
+we	
+knew	
+it	
+was	
+going	
+to	
+happen	
+again	
+.	
+"	
+
+From	
+Peterson	
+'s	
+own	
+words	
+to	
+PEOPLE	
+,	
+and	
+the	
+record	
+of	
+his	
+four	
+troubled	
+marriages	
+,	
+a	
+portrait	
+of	
+the	
+ex-police	
+sergeant	
+emerges	
+—	
+confident	
+and	
+charismatic	
+but	
+also	
+controlling	
+and	
+sometimes	
+abusive	
+;	
+drawn	
+to	
+vulnerable	
+women	
+and	
+eager	
+to	
+buy	
+them	
+things	
+to	
+make	
+them	
+feel	
+secure	
+,	
+but	
+just	
+as	
+quick	
+to	
+intimidate	
+them	
+to	
+get	
+his	
+own	
+way	
+.	
+
+The	
+eldest	
+of	
+three	
+children	
+,	
+his	
+father	
+was	
+a	
+strict	
+ex-Marine	
+,	
+and	
+his	
+mother	
+a	
+diligent	
+housewife	
+.	
+
+"	
+My	
+dad	
+would	
+get	
+up	
+to	
+go	
+to	
+the	
+bathroom	
+in	
+the	
+morning	
+,	
+and	
+my	
+mom	
+would	
+have	
+the	
+bed	
+made	
+,	
+"	
+says	
+Peterson	
+.	
+
+"	
+I	
+expected	
+all	
+of	
+my	
+wives	
+to	
+be	
+like	
+my	
+mom	
+,	
+meticulous	
+housekeepers	
+,	
+and	
+they	
+were	
+n't	
+.	
+"	
+
+Peterson	*	
+was	*	
+20	*	
+when	*	
+he	*	
+married	*	
+his	(marriage:person*)	
+high	*	
+school	*	
+sweetheart	*	
+Carol	(marriage:person*	
+Brown	*)	
+,	*	
+then	*	
+17	*	
+;	*	
+when	*	
+she	*	
+had	*	
+a	*	
+miscarriage	*	
+,	*	
+Peterson	*	
+was	*	
+"	*	
+very	*	
+supportive	*	
+,	*	
+"	*	
+Brown	*	
+,	*	
+50	*	
+,	*	
+told	*	
+the	*	
+Chicago	*	
+Tribune	*	
+.	*	
+
+But	*	
+after	*	
+six	*	
+years	*	
+and	*	
+two	*	
+sons	*	
+together	*	
+,	*	
+she	*	
+discovered	*	
+he	(marriage:person*)	
+cheated	*	
+on	*	
+her	(marriage:person*)	
+,	*	
+and	*	
+they	*	
+divorced	*	
+in	*	
+1980	(marriage:to*)	
+.	*	
+
+"	
+I	
+take	
+full	
+responsibility	
+for	
+that	
+,	
+"	
+Peterson	
+says	
+.	
+
+"	
+Carol	
+was	
+a	
+good	
+woman	
+and	
+I	
+was	
+unfaithful	
+.	
+"	
+
+Two	*	
+years	*	
+later	*	
+he	(marriage:person*)	
+met	*	
+Vicki	(marriage:person*	
+Connolly	*)	
+in	*	
+a	*	
+bar	*	
+;	*	
+they	*	
+married	*	
+six	*	
+months	*	
+later	*	
+and	*	
+raised	*	
+each	*	
+other	*	
+'s	*	
+children	*	
+from	*	
+their	*	
+previous	*	
+marriages	*	
+.	*	
+
+"	
+When	
+it	
+was	
+good	
+,	
+it	
+was	
+wonderful	
+,	
+it	
+was	
+great	
+,	
+"	
+Connolly	
+,	
+48	
+,	
+told	
+the	
+Tribune	
+.	
+
+"	
+But	
+when	
+it	
+was	
+bad	
+,	
+it	
+was	
+really	
+bad	
+.	
+"	
+
+She	
+accused	
+Peterson	
+of	
+playing	
+"	
+mind	
+games	
+"	
+and	
+claimed	
+he	
+bugged	
+their	
+house	
+so	
+he	
+could	
+keep	
+tabs	
+on	
+her	
+even	
+while	
+he	
+was	
+having	
+an	
+affair	
+.	
+
+Peterson	
+admits	
+he	
+"	
+sought	
+romance	
+in	
+other	
+places	
+"	
+but	
+denies	
+he	
+ever	
+bugged	
+the	
+house	
+.	
+
+"	
+Vicki	
+was	
+a	
+loving	
+,	
+warm	
+person	
+,	
+"	
+he	
+says	
+,	
+"	
+until	
+things	
+started	
+deteriorating	
+.	
+"	
+
+After	
+they	
+divorced	
+in	
+1992	
+,	
+Peterson	
+met	
+Kathleen	
+Savio	
+on	
+a	
+blind	
+date	
+.	
+
+"	*	
+He	*	
+seemed	*	
+wonderful	*	
+,	*	
+"	*	
+recalls	*	
+Savio	(sibling_relationship:person*)	
+'s	*	
+sister	*	
+Anna	(sibling_relationship:person*	
+Marie	*	
+Doman	*)	
+.	*	
+
+"	
+He	
+was	
+Mr.	
+Romance	
+,	
+the	
+nice	
+,	
+upstanding	
+young	
+cop	
+.	
+"	
+
+Savio	(sibling_relationship:person*)	
+'s	*	
+other	*	
+sister	*	
+Susan	(sibling_relationship:person*	
+Doman	*)	
+says	*	
+,	*	
+"	*	
+in	*	
+the	*	
+beginning	*	
+their	*	
+marriage	*	
+was	*	
+great	*	
+.	*	
+
+Kathleen	
+had	
+things	
+like	
+she	
+never	
+had	
+:	
+a	
+beautiful	
+home	
+,	
+fur	
+coats	
+,	
+everything	
+.	
+
+She	
+felt	
+like	
+a	
+princess	
+.	
+"	
+
+Peterson	
+calls	
+their	
+early	
+years	
+"	
+very	
+romantic	
+.	
+
+We	
+had	
+a	
+lot	
+of	
+fun	
+together	
+and	
+I	
+thought	
+she	
+was	
+beautiful	
+.	
+
+I	
+loved	
+being	
+next	
+to	
+her	
+.	
+"	
+
+But	
+after	
+she	
+gave	
+birth	
+to	
+their	
+two	
+sons	
+,	
+claims	
+Peterson	
+,	
+"	
+she	
+became	
+repeatedly	
+violent	
+.	
+"	
+
+Records	
+show	
+18	
+calls	
+to	
+the	
+police	
+from	
+their	
+home	
+,	
+and	
+in	
+2002	
+Kathleen	
+obtained	
+an	
+order	
+of	
+protection	
+,	
+claiming	
+in	
+court	
+papers	
+that	
+Peterson	
+"	
+restrained	
+me	
+,	
+held	
+me	
+down	
+,	
+knocked	
+me	
+into	
+a	
+walls	
+,	
+come	
+after	
+me	
+...	
+ripped	
+my	
+necklace	
+off	
+,	
+left	
+marks	
+on	
+my	
+body	
+.	
+"	
+
+Peterson	
+says	
+he	
+made	
+some	
+of	
+the	
+18	
+calls	
+to	
+police	
+himself	
+,	
+and	
+that	
+in	
+the	
+other	
+cases	
+,	
+"	
+she	
+would	
+say	
+I	
+was	
+violent	
+after	
+chasing	
+me	
+around	
+the	
+house	
+,	
+swinging	
+at	
+me	
+.	
+
+I	
+never	
+laid	
+a	
+finger	
+on	
+her	
+.	
+"	
+
+Peterson	*	
+also	*	
+says	*	
+Savio	(marriage:person*)	
+'s	*	
+abusive	*	
+childhood	*	
+caused	*	
+the	*	
+erratic	*	
+behavior	*	
+he	(marriage:person*)	
+blames	*	
+for	*	
+the	*	
+failure	*	
+of	*	
+their	*	
+marriage	*	
+.	*	
+
+"	
+I	
+did	
+n't	
+want	
+to	
+divorce	
+her	
+;	
+I	
+wanted	
+to	
+help	
+her	
+,	
+"	
+he	
+contends	
+.	
+
+"	
+We	
+tried	
+five	
+marriage	
+counselors	
+.	
+
+But	
+she	
+refused	
+to	
+accept	
+that	
+the	
+problem	
+was	
+her	
+,	
+ever	
+.	
+"	
+
+Savio	(sibling_relationship:person*)	
+'s	*	
+brother	*	
+Henry	(sibling_relationship:person*)	
+denies	*	
+his	*	
+sister	*	
+was	*	
+somehow	*	
+broken	*	
+by	*	
+her	*	
+childhood	*	
+;	*	
+he	*	
+says	*	
+they	*	
+grew	*	
+up	*	
+in	*	
+a	*	
+close-knit	*	
+family	*	
+that	*	
+was	*	
+not	*	
+abusive	*	
+and	*	
+that	*	
+Kathleen	*	
+was	*	
+a	*	
+proud	*	
+woman	*	
+determined	*	
+not	*	
+to	*	
+let	*	
+Drew	*	
+intimidate	*	
+her	*	
+.	*	
+
+Toward	*	*	
+the	*	*	
+end	*	*	
+of	*	*	
+their	*	*	
+marriage	*	*	
+,	*	*	
+Kathleen	*	(marriage:person*)	
+"	*	*	
+found	*	*	
+out	*	*	
+Drew	*	(marriage:person*)	
+was	*	*	
+having	*	*	
+an	*	*	
+affair	*	*	
+with	*	*	
+a	*	*	
+17-year-old	*	*	
+,	*	*	
+"	*	*	
+says	*	*	
+her	(sibling_relationship:person*)	*	
+sister	*	*	
+Susan	(sibling_relationship:person*)	*	
+.	*	*	
+
+"	
+Someone	
+anonymously	
+sent	
+her	
+a	
+letter	
+saying	
+she	
+was	
+the	
+laughingstock	
+of	
+the	
+police	
+department	
+.	
+"	
+
+Peterson	
+admits	
+he	
+was	
+still	
+married	
+when	
+he	
+started	
+seeing	
+Stacy	
+,	
+then	
+working	
+as	
+a	
+hotel	
+desk	
+clerk	
+.	
+
+"	
+I	
+asked	
+her	
+,	
+'	
+Why	
+do	
+n't	
+we	
+go	
+out	
+?	
+'	
+"	
+
+he	
+recalls	
+.	
+
+"	
+I	
+thought	
+she	
+was	
+older	
+than	
+she	
+was	
+.	
+
+I	
+said	
+,	
+'	
+Do	
+you	
+mind	
+that	
+I	
+'m	
+47	
+?	
+'	
+
+She	
+said	
+,	
+'	
+Not	
+at	
+all	
+.	
+
+I	
+'m	
+17	
+.	
+'	
+
+I	
+was	
+shocked	
+.	
+
+But	
+I	
+was	
+a	
+lonely	
+old	
+man	
+.	
+"	
+
+Peterson	*	
+'s	*	
+affair	*	
+with	*	
+Stacy	*	
+ended	*	
+his	(marriage:person*)	
+marriage	*	
+to	*	
+Savio	(marriage:person*)	
+,	*	
+and	*	
+their	*	
+divorce	*	
+became	*	
+official	*	
+in	*	
+2003	(marriage:to*)	
+.	*	
+
+In	
+March	
+2004	
+Peterson	
+became	
+alarmed	
+after	
+not	
+hearing	
+from	
+Savio	
+for	
+more	
+than	
+a	
+day	
+,	
+he	
+says	
+.	
+
+"	
+I	
+was	
+coming	
+home	
+from	
+work	
+around	
+9:30	
+p.m.	
+when	
+Drew	
+stopped	
+me	
+,	
+"	
+says	
+Peterson	
+'s	
+former	
+neighbor	
+and	
+good	
+friend	
+Steve	
+Carcerano	
+,	
+39	
+.	
+
+"	
+He	
+said	
+,	
+'	
+I	
+'ve	
+been	
+trying	
+to	
+drop	
+off	
+the	
+kids	
+and	
+Kathy	
+'s	
+not	
+answering	
+.	
+
+I	
+need	
+to	
+get	
+into	
+the	
+house	
+.	
+'	
+"	
+
+After	
+a	
+locksmith	
+opened	
+the	
+door	
+,	
+Carcerano	
+and	
+his	
+neighbor	
+Mary	
+went	
+into	
+the	
+house	
+while	
+Peterson	
+waited	
+in	
+the	
+foyer	
+.	
+
+"	
+I	
+walked	
+by	
+the	
+bathroom	
+,	
+and	
+I	
+noticed	
+what	
+I	
+thought	
+was	
+an	
+exercise	
+ball	
+in	
+the	
+tub	
+,	
+"	
+says	
+Carcerano	
+.	
+
+"	
+Then	
+I	
+looked	
+down	
+and	
+saw	
+it	
+was	
+Kathy	
+.	
+
+Mary	
+came	
+in	
+and	
+started	
+screaming	
+'	
+Oh	
+my	
+god	
+!	
+'	
+
+and	
+then	
+Drew	
+came	
+running	
+upstairs	
+.	
+"	
+
+Peterson	
+'s	
+reaction	
+?	
+
+"	
+He	
+checked	
+her	
+pulse	
+,	
+and	
+he	
+was	
+trembling	
+and	
+said	
+,	
+'	
+What	
+am	
+I	
+going	
+to	
+tell	
+the	
+children	
+?	
+'	
+"	
+
+says	
+Carcerano	
+.	
+
+"	
+He	
+was	
+emotional	
+,	
+distraught	
+.	
+"	
+
+Despite	
+puzzling	
+questions	
+—	
+why	
+was	
+there	
+no	
+water	
+in	
+the	
+tub	
+?	
+
+why	
+was	
+Savio	
+'s	
+body	
+so	
+bruised	
+?	
+
+—	
+a	
+coroner	
+'s	
+jury	
+quickly	
+ruled	
+her	
+death	
+an	
+accidental	
+drowning	
+.	
+
+"	*	
+The	*	
+investigation	*	
+was	*	
+very	*	
+fast	*	
+;	*	
+it	*	
+was	*	
+1-2-3	*	
+,	*	
+"	*	
+says	*	
+Savio	(sibling_relationship:person*)	
+'s	*	
+sister	*	
+Susan	(sibling_relationship:person*)	
+.	*	
+
+"	
+But	
+my	
+sister	
+always	
+told	
+everyone	
+that	
+he	
+would	
+kill	
+her	
+and	
+make	
+it	
+look	
+like	
+an	
+accident	
+.	
+"	
+
+Michael	
+Baden	
+,	
+the	
+prominent	
+forensic	
+pathologist	
+obtained	
+by	
+Savio	
+'s	
+family	
+to	
+perform	
+its	
+own	
+autopsy	
+on	
+Nov.	
+16	
+,	
+says	
+her	
+death	
+was	
+clearly	
+not	
+accidental	
+.	
+
+"	
+Kathleen	
+had	
+a	
+bloody	
+head	
+,	
+a	
+bleeding	
+laceration	
+on	
+the	
+top	
+of	
+the	
+head	
+and	
+about	
+10	
+other	
+blunt-force	
+bruises	
+on	
+the	
+body	
+,	
+"	
+says	
+Baden	
+.	
+
+"	
+This	
+was	
+a	
+woman	
+who	
+was	
+beaten	
+up	
+and	
+drowned	
+.	
+
+That	
+'s	
+a	
+homicide	
+.	
+"	
+
+Peterson	
+shrugs	
+off	
+Baden	
+'s	
+conclusions	
+.	
+
+"	
+He	
+was	
+giving	
+statements	
+before	
+he	
+even	
+examined	
+the	
+body	
+,	
+"	
+he	
+says	
+.	
+
+Like	*	
+Kathleen	*	
+,	*	
+Peterson	(marriage:person*)	
+'s	*	
+fourth	*	
+wife	*	
+,	*	
+Stacy	(marriage:person*)	
+,	*	
+"	*	
+had	*	
+a	*	
+tragic	*	
+and	*	
+poor	*	
+beginning	*	
+,	*	
+"	*	
+he	*	
+says	*	
+.	*	
+
+"	
+I	
+had	
+this	
+uncontrollable	
+need	
+to	
+protect	
+her	
+.	
+"	
+
+When	
+Stacy	
+was	
+young	
+,	
+two	
+of	
+her	
+siblings	
+died	
+suddenly	
+,	
+one	
+in	
+a	
+fire	
+and	
+another	
+of	
+SIDS	
+;	
+when	
+she	
+was	
+in	
+her	
+early	
+teens	
+,	
+her	
+mother	
+—	
+who	
+had	
+walked	
+out	
+on	
+the	
+family	
+before	
+—	
+disappeared	
+for	
+good	
+.	
+
+"	*	
+I	*	
+always	*	
+knew	*	
+why	*	
+she	(marriage:person*)	
+married	*	
+Drew	(marriage:person*)	
+:	*	
+she	*	
+needed	*	
+security	*	
+,	*	
+"	*	
+says	*	
+her	*	
+longtime	*	
+friend	*	
+Cheryl	*	
+Weiser	*	
+.	*	
+
+"	
+She	
+may	
+have	
+loved	
+him	
+,	
+but	
+she	
+also	
+needed	
+someone	
+to	
+take	
+care	
+of	
+her	
+.	
+"	
+
+At	
+first	
+,	
+says	
+Peterson	
+,	
+he	
+pampered	
+his	
+young	
+wife	
+.	
+
+"	
+If	
+Stacy	
+wanted	
+anything	
+,	
+she	
+got	
+it	
+,	
+"	
+he	
+claims	
+.	
+
+"	
+Breast	
+implants	
+,	
+a	
+tummy	
+tuck	
+,	
+Lasik	
+,	
+braces	
+,	
+hair	
+removal	
+,	
+everything	
+.	
+"	
+
+Their	*	
+relationship	*	
+changed	*	
+,	*	
+he	*	
+says	*	
+,	*	
+after	*	
+Stacy	(sibling_relationship:person*)	
+'s	*	
+sister	*	
+Tina	(sibling_relationship:person*)	
+died	*	
+of	*	
+cancer	*	
+in	*	
+2006	*	
+.	*	
+
+Stacy	
+started	
+taking	
+"	
+mood-altering	
+medication	
+,	
+"	
+he	
+says	
+,	
+"	
+and	
+began	
+having	
+big	
+mood	
+swings	
+.	
+
+It	
+became	
+an	
+emotional	
+roller	
+coaster	
+.	
+
+She	
+'d	
+be	
+snapping	
+at	
+the	
+kids	
+one	
+minute	
+and	
+loving	
+them	
+the	
+next	
+,	
+just	
+like	
+with	
+me	
+.	
+"	
+
+Stacy	(sibling_relationship:person*)	
+'s	*	
+sister	*	
+Cassandra	(sibling_relationship:person*	
+Cales	*)	
+,	*	
+22	*	
+,	*	
+says	*	
+Stacy	*	
+was	*	
+taking	*	
+antidepressants	*	
+,	*	
+but	*	
+that	*	
+"	*	
+she	*	
+was	*	
+on	*	
+the	*	
+drugs	*	
+because	*	
+of	*	
+him	*	
+and	*	
+the	*	
+way	*	
+he	*	
+treated	*	
+her	*	
+.	*	
+
+She	
+was	
+trying	
+to	
+stay	
+together	
+for	
+the	
+kids	
+.	
+
+She	
+did	
+n't	
+want	
+what	
+happened	
+to	
+us	
+,	
+with	
+our	
+mom	
+,	
+to	
+happen	
+to	
+those	
+kids	
+.	
+"	
+
+Friends	
+and	
+relatives	
+interviewed	
+by	
+PEOPLE	
+say	
+Stacy	
+had	
+told	
+Peterson	
+that	
+she	
+wanted	
+a	
+divorce	
+.	
+
+On	
+top	
+of	
+caring	
+for	
+her	
+two	
+children	
+,	
+she	
+was	
+attending	
+nursing	
+classes	
+two	
+days	
+a	
+week	
+because	
+"	
+she	
+was	
+planning	
+to	
+leave	
+Drew	
+,	
+"	
+says	
+her	
+friend	
+Cheryl	
+.	
+
+"	
+She	
+said	
+,	
+'	
+I	
+need	
+to	
+take	
+care	
+of	
+myself	
+.	
+'	
+"	
+
+Peterson	*	
+insists	*	
+Stacy	(marriage:person*)	
+'s	*	
+demands	*	
+to	*	
+divorce	*	
+him	(marriage:person*)	
+were	*	
+n't	*	
+genuine	*	
+,	*	
+and	*	
+he	*	
+even	*	
+says	*	
+she	*	
+would	*	
+only	*	
+talk	*	
+about	*	
+divorce	*	
+when	*	
+she	*	
+was	*	
+premenstrual	*	
+.	*	
+
+"	
+That	
+was	
+a	
+reality	
+,	
+"	
+he	
+says	
+.	
+
+"	
+If	
+she	
+was	
+PMSing	
+,	
+hungry	
+or	
+tired	
+,	
+her	
+emotions	
+were	
+high	
+.	
+"	
+
+On	
+Oct.	
+26	
+Stacy	
+called	
+her	
+friend	
+Pamela	
+Bosco	
+and	
+"	
+said	
+she	
+was	
+looking	
+to	
+rent	
+my	
+rental	
+property	
+;	
+she	
+said	
+she	
+was	
+looking	
+to	
+move	
+out	
+with	
+her	
+children	
+,	
+"	
+says	
+Bosco	
+,	
+who	
+is	
+now	
+the	
+official	
+spokeswoman	
+for	
+Stacy	
+'s	
+family	
+.	
+
+"	
+She	
+said	
+her	
+husband	
+was	
+acting	
+a	
+little	
+unusual	
+.	
+"	
+
+The	*	
+next	*	
+night	*	
+,	*	
+Stacy	(sibling_relationship:person*)	
+'s	*	
+sister	*	
+Cassandra	(sibling_relationship:person*)	
+dropped	*	
+by	*	
+for	*	
+a	*	
+visit	*	
+;	*	
+that	*	
+was	*	
+the	*	
+last	*	
+time	*	
+anyone	*	
+other	*	
+than	*	
+Peterson	*	
+is	*	
+known	*	
+to	*	
+have	*	
+had	*	
+any	*	
+contact	*	
+with	*	
+Stacy	*	
+.	*	
+
+Peterson	
+says	
+he	
+got	
+off	
+work	
+at	
+4	
+a.m.	
+on	
+Oct.	
+28	
+and	
+got	
+in	
+bed	
+beside	
+his	
+wife	
+;	
+around	
+9	
+a.m.	
+he	
+spoke	
+briefly	
+with	
+her	
+after	
+their	
+children	
+jumped	
+in	
+their	
+bed	
+.	
+
+"	
+I	
+went	
+back	
+to	
+sleep	
+,	
+"	
+says	
+Peterson	
+,	
+"	
+and	
+when	
+I	
+woke	
+up	
+,	
+she	
+was	
+gone	
+.	
+"	
+
+Peterson	
+'s	
+friend	
+Ric	
+Mims	
+says	
+he	
+talked	
+with	
+Peterson	
+after	
+Stacy	
+disappeared	
+.	
+
+"	
+He	
+said	
+Stacy	
+had	
+met	
+someone	
+else	
+she	
+wanted	
+to	
+be	
+with	
+,	
+"	
+says	
+Mims	
+.	
+
+"	
+He	
+thought	
+she	
+was	
+seeing	
+about	
+four	
+or	
+five	
+different	
+guys	
+.	
+
+I	
+said	
+,	
+'	
+That	
+'s	
+karma	
+,	
+man	
+,	
+because	
+you	
+'ve	
+cheated	
+on	
+all	
+your	
+other	
+wives	
+.	
+'	
+"	
+
+On	
+Nov.	
+9	
+police	
+officially	
+named	
+Peterson	
+a	
+suspect	
+in	
+his	
+wife	
+'s	
+disappearance	
+and	
+labeled	
+it	
+a	
+"	
+possible	
+homicide	
+.	
+"	
+
+Peterson	
+,	
+who	
+last	
+week	
+retired	
+after	
+29	
+years	
+with	
+the	
+Bolingbrook	
+Police	
+Department	
+,	
+says	
+,	
+"	
+I	
+believe	
+the	
+state	
+'s	
+attorney	
+and	
+the	
+cops	
+will	
+be	
+under	
+scrutiny	
+if	
+they	
+do	
+n't	
+arrest	
+me	
+,	
+so	
+I	
+'m	
+prepared	
+for	
+it	
+.	
+"	
+
+For	*	*	*	
+the	*	*	*	
+moment	*	*	*	
+,	*	*	*	
+he	*	*	*	
+has	*	*	*	
+custody	*	*	*	
+of	*	*	*	
+his	*	(person_parent:parent*)	*	
+four	*	*	*	
+youngest	*	*	*	
+children	*	*	*	
+—	*	*	*	
+the	*	*	*	
+two	*	*	*	
+teenage	*	*	*	
+boys	*	*	*	
+he	*	*	*	
+had	*	*	*	
+with	*	*	*	
+Savio	*	*	*	
+,	*	*	*	
+and	*	*	*	
+little	*	*	*	
+Lacy	*	(person_parent:person*)	(sibling_relationship:person*)	
+and	*	*	*	
+Anthony	*	(person_parent:person*)	(sibling_relationship:person*)	
+—	*	*	*	
+and	*	*	*	
+is	*	*	*	
+caring	*	*	*	
+for	*	*	*	
+them	*	*	*	
+in	*	*	*	
+his	*	*	*	
+home	*	*	*	
+with	*	*	*	
+the	*	*	*	
+help	*	*	*	
+of	*	*	*	
+his	(sibling_relationship:person*)	*	*	
+brother	*	*	*	
+Paul	(sibling_relationship:person*)	*	*	
+.	*	*	*	
+
+His	
+focus	
+,	
+he	
+says	
+,	
+is	
+on	
+shielding	
+his	
+kids	
+—	
+and	
+himself	
+—	
+from	
+the	
+media	
+scrutiny	
+that	
+now	
+defines	
+their	
+lives	
+.	
+
+"	
+We	
+'re	
+under	
+a	
+magnifying	
+glass	
+,	
+"	
+he	
+says	
+.	
+
+"	
+I	
+'m	
+not	
+a	
+perfect	
+man	
+by	
+any	
+means	
+,	
+but	
+nobody	
+is	
+.	
+
+And	
+you	
+'re	
+only	
+seeing	
+my	
+dirty	
+laundry	
+.	
+
+You	
+do	
+n't	
+see	
+all	
+the	
+positive	
+things	
+I	
+'ve	
+done	
+.	
+"	
+
+Meanwhile	
+the	
+search	
+for	
+Stacy	
+continues	
+.	
+
+On	
+Nov.	
+17	
+some	
+130	
+volunteers	
+spent	
+five	
+hours	
+combing	
+the	
+woods	
+near	
+her	
+home	
+in	
+Bolingbrook	
+.	
+
+That	
+same	
+day	
+around	
+100	
+people	
+marched	
+the	
+few	
+blocks	
+from	
+the	
+two-story	
+home	
+where	
+Kathleen	
+Savio	
+once	
+lived	
+to	
+Stacy	
+'s	
+house	
+.	
+
+The	
+skies	
+darkened	
+,	
+and	
+a	
+cold	
+rain	
+came	
+,	
+and	
+the	
+marchers	
+shivered	
+as	
+they	
+clutched	
+small	
+candles	
+and	
+held	
+up	
+signs	
+in	
+their	
+solemn	
+vigil	
+.	
+
+"	
+I	
+'m	
+just	
+praying	
+Stacy	
+will	
+be	
+found	
+,	
+and	
+that	
+somehow	
+she	
+'ll	
+be	
+alive	
+,	
+"	
+says	
+her	
+friend	
+Cheryl	
+.	
+
+"	
+There	
+'s	
+always	
+that	
+hope	
+and	
+that	
+'s	
+my	
+prayer	
+.	
+
+But	
+we	
+do	
+n't	
+always	
+get	
+what	
+we	
+want	
+.	
+"	
+

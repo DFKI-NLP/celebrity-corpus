@@ -1,0 +1,2634 @@
+The	
+Rock	
+Store	
+,	
+a	
+popular	
+biker	
+hangout	
+30	
+miles	
+northwest	
+of	
+Los	
+Angeles	
+,	
+probably	
+would	
+n't	
+be	
+most	
+people	
+'s	
+idea	
+of	
+a	
+family	
+eatery	
+.	
+
+But	*	
+nearly	*	
+every	*	
+Sunday	*	
+morning	*	
+for	*	
+the	*	
+past	*	
+year	*	
+actor	*	
+Robert	*	
+Blake	*	
+brought	*	
+his	(person_parent:parent*)	
+young	*	
+daughter	*	
+Rose	(person_parent:person*)	
+in	*	
+for	*	
+breakfast	*	
+.	*	
+
+Almost	
+always	
+dressed	
+in	
+pink	
+,	
+Rose	
+—	
+who	
+will	
+turn	
+2	
+in	
+June	
+—	
+charmed	
+the	
+staff	
+,	
+who	
+could	
+see	
+how	
+tenderly	
+the	
+supposed	
+tough-guy	
+Blake	
+treated	
+the	
+toddler	
+,	
+cooing	
+and	
+baby-talking	
+to	
+her	
+and	
+wiping	
+her	
+face	
+with	
+a	
+wet	
+napkin	
+at	
+the	
+end	
+of	
+the	
+meal	
+.	
+
+"	*	
+At	*	
+one	*	
+time	*	
+[	*	
+in	*	
+his	*	
+life	*	
+]	*	
+he	*	
+was	*	
+really	*	
+wild	*	
+,	*	
+"	*	
+says	*	
+Veronica	*	
+Savko	*	
+,	*	
+who	*	
+owns	*	
+the	*	
+Rock	*	
+Store	*	
+with	*	
+her	(marriage:person*)	
+husband	*	
+,	*	
+Ed	(marriage:person*)	
+,	*	
+and	*	
+has	*	
+known	*	
+Blake	*	
+for	*	
+25	*	
+years	*	
+.	*	
+
+"	
+I	
+think	
+,	
+for	
+whatever	
+reason	
+,	
+Bobby	
+just	
+needed	
+love	
+.	
+"	
+
+At	
+the	
+moment	
+,	
+a	
+few	
+legal	
+breaks	
+would	
+n't	
+hurt	
+either	
+.	
+
+One	*	
+year	*	
+after	*	
+his	(marriage:person*)	
+wife	*	
+,	*	
+Bonny	(marriage:person*	
+Bakley	*)	
+,	*	
+44	*	
+,	*	
+was	*	
+found	*	
+shot	*	
+to	*	
+death	*	
+on	*	
+a	*	
+street	*	
+in	*	
+suburban	*	
+Los	*	
+Angeles	*	
+minutes	*	
+after	*	
+having	*	
+dinner	*	
+with	*	
+Blake	*	
+,	*	
+the	*	
+former	*	
+Baretta	*	
+star	*	
+now	*	
+stands	*	
+accused	*	
+of	*	
+being	*	
+the	*	
+killer	*	
+.	*	
+
+In	
+announcing	
+the	
+arrest	
+of	
+Blake	
+,	
+68	
+,	
+along	
+with	
+his	
+handyman-cum-assistant	
+Earle	
+Caldwell	
+,	
+46	
+,	
+who	
+was	
+charged	
+with	
+conspiracy	
+in	
+the	
+murder	
+,	
+L.A.	
+police	
+asserted	
+that	
+investigators	
+had	
+uncovered	
+more	
+than	
+enough	
+physical	
+and	
+circumstantial	
+evidence	
+to	
+make	
+the	
+case	
+stick	
+in	
+court	
+.	
+
+Underscoring	
+their	
+confidence	
+,	
+prosecutors	
+charged	
+Blake	
+with	
+murder	
+with	
+special	
+circumstances	
+,	
+in	
+this	
+instance	
+"	
+lying	
+in	
+wait	
+"	
+to	
+murder	
+Bakley	
+,	
+meaning	
+that	
+he	
+could	
+face	
+the	
+death	
+penalty	
+.	
+
+"	
+This	
+was	
+a	
+hit	
+by	
+a	
+husband	
+,	
+"	
+said	
+LAPD	
+Capt.	
+Jim	
+Tatreau	
+,	
+who	
+supervised	
+the	
+investigation	
+.	
+
+Ever	
+since	
+the	
+night	
+of	
+the	
+murder	
+,	
+Blake	
+—	
+for	
+whom	
+even	
+the	
+twilight	
+of	
+stardom	
+seemed	
+to	
+have	
+faded	
+—	
+was	
+the	
+subject	
+of	
+much	
+lurid	
+speculation	
+and	
+suspicion	
+.	
+
+But	
+almost	
+none	
+of	
+it	
+could	
+rival	
+the	
+noirish	
+ingredients	
+contained	
+in	
+the	
+court	
+documents	
+.	
+
+Prosecutors	
+say	
+that	
+Blake	
+had	
+been	
+plotting	
+his	
+wife	
+'s	
+killing	
+for	
+months	
+,	
+simply	
+because	
+,	
+as	
+one	
+police	
+official	
+put	
+it	
+,	
+"	
+he	
+was	
+trapped	
+in	
+a	
+marriage	
+he	
+wanted	
+no	
+part	
+of	
+.	
+"	
+
+According	
+to	
+the	
+official	
+felony	
+complaint	
+,	
+he	
+tried	
+repeatedly	
+to	
+line	
+up	
+men	
+—	
+one	
+of	
+them	
+a	
+Hollywood	
+stunt	
+performer	
+—	
+to	
+do	
+the	
+job	
+for	
+him	
+,	
+offering	
+to	
+supply	
+them	
+with	
+an	
+untraceable	
+weapon	
+,	
+directing	
+them	
+to	
+possible	
+murder	
+sites	
+in	
+Arizona	
+and	
+California	
+and	
+instructing	
+them	
+to	
+shoot	
+Bakley	
+in	
+the	
+desert	
+,	
+and	
+then	
+bury	
+her	
+in	
+a	
+grave	
+Caldwell	
+would	
+have	
+already	
+prepared	
+.	
+
+When	
+those	
+efforts	
+fell	
+through	
+,	
+say	
+court	
+papers	
+,	
+Blake	
+finally	
+decided	
+to	
+handle	
+it	
+on	
+his	
+own	
+,	
+shooting	
+Bakley	
+—	
+a	
+veteran	
+con	
+artist	
+who	
+fleeced	
+men	
+through	
+lonely	
+hearts	
+magazine	
+ads	
+—	
+in	
+the	
+head	
+as	
+she	
+sat	
+in	
+his	
+Dodge	
+Stealth	
+near	
+Vitello	
+'s	
+restaurant	
+in	
+Studio	
+City	
+on	
+May	
+4	
+,	
+2001	
+.	
+
+(	
+In	
+one	
+eerie	
+echo	
+,	
+the	
+pilot	
+of	
+the	
+1975-78	
+Baretta	
+series	
+had	
+Blake	
+'s	
+fictional	
+fiancée	
+being	
+bumped	
+off	
+in	
+front	
+of	
+an	
+Italian	
+restaurant	
+.	
+)	
+
+The	
+charges	
+came	
+as	
+little	
+surprise	
+to	
+Bakley	
+'s	
+family	
+,	
+who	
+had	
+all	
+along	
+loudly	
+voiced	
+their	
+certainty	
+that	
+Blake	
+was	
+the	
+triggerman	
+.	
+
+Bonny	(sibling_relationship:person*)	*	
+'s	*	*	
+sister	*	*	
+Margerry	(sibling_relationship:person*)	*	
+told	*	*	
+PEOPLE	*	*	
+that	*	*	
+her	*	*	
+sister	*	*	
+had	*	*	
+long	*	*	
+feared	*	*	
+that	*	*	
+Blake	*	*	
+—	*	*	
+who	*	*	
+felt	*	*	
+he	*	(marriage:person*)	
+'d	*	*	
+been	*	*	
+trapped	*	*	
+into	*	*	
+marrying	*	*	
+Bakley	*	(marriage:person*)	
+—	*	*	
+would	*	*	
+kill	*	*	
+her	*	*	
+.	*	*	
+
+Still	
+,	
+with	
+criticism	
+of	
+their	
+methods	
+in	
+the	
+O.J.	
+Simpson	
+case	
+still	
+stinging	
+,	
+L.A.	
+cops	
+wanted	
+to	
+take	
+it	
+slow	
+.	
+
+At	
+a	
+press	
+conference	
+after	
+Blake	
+'s	
+arrest	
+,	
+outgoing	
+Police	
+Chief	
+Bernard	
+Parks	
+stressed	
+that	
+investigators	
+had	
+interviewed	
+150	
+witnesses	
+and	
+traveled	
+to	
+20	
+states	
+running	
+down	
+clues	
+.	
+
+Their	
+wariness	
+was	
+especially	
+evident	
+in	
+the	
+way	
+police	
+handled	
+Blake	
+'s	
+arrest	
+.	
+
+Shortly	
+before	
+6	
+p.m.	
+on	
+April	
+18	
+,	
+a	
+caravan	
+of	
+nearly	
+a	
+dozen	
+police	
+vehicles	
+rolled	
+into	
+Hidden	
+Hills	
+,	
+the	
+gated	
+community	
+where	
+Blake	
+has	
+been	
+living	
+with	
+Rose	
+since	
+January	
+.	
+
+The	
+actor	
+had	
+been	
+given	
+about	
+15	
+minutes	
+'	
+notice	
+that	
+he	
+was	
+about	
+to	
+be	
+taken	
+into	
+custody	
+.	
+
+At	*	*	
+his	*	*	
+request	*	*	
+,	*	*	
+police	*	*	
+agreed	*	*	
+to	*	*	
+wait	*	*	
+until	*	*	
+his	(person_parent:parent*)	(marriage:person*)	
+older	*	*	
+daughter	*	*	
+Delinah	(person_parent:person*)	*	
+,	*	*	
+35	*	*	
+,	*	*	
+by	*	*	
+first	*	*	
+wife	*	*	
+Sondra	(person_parent:parent*	(marriage:person*	
+Blake	*)	*)	
+,	*	*	
+arrived	*	*	
+to	*	*	
+care	*	*	
+for	*	*	
+Rose	*	*	
+,	*	*	
+who	*	*	
+was	*	*	
+in	*	*	
+the	*	*	
+house	*	*	
+with	*	*	
+her	*	*	
+father	*	*	
+and	*	*	
+her	*	*	
+full-time	*	*	
+nanny	*	*	
+at	*	*	
+the	*	*	
+time	*	*	
+of	*	*	
+the	*	*	
+arrest	*	*	
+.	*	*	
+
+Blake	
+was	
+later	
+transferred	
+to	
+the	
+hospital	
+ward	
+of	
+the	
+L.A.	
+County	
+Jail	
+,	
+where	
+high-profile	
+detainees	
+can	
+be	
+kept	
+away	
+from	
+other	
+inmates	
+.	
+
+At	
+his	
+arraignment	
+on	
+April	
+22	
+,	
+Blake	
+,	
+who	
+,	
+like	
+Caldwell	
+,	
+has	
+pleaded	
+not	
+guilty	
+,	
+was	
+held	
+without	
+bail	
+,	
+with	
+no	
+timetable	
+for	
+a	
+trial	
+.	
+
+"	
+He	
+is	
+very	
+philosophical	
+,	
+"	
+says	
+his	
+lawyer	
+Harland	
+Braun	
+.	
+
+"	
+Being	
+in	
+custody	
+is	
+not	
+the	
+worst	
+thing	
+that	
+has	
+ever	
+happened	
+to	
+him	
+.	
+"	
+
+Perhaps	
+not	
+,	
+but	
+he	
+may	
+be	
+looking	
+at	
+substantial	
+time	
+behind	
+bars	
+.	
+
+According	
+to	
+cops	
+and	
+several	
+press	
+reports	
+,	
+police	
+have	
+linked	
+a	
+World	
+War	
+II-era	
+handgun	
+found	
+in	
+a	
+large	
+trash	
+bin	
+at	
+the	
+murder	
+site	
+to	
+the	
+shooting	
+.	
+
+Several	
+news	
+reports	
+go	
+further	
+,	
+linking	
+a	
+box	
+of	
+bullets	
+found	
+in	
+Blake	
+'s	
+home	
+to	
+those	
+found	
+at	
+the	
+scene	
+.	
+
+In	
+the	
+court	
+papers	
+,	
+police	
+maintain	
+that	
+Caldwell	
+supplied	
+the	
+weapon	
+to	
+Blake	
+.	
+
+But	
+Braun	
+argues	
+that	
+the	
+handgun	
+is	
+nothing	
+more	
+than	
+a	
+red	
+herring	
+.	
+
+He	
+points	
+out	
+that	
+it	
+was	
+not	
+discovered	
+until	
+a	
+day	
+after	
+the	
+crime	
+and	
+questions	
+whether	
+police	
+can	
+tie	
+it	
+to	
+Blake	
+.	
+
+Authorities	
+have	
+also	
+evidently	
+been	
+picking	
+apart	
+Blake	
+'s	
+statement	
+to	
+them	
+the	
+night	
+of	
+the	
+murder	
+.	
+
+Blake	
+'s	
+story	
+has	
+long	
+been	
+that	
+after	
+dinner	
+he	
+and	
+Bakley	
+had	
+walked	
+a	
+block	
+and	
+a	
+half	
+to	
+his	
+car	
+when	
+he	
+suddenly	
+realized	
+that	
+he	
+had	
+left	
+his	
+own	
+handgun	
+,	
+a	
+.38	
+-	
+cal	
+.	
+
+that	
+he	
+was	
+licensed	
+to	
+carry	
+,	
+back	
+at	
+Vitello	
+'s	
+.	
+
+Leaving	
+her	
+in	
+the	
+car	
+,	
+Blake	
+said	
+he	
+went	
+back	
+to	
+the	
+restaurant	
+,	
+got	
+the	
+gun	
+and	
+returned	
+to	
+the	
+scene	
+to	
+find	
+a	
+bloody	
+and	
+dying	
+Bakley	
+inside	
+the	
+vehicle	
+.	
+
+Investigators	
+have	
+reportedly	
+focused	
+on	
+several	
+aspects	
+of	
+Blake	
+'s	
+behavior	
+that	
+night	
+.	
+
+For	
+one	
+thing	
+,	
+they	
+wonder	
+why	
+he	
+parked	
+in	
+a	
+dimly	
+lit	
+area	
+behind	
+a	
+truck-size	
+trash	
+bin	
+next	
+to	
+a	
+construction	
+site	
+.	
+
+So	
+far	
+,	
+though	
+,	
+it	
+is	
+unclear	
+whether	
+there	
+are	
+any	
+outright	
+inconsistencies	
+in	
+Blake	
+'s	
+statement	
+.	
+
+"	
+There	
+should	
+be	
+no	
+glaring	
+holes	
+in	
+his	
+story	
+,	
+"	
+says	
+one	
+LAPD	
+source	
+.	
+
+"	
+His	
+comments	
+to	
+different	
+officers	
+and	
+detectives	
+have	
+to	
+match	
+.	
+"	
+
+According	
+to	
+the	
+charges	
+filed	
+,	
+Blake	
+approached	
+Caldwell	
+,	
+who	
+served	
+as	
+a	
+chauffeur	
+,	
+bodyguard	
+and	
+handyman	
+for	
+the	
+actor	
+,	
+several	
+months	
+before	
+the	
+killing	
+to	
+ask	
+for	
+his	
+help	
+.	
+
+Caldwell	
+then	
+allegedly	
+began	
+keeping	
+a	
+shopping	
+list	
+of	
+items	
+that	
+might	
+be	
+needed	
+for	
+disposing	
+of	
+a	
+body	
+,	
+including	
+two	
+shovels	
+,	
+a	
+sledgehammer	
+,	
+old	
+rugs	
+,	
+duct	
+tape	
+,	
+Drano	
+,	
+lye	
+and	
+pool	
+acid	
+.	
+
+In	
+one	
+cryptic	
+passage	
+in	
+the	
+complaint	
+,	
+Caldwell	
+is	
+alleged	
+to	
+have	
+tried	
+to	
+ambush	
+Bakley	
+,	
+jumping	
+out	
+of	
+some	
+bushes	
+and	
+brandishing	
+a	
+gun	
+,	
+while	
+she	
+and	
+Blake	
+walked	
+along	
+a	
+river	
+during	
+a	
+vacation	
+last	
+April	
+.	
+
+The	
+assumption	
+by	
+Braun	
+and	
+other	
+legal	
+experts	
+is	
+that	
+by	
+charging	
+Caldwell	
+,	
+who	
+police	
+acknowledge	
+was	
+not	
+even	
+in	
+Los	
+Angeles	
+on	
+the	
+night	
+of	
+the	
+murder	
+,	
+prosecutors	
+are	
+hoping	
+he	
+will	
+provide	
+evidence	
+against	
+Blake	
+in	
+return	
+for	
+leniency	
+.	
+
+It	
+is	
+known	
+that	
+Blake	
+submitted	
+to	
+gunpowder	
+testing	
+on	
+the	
+night	
+of	
+the	
+killing	
+.	
+
+The	
+results	
+have	
+never	
+been	
+disclosed	
+,	
+and	
+one	
+L.A.	
+criminal	
+attorney	
+suggests	
+that	
+winning	
+a	
+conviction	
+may	
+be	
+more	
+difficult	
+if	
+no	
+traces	
+were	
+found	
+—	
+good	
+news	
+for	
+Blake	
+,	
+whose	
+lawyers	
+insist	
+that	
+if	
+gunpowder	
+had	
+turned	
+up	
+,	
+the	
+actor	
+would	
+surely	
+have	
+been	
+arrested	
+immediately	
+.	
+
+All	
+in	
+all	
+,	
+concedes	
+one	
+LAPD	
+homicide	
+detective	
+,	
+the	
+physical	
+evidence	
+may	
+not	
+be	
+quite	
+as	
+airtight	
+as	
+investigators	
+would	
+like	
+.	
+
+"	
+It	
+'s	
+a	
+circumstantial	
+case	
+,	
+"	
+he	
+says	
+.	
+
+Which	
+may	
+place	
+a	
+considerable	
+burden	
+elsewhere	
+,	
+namely	
+on	
+the	
+two	
+men	
+who	
+,	
+according	
+to	
+the	
+complaint	
+,	
+Blake	
+tried	
+to	
+recruit	
+to	
+kill	
+Bakley	
+for	
+him	
+.	
+
+The	
+court	
+papers	
+do	
+not	
+name	
+the	
+men	
+,	
+who	
+are	
+cooperating	
+with	
+police	
+,	
+but	
+one	
+of	
+them	
+appears	
+to	
+have	
+been	
+Gary	
+McLarty	
+,	
+61	
+,	
+a	
+well-known	
+Hollywood	
+stuntman	
+who	
+met	
+Blake	
+when	
+they	
+worked	
+on	
+the	
+1980	
+movie	
+Coast	
+to	
+Coast	
+.	
+
+McLarty	*	
+was	*	
+n't	*	
+talking	*	
+last	*	
+week	*	
+,	*	
+but	*	
+his	(person_parent:parent*)	
+son	*	
+Cole	(person_parent:person*)	
+,	*	
+29	*	
+,	*	
+also	*	
+a	*	
+stuntman	*	
+,	*	
+says	*	
+his	*	
+father	*	
+met	*	
+at	*	
+a	*	
+restaurant	*	
+in	*	
+the	*	
+San	*	
+Fernando	*	
+Valley	*	
+with	*	
+Blake	*	
+,	*	
+who	*	
+"	*	
+proposed	*	
+money	*	
+or	*	
+something	*	
+for	*	
+my	*	
+dad	*	
+to	*	
+do	*	
+something	*	
+to	*	
+his	*	
+wife	*	
+...	*	
+He	*	
+just	*	
+left	*	
+it	*	
+at	*	
+that	*	
+.	*	
+"	*	
+
+His	
+father	
+,	
+adds	
+Cole	
+,	
+did	
+n't	
+take	
+the	
+offer	
+seriously	
+:	
+"	
+He	
+just	
+walked	
+out	
+and	
+thought	
+that	
+[	
+Blake	
+]	
+was	
+crazy	
+.	
+"	
+
+Cole	
+says	
+that	
+investigators	
+learned	
+of	
+his	
+father	
+'s	
+alleged	
+involvement	
+by	
+tracing	
+Blake	
+'s	
+phone	
+calls	
+.	
+
+But	
+Braun	
+,	
+for	
+one	
+,	
+maintains	
+he	
+is	
+not	
+overly	
+concerned	
+.	
+
+"	
+It	
+'s	
+totally	
+fabricated	
+,	
+or	
+maybe	
+Robert	
+was	
+bemoaning	
+[	
+Bonny	
+]	
+and	
+said	
+something	
+like	
+,	
+'	
+I	
+could	
+kill	
+the	
+bitch	
+,	
+'	
+"	
+he	
+says	
+.	
+
+"	
+Being	
+Hollywood	
+,	
+these	
+things	
+get	
+exaggerated	
+.	
+"	
+
+Were	
+it	
+not	
+for	
+Hollywood	
+,	
+Blake	
+would	
+likely	
+not	
+be	
+in	
+this	
+trouble	
+.	
+
+Born	
+Michael	
+Gubitosi	
+in	
+Nutley	
+,	
+N.J.	
+,	
+in	
+1933	
+,	
+Blake	
+was	
+the	
+onetime	
+child	
+star	
+of	
+abusive	
+parents	
+who	
+he	
+claimed	
+locked	
+him	
+in	
+a	
+closet	
+and	
+"	
+made	
+me	
+eat	
+on	
+the	
+floor	
+like	
+a	
+dog	
+.	
+"	
+
+He	
+became	
+an	
+adult	
+star	
+with	
+his	
+portrayal	
+of	
+the	
+sensitive	
+killer	
+Perry	
+Smith	
+in	
+1967	
+'s	
+In	
+Cold	
+Blood	
+and	
+then	
+went	
+on	
+to	
+lasting	
+fame	
+as	
+Baretta	
+,	
+a	
+street-tough	
+detective	
+who	
+lived	
+with	
+a	
+cockatoo	
+named	
+Fred	
+.	
+
+But	
+Blake	
+remained	
+a	
+Hollywood	
+hard	
+case	
+,	
+a	
+man	
+whose	
+volatile	
+temper	
+and	
+demands	
+tested	
+the	
+patience	
+of	
+those	
+who	
+cared	
+for	
+him	
+.	
+
+"	
+Complex	
+does	
+n't	
+even	
+begin	
+to	
+capture	
+his	
+personality	
+,	
+"	
+says	
+Baretta	
+creator	
+Stephen	
+J.	
+Cannell	
+,	
+who	
+has	
+had	
+an	
+on-and-off	
+friendship	
+with	
+Blake	
+.	
+
+"	
+If	
+you	
+were	
+in	
+business	
+with	
+him	
+,	
+you	
+just	
+had	
+to	
+strap	
+in	
+really	
+tight	
+,	
+because	
+you	
+were	
+going	
+to	
+get	
+lurched	
+around	
+a	
+lot	
+.	
+"	
+
+The	
+acting	
+work	
+had	
+long	
+been	
+drying	
+up	
+for	
+Blake	
+when	
+he	
+encountered	
+Bakley	
+.	
+
+Even	
+Braun	
+freely	
+concedes	
+that	
+Blake	
+grew	
+to	
+despise	
+her	
+.	
+
+They	
+had	
+met	
+at	
+an	
+L.A.	
+jazz	
+club	
+in	
+1999	
+.	
+
+Soon	
+,	
+Bakley	
+—	
+a	
+New	
+Jersey	
+native	
+with	
+a	
+criminal	
+record	
+,	
+assorted	
+aliases	
+and	
+a	
+history	
+of	
+aggressively	
+targeting	
+celebrities	
+—	
+was	
+pregnant	
+.	
+
+Initially	*	*	*	
+she	*	*	*	
+told	*	*	*	
+Blake	*	*	*	
+the	*	*	*	
+baby	*	*	*	
+belonged	*	*	*	
+to	*	*	*	
+Marlon	(person_parent:parent*	*	*	
+Brando	*)	*	*	
+'s	*	*	*	
+son	*	*	*	
+Christian	(person_parent:person*)	*	*	
+,	*	*	*	
+but	*	*	*	
+a	*	*	*	
+paternity	*	*	*	
+test	*	*	*	
+later	*	*	*	
+established	*	*	*	
+that	*	*	*	
+Blake	*	(person_parent:parent*)	*	
+was	*	*	*	
+Rose	*	(person_parent:person*)	*	
+'s	*	*	*	
+father	*	*	*	
+and	*	*	*	
+Blake	*	*	(marriage:person*)	
+decided	*	*	*	
+to	*	*	*	
+wed	*	*	*	
+Bakley	*	*	(marriage:person*)	
+for	*	*	*	
+the	*	*	*	
+child	*	*	*	
+'s	*	*	*	
+sake	*	*	*	
+.	*	*	*	
+
+Their	*	
+custody	*	
+agreement	*	
+stipulated	*	
+that	*	
+in	*	
+return	*	
+for	*	
+marrying	*	
+Bakley	(marriage:person*)	
+,	*	
+he	(marriage:person*)	
+would	*	
+be	*	
+assured	*	
+of	*	
+participating	*	
+in	*	
+Rose	*	
+'s	*	
+upbringing	*	
+.	*	
+
+Still	
+,	
+he	
+and	
+Bakley	
+never	
+lived	
+together	
+.	
+
+Instead	
+he	
+remained	
+in	
+his	
+longtime	
+home	
+in	
+Studio	
+City	
+while	
+Bakley	
+took	
+up	
+residence	
+in	
+a	
+bungalow	
+on	
+the	
+property	
+.	
+
+The	
+actor	
+was	
+reportedly	
+furious	
+that	
+Bakley	
+,	
+who	
+had	
+been	
+involved	
+in	
+shady	
+dealings	
+for	
+years	
+,	
+was	
+still	
+working	
+a	
+lonely	
+hearts	
+scam	
+.	
+
+"	
+Look	
+what	
+she	
+did	
+to	
+him	
+,	
+"	
+says	
+Braun	
+,	
+whose	
+insistence	
+that	
+police	
+fully	
+explore	
+Bakley	
+'s	
+background	
+and	
+her	
+disgruntled	
+clients	
+for	
+the	
+killer	
+added	
+further	
+time	
+to	
+the	
+investigation	
+.	
+
+"	
+To	
+say	
+there	
+was	
+no	
+tension	
+is	
+absurd	
+,	
+but	
+that	
+does	
+n't	
+mean	
+he	
+killed	
+her	
+.	
+"	
+
+In	
+any	
+case	
+,	
+even	
+some	
+of	
+those	
+who	
+believe	
+Blake	
+guilty	
+—	
+including	
+the	
+Bakley	
+family	
+—	
+concede	
+that	
+his	
+resentment	
+never	
+extended	
+to	
+Rose	
+.	
+
+He	*	
+turned	*	
+the	*	
+house	*	
+in	*	
+Hidden	*	
+Hills	*	
+,	*	
+for	*	
+which	*	
+he	(person_parent:parent*)	
+paid	*	
+$	*	
+1.4	*	
+million	*	
+in	*	
+cash	*	
+two	*	
+years	*	
+ago	*	
+and	*	
+where	*	
+daughter	*	
+Delinah	(person_parent:person*)	
+lived	*	
+for	*	
+a	*	
+time	*	
+,	*	
+into	*	
+a	*	
+virtual	*	
+theme	*	
+park	*	
+for	*	
+the	*	
+youngster	*	
+.	*	
+
+To	
+the	
+consternation	
+of	
+neighbors	
+in	
+the	
+horsey	
+community	
+,	
+which	
+is	
+surrounded	
+by	
+riding	
+trails	
+,	
+he	
+put	
+up	
+two	
+swing	
+sets	
+and	
+a	
+playhouse	
+in	
+the	
+front	
+yard	
+.	
+
+Recently	
+he	
+had	
+installed	
+a	
+patio	
+,	
+complete	
+with	
+a	
+porch	
+swing	
+,	
+outside	
+his	
+front	
+door	
+so	
+that	
+he	
+could	
+relax	
+and	
+watch	
+Rose	
+at	
+play	
+.	
+
+Says	
+Scott	
+Ross	
+,	
+a	
+private	
+investigator	
+working	
+on	
+the	
+case	
+for	
+Braun	
+:	
+"	
+He	
+liked	
+to	
+sit	
+out	
+there	
+and	
+watch	
+the	
+world	
+go	
+by	
+.	
+"	
+
+Still	
+,	
+some	
+neighbors	
+contend	
+that	
+as	
+a	
+doting	
+father	
+there	
+was	
+less	
+to	
+Blake	
+than	
+met	
+the	
+eye	
+.	
+
+"	
+He	
+can	
+often	
+be	
+seen	
+outside	
+with	
+her	
+,	
+but	
+he	
+always	
+has	
+the	
+babysitter	
+with	
+him	
+,	
+"	
+says	
+one	
+Hidden	
+Hills	
+resident	
+.	
+
+"	
+Primarily	
+,	
+Rosie	
+'s	
+caretaker	
+is	
+the	
+babysitter	
+.	
+"	
+
+In	*	
+the	*	
+past	*	
+,	*	
+Bakley	(sibling_relationship:person*)	
+'s	*	
+sister	*	
+Margerry	(sibling_relationship:person*)	
+has	*	
+declared	*	
+that	*	
+she	*	
+might	*	
+seek	*	
+custody	*	
+of	*	
+Rose	*	
+.	*	
+
+But	
+in	
+the	
+aftermath	
+of	
+Blake	
+'s	
+arrest	
+she	
+backed	
+off	
+,	
+saying	
+she	
+was	
+satisfied	
+that	
+Delinah	
+,	
+who	
+is	
+a	
+college	
+instructor	
+,	
+was	
+doing	
+a	
+good	
+job	
+.	
+
+"	
+No	
+baby	
+should	
+be	
+raised	
+by	
+a	
+murderer	
+,	
+especially	
+the	
+murderer	
+of	
+her	
+mother	
+,	
+"	
+says	
+Margerry	
+,	
+41	
+,	
+a	
+homemaker	
+who	
+lives	
+outside	
+Knoxville	
+,	
+Tenn.	
+"	
+[	
+But	
+]	
+I	
+have	
+no	
+desire	
+to	
+tear	
+that	
+baby	
+from	
+the	
+woman	
+she	
+probably	
+knows	
+as	
+Mom	
+.	
+"	
+
+Braun	
+says	
+Rose	
+is	
+doing	
+fine	
+and	
+"	
+misses	
+her	
+dad	
+.	
+"	
+
+Meanwhile	
+,	
+at	
+the	
+Rock	
+Store	
+the	
+Savkos	
+miss	
+Blake	
+and	
+his	
+daughter	
+'s	
+weekly	
+visits	
+.	
+
+Proprietor	
+Veronica	
+would	
+like	
+to	
+believe	
+that	
+her	
+longtime	
+customer	
+is	
+innocent	
+.	
+
+She	
+says	
+that	
+three	
+weeks	
+after	
+the	
+murder	
+she	
+asked	
+him	
+point-blank	
+whether	
+his	
+conscience	
+was	
+bothering	
+him	
+.	
+
+He	
+said	
+no.	
+"	
+Then	
+I	
+said	
+,	
+'	
+Do	
+you	
+have	
+trouble	
+sleeping	
+at	
+night	
+?	
+'	
+"	
+
+she	
+recalls	
+.	
+
+"	
+He	
+said	
+no.	
+.	
+
+Whether	
+he	
+'s	
+guilty	
+or	
+not	
+,	
+I	
+do	
+n't	
+know	
+.	
+"	
+
+At	
+this	
+point	
+Blake	
+no	
+doubt	
+hopes	
+he	
+'ll	
+face	
+a	
+jury	
+just	
+as	
+open-minded	
+
+Bill	
+Hewitt	
+Lorenzo	
+Benet	
+,	
+Lyndon	
+Stambler	
+,	
+Alexis	
+Chiu	
+and	
+Johnny	
+Dodd	
+in	
+Los	
+Angeles	
+and	
+Kate	
+Klise	
+in	
+Memphis	
+
